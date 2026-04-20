@@ -1,0 +1,3 @@
+[14450:14450:0420/111858.198958:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[14450:14450:0420/111858.211707:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[14515:14515:0420/111905.428083:WARNING:frame_impl.cc(430)] SendProcessMessage sent to detached frame 5-938AB493574B386807C697E50066E7AA will be ignored
