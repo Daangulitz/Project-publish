@@ -1,16 +1,14 @@
-[4455:4455:0421/105820.953815:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4455:4455:0421/105821.115505:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.isEnabled: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
-[4455:4455:0421/105821.116577:ERROR:kwallet_dbus.cc(112)] Error contacting kwalletd6 (isEnabled)
-[4455:4455:0421/105821.116667:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KLauncher.start_service_by_desktop_name: object_path= /KLauncher: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
-[4455:4455:0421/105821.116679:ERROR:kwallet_dbus.cc(81)] Error contacting klauncher to start kwalletd6
-[4455:4455:0421/105821.116688:WARNING:key_storage_linux.cc(191)] OSCrypt tried KWallet but couldn't initialise.
-[4455:4455:0421/105821.202294:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.close: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
-[4455:4455:0421/105821.202316:ERROR:kwallet_dbus.cc(502)] Error contacting kwalletd6 (close)
-[4455:4455:0421/105821.207096:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[4455:4455:0421/105822.810132:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=256
-[4455:4455:0421/105822.810153:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
-[4455:4455:0421/105823.119004:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=256
-[4455:4455:0421/105823.119021:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 2 time(s)
-[4455:4455:0421/105823.320152:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=256
-[4455:4455:0421/105823.320204:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 3 time(s)
-[4455:4455:0421/105823.460551:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 0 ms
+[12808:26396:0421/135503.106:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12808:27088:0421/135503.169:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12808:26396:0421/135503.183:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12808:14908:0421/135507.180:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12808:14908:0421/135507.184:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[23720:31548:0421/135507.185:ERROR:block_files.cc(448)] Failed to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\Cache\Cache_Data\data_0
+[12808:14908:0421/135507.187:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12808:14908:0421/135507.189:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12808:27088:0421/135507.922:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12808:27088:0421/135507.934:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12808:30600:0421/135508.764:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25592:26164:0421/135509.537:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-85C68D003DDF5DB9E86CE8F82CF0D325 will be ignored
+[25256:24764:0421/135549.862:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-8446C4C85B8358606206C403AA154C37 will be ignored
+[12808:26396:0421/140102.403:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
