@@ -1,10 +1,25 @@
-[10543:10543:0420/111857.854020:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[10543:10543:0420/111858.356590:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.isEnabled: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
-[10543:10543:0420/111858.356647:ERROR:kwallet_dbus.cc(112)] Error contacting kwalletd6 (isEnabled)
-[10543:10543:0420/111858.356762:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KLauncher.start_service_by_desktop_name: object_path= /KLauncher: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
-[10543:10543:0420/111858.356790:ERROR:kwallet_dbus.cc(81)] Error contacting klauncher to start kwalletd6
-[10543:10543:0420/111858.356804:WARNING:key_storage_linux.cc(191)] OSCrypt tried KWallet but couldn't initialise.
-[10543:10543:0420/111858.545807:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.close: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
-[10543:10543:0420/111858.545848:ERROR:kwallet_dbus.cc(502)] Error contacting kwalletd6 (close)
-[10543:10543:0420/111858.559453:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[10543:10543:0420/112707.320013:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[19432:27476:0421/111057.643:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19432:25864:0421/111057.738:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19432:27476:0421/111057.807:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19432:25864:0421/111103.078:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19432:25864:0421/111103.081:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19432:25864:0421/111103.083:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19432:25864:0421/111103.086:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19432:25864:0421/111103.655:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19432:25864:0421/111103.658:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25684:26568:0421/111106.559:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0A43807CE97B2DC22DFF77AAFF568B88 will be ignored
+[19432:27476:0421/114127.026:ERROR:device_event_log_impl.cc(196)] [11:41:26.858] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19432:27476:0421/114127.026:ERROR:device_event_log_impl.cc(196)] [11:41:26.901] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[19432:27476:0421/114127.026:ERROR:device_event_log_impl.cc(196)] [11:41:26.907] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19432:27476:0421/114603.750:ERROR:device_event_log_impl.cc(196)] [11:46:03.685] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19432:27476:0421/114603.750:ERROR:device_event_log_impl.cc(196)] [11:46:03.731] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[19432:27476:0421/114603.751:ERROR:device_event_log_impl.cc(196)] [11:46:03.749] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19432:27476:0421/121711.115:ERROR:device_event_log_impl.cc(196)] [12:17:11.061] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19432:27476:0421/121714.791:ERROR:usb_descriptors.cc(122)] Failed to read configuration descriptor.
+[19432:27476:0421/121714.791:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 1, got 0.
+[19432:27476:0421/121714.792:ERROR:device_event_log_impl.cc(196)] [12:17:14.792] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_04e8&pid_6860#rfcw81hd6mx#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[19432:27476:0421/122010.339:ERROR:device_event_log_impl.cc(196)] [12:20:10.205] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19432:27476:0421/122010.339:ERROR:device_event_log_impl.cc(196)] [12:20:10.252] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[19432:27476:0421/122010.339:ERROR:device_event_log_impl.cc(196)] [12:20:10.259] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19432:27476:0421/131840.154:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19432:27476:0421/133139.059:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
