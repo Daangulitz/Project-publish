@@ -1,0 +1,26 @@
+[5680:22588:0423/094845.133:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5680:19248:0423/094845.176:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[5680:22588:0423/094845.186:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5680:19248:0423/094848.706:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5680:19248:0423/094848.710:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5680:19248:0423/094848.714:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5680:19248:0423/094848.717:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5680:12892:0423/094849.110:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5680:12892:0423/094849.112:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[5680:22588:0423/094851.075:ERROR:device_event_log_impl.cc(196)] [09:48:50.963] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[12044:17184:0423/094851.640:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3B44E760C335CDE9E11527F1A5471D1F will be ignored
+[19344:35060:0423/094851.647:ERROR:entry_impl.cc(1029)] No file for 80000032
+[19344:35060:0423/094851.983:ERROR:entry_impl.cc(1029)] No file for 80000033
+[19344:35060:0423/094851.983:ERROR:entry_impl.cc(1029)] No file for 80000035
+[19344:35060:0423/094851.983:ERROR:entry_impl.cc(1029)] No file for 80000034
+[19344:35060:0423/094851.983:ERROR:entry_impl.cc(1029)] No file for 80000037
+[19344:35060:0423/094851.983:ERROR:entry_impl.cc(1029)] No file for 80000036
+[19344:35060:0423/094851.983:ERROR:entry_impl.cc(1029)] No file for 80000038
+[19344:35060:0423/094851.984:ERROR:entry_impl.cc(1029)] No file for 80000039
+[19344:35060:0423/094851.984:ERROR:entry_impl.cc(1029)] No file for 8000003a
+[19344:35060:0423/094851.987:ERROR:entry_impl.cc(1029)] No file for 8000003b
+[19344:35060:0423/094851.987:ERROR:entry_impl.cc(1029)] No file for 8000003c
+[19344:35060:0423/094852.302:ERROR:entry_impl.cc(1029)] No file for 8000003f
+[19344:35060:0423/094853.364:ERROR:entry_impl.cc(1029)] No file for 80000041
+[19344:35060:0423/094853.364:ERROR:entry_impl.cc(1029)] No file for 80000042
+[5680:22588:0423/100254.211:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
