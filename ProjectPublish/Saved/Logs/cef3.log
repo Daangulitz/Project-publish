@@ -1,16 +1,11 @@
-<<<<<<< HEAD
-[1940:1940:0423/090318.466624:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[1940:1940:0423/090318.613794:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.isEnabled: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
-[1940:1940:0423/090318.613833:ERROR:kwallet_dbus.cc(112)] Error contacting kwalletd6 (isEnabled)
-[1940:1940:0423/090318.613897:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KLauncher.start_service_by_desktop_name: object_path= /KLauncher: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
-[1940:1940:0423/090318.613903:ERROR:kwallet_dbus.cc(81)] Error contacting klauncher to start kwalletd6
-[1940:1940:0423/090318.613909:WARNING:key_storage_linux.cc(191)] OSCrypt tried KWallet but couldn't initialise.
-[1940:1940:0423/090318.696277:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.close: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
-[1940:1940:0423/090318.696300:ERROR:kwallet_dbus.cc(502)] Error contacting kwalletd6 (close)
-[1940:1940:0423/090318.701272:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-=======
-[6335:6335:0421/152541.747540:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[6335:6335:0421/152541.801493:ERROR:process_singleton_posix.cc(353)] The profile appears to be in use by another Chromium process (4455) on another computer (DaanArchs). Chromium has locked the profile so that it doesn't get corrupted. If you are sure no other processes are using this profile, you can unlock the profile and relaunch Chromium.
-[6335:6335:0421/152541.801552:ERROR:message_box_dialog.cc(144)] Unable to show a dialog outside the UI thread message loop: Chromium - The profile appears to be in use by another Chromium process (4455) on another computer (DaanArchs). Chromium has locked the profile so that it doesn't get corrupted. If you are sure no other processes are using this profile, you can unlock the profile and relaunch Chromium.
-[6335:6335:0421/152541.811648:ERROR:main_runner.cc(122)] ContentMainRun failed with exit code 21
->>>>>>> origin/#1-Health-And-damage-
+[11371:11371:0423/104404.337726:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11371:11371:0423/104404.543868:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.isEnabled: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[11371:11371:0423/104404.543927:ERROR:kwallet_dbus.cc(112)] Error contacting kwalletd6 (isEnabled)
+[11371:11371:0423/104404.544000:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KLauncher.start_service_by_desktop_name: object_path= /KLauncher: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[11371:11371:0423/104404.544006:ERROR:kwallet_dbus.cc(81)] Error contacting klauncher to start kwalletd6
+[11371:11371:0423/104404.544013:WARNING:key_storage_linux.cc(191)] OSCrypt tried KWallet but couldn't initialise.
+[11371:11371:0423/104404.640640:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.close: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[11371:11371:0423/104404.640677:ERROR:kwallet_dbus.cc(502)] Error contacting kwalletd6 (close)
+[11371:11371:0423/104404.646910:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12529:12555:0423/104406.234234:ERROR:simple_version_upgrade.cc(170)] Disk cache backend fake index file has wrong magic number.
+[12529:12555:0423/104406.234516:ERROR:simple_backend_impl.cc(756)] Simple Cache Backend: wrong file structure on disk: 3 path: /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/webcache_6613/Default/Cache/Cache_Data

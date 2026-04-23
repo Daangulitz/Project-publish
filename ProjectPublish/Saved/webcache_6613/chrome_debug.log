@@ -13222,3 +13222,6 @@
 [2253:2253:0423/090320.241445:WARNING:frame_impl.cc(430)] SendProcessMessage sent to detached frame 5-F095C11B688E6FC656B80EC13B7254DC will be ignored
 =======
 >>>>>>> origin/#1-Health-And-damage-
+[12527:12527:0423/104404.455400:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[12527:12527:0423/104404.462728:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[12589:12589:0423/104406.965635:WARNING:frame_impl.cc(430)] SendProcessMessage sent to detached frame 5-C6D4BB94C0994FAA14166B8AE0B8F183 will be ignored
