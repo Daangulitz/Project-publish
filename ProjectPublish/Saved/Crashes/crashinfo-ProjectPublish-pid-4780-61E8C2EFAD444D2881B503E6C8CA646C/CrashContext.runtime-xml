@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<ExecutionGuid>8190F7C51F6C4D1DA6038C68FD46DFE9</ExecutionGuid>
+		<CrashGUID>UECC-Linux-2E5F4BD715684E0C902BCA2B9B9E863E_0000</CrashGUID>
+		<IsEnsure>false</IsEnsure>
+		<IsStall>false</IsStall>
+		<IsAssert>true</IsAssert>
+		<CrashType>Assert</CrashType>
+		<ErrorMessage>Assertion failed: FoundPackage [File:./Runtime/CoreUObject/Private/UObject/UObjectGlobals.cpp] [Line: 6705] 
+Code not found for generated code (package /Script/ChaosSolverEngine).
+</ErrorMessage>
+		<CrashReporterMessage />
+		<CrashReporterMessage>Attended</CrashReporterMessage>
+		<ProcessId>4780</ProcessId>
+		<SecondsSinceStart>0</SecondsSinceStart>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsWithDebugInfo>true</IsWithDebugInfo>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<GameName>UE-ProjectPublish</GameName>
+		<ExecutableName>UnrealEditor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>LinuxEditor</PlatformName>
+		<PlatformFullName>Linux [Arch Linux 6.19.12-arch1-1 64b]</PlatformFullName>
+		<PlatformNameIni>Linux</PlatformNameIni>
+		<EngineMode>Game</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>5.7.4-51494982+++UE5+Release-5.7</EngineVersion>
+		<EngineCompatibleVersion>5.7.4-51494982+++UE5+Release-5.7</EngineCompatibleVersion>
+		<CommandLine>../../../../../home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/ProjectPublish.uproject /Game/Daan/Main_Menu -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName=&quot;Play in Standalone Game&quot; -windowed -ResX=1280 -ResY=720</CommandLine>
+		<LanguageLCID>9</LanguageLCID>
+		<AppDefaultLocale>en_US</AppDefaultLocale>
+		<BuildVersion>++UE5+Release-5.7-CL-51494982</BuildVersion>
+		<Symbols>**UE5*Release-5.7-CL-51494982-Linux-Development</Symbols>
+		<IsUERelease>true</IsUERelease>
+		<IsRequestingExit>true</IsRequestingExit>
+		<UserName />
+		<BaseDir>/opt/unreal-engine/Engine/Binaries/Linux/</BaseDir>
+		<RootDir>/opt/unreal-engine/</RootDir>
+		<MachineId>3CDF7A92D3224369A4459FFFED029588-000003E8</MachineId>
+		<LoginId>3cdf7a92d3224369a4459fffed029588-000003e8</LoginId>
+		<EpicAccountId />
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<CrashDumpMode>0</CrashDumpMode>
+		<GameStateName />
+		<Misc.NumberOfCores>10</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>16</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>13th Gen Intel(R) Core(TM) i7-13620H</Misc.CPUBrand>
+		<Misc.CPUModelID>27554</Misc.CPUModelID>
+		<Misc.CPUMicrocodeRevision>24884</Misc.CPUMicrocodeRevision>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce RTX 4060 Laptop GPU (NVIDIA UNIX Open Kernel Mod</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Arch Linux</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor>6.19.12-arch1-1</Misc.OSVersionMinor>
+		<Misc.AnticheatProvider />
+		<MemoryStats.TotalPhysical>16379367424</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>4294963200</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>6249451520</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>9978011648</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>1980055552</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>2024050688</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>13562589184</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>13622480896</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<NumMinidumpFramesToIgnore>4</NumMinidumpFramesToIgnore>
+		<CallStack />
+		<PCallStack>
+
+libUnrealEditor-Core 0x00007f0994400000 + bfb899 
+libUnrealEditor-CoreUObject 0x00007f0993600000 + a6d428 
+libUnrealEditor-ChaosSolverEngine 0x00007f097058f000 + 50ab1 
+libUnrealEditor-ChaosSolverEngine 0x00007f097058f000 + 61f2c 
+libUnrealEditor-ChaosSolverEngine 0x00007f097058f000 + 6252e 
+libUnrealEditor-ChaosSolverEngine 0x00007f097058f000 + 6d262 
+libUnrealEditor-ChaosSolverEngine 0x00007f097058f000 + 5e814 
+libUnrealEditor-Core 0x00007f0994400000 + d57399 
+libUnrealEditor-Core 0x00007f0994400000 + d58043 
+UnrealEditor 0x0000000000200000 + 3ebba 
+UnrealEditor 0x0000000000200000 + 3eeb9 
+libUnrealEditor-UnixCommonStartup 0x00007f0995c20000 + 9215 
+libc.so 0x00007f09886f1000 + 276c1 
+libc.so 0x00007f09886f1000 + 277f9 
+UnrealEditor 0x0000000000200000 + 36e0a 
+</PCallStack>
+		<PCallStackHash>F392C59548672FCFDE545F5C8628DFDBB6F77A06</PCallStackHash>
+		<TimeOfCrash>639125263128760000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<CPUBrand>13th Gen Intel(R) Core(TM) i7-13620H</CPUBrand>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<CrashSignal>11</CrashSignal>
+		<CrashSignalName>Segmentation fault</CrashSignalName>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+		<CrashTrigger>0</CrashTrigger>
+	</PlatformProperties>
+	<EngineData>
+		<MatchingDPStatus>LinuxEditorNo errors</MatchingDPStatus>
+		<RHI.DriverDenylisted>false</RHI.DriverDenylisted>
+		<RHI.RHIName>Vulkan</RHI.RHIName>
+		<RHI.AdapterName>NVIDIA GeForce RTX 4060 Laptop GPU</RHI.AdapterName>
+		<RHI.UserDriverVersion>595.58</RHI.UserDriverVersion>
+		<RHI.InternalDriverVersion>595.58</RHI.InternalDriverVersion>
+		<RHI.DriverDate>01-01-01</RHI.DriverDate>
+		<RHI.FeatureLevel>SM6</RHI.FeatureLevel>
+		<RHI.GPUVendor>NVIDIA</RHI.GPUVendor>
+		<RHI.DeviceId>28A0</RHI.DeviceId>
+	</EngineData>
+	<GameData>
+</GameData>
+</FGenericCrashContext>

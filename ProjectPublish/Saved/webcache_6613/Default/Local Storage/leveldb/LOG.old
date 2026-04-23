@@ -1,3 +1,9 @@
-2026/04/21-11:10:57.880 6384 Reusing MANIFEST C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/21-11:10:57.892 6384 Recovering log #3
-2026/04/21-11:10:57.896 6384 Reusing old log C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+<<<<<<< HEAD
+2026/04/23-09:03:18.704 8c9 Reusing MANIFEST /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/webcache_6613/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/23-09:03:18.707 8c9 Recovering log #3
+2026/04/23-09:03:18.707 8c9 Reusing old log /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/webcache_6613/Default/Local Storage/leveldb/000003.log 
+=======
+2026/04/21-13:55:03.239 5eb0 Reusing MANIFEST C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/21-13:55:03.244 5eb0 Recovering log #3
+2026/04/21-13:55:03.246 5eb0 Reusing old log C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+>>>>>>> origin/#1-Health-And-damage-

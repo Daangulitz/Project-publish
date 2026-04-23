@@ -13165,3 +13165,63 @@
 [4810:4810:0421/105823.377927:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
 [4810:4810:0421/105823.382723:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
 [4817:4817:0421/105823.448753:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+<<<<<<< HEAD
+[2138:2138:0421/111834.753295:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[2138:2138:0421/111834.758440:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2199:2199:0421/111836.836162:WARNING:frame_impl.cc(430)] SendProcessMessage sent to detached frame 5-E1A291C7EB24BE0712D5B2B8CEEECB5E will be ignored
+[2193:2193:0421/134844.909331:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[2193:2193:0421/134844.914520:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2256:2256:0421/134846.854709:WARNING:frame_impl.cc(430)] SendProcessMessage sent to detached frame 5-ECCAF1B30CD925B168DC9936A0EE8B15 will be ignored
+[2255:2255:0421/134846.932444:WARNING:frame_impl.cc(430)] SendProcessMessage sent to detached frame 6-0A34AC000724E303C5161E1DC5FAA004 will be ignored
+[2581:2581:0421/135238.387101:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[2581:2581:0421/135238.392465:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2644:2644:0421/135240.453081:WARNING:frame_impl.cc(430)] SendProcessMessage sent to detached frame 5-5650944B565C428436B766BB963DF3BC will be ignored
+[4682:4682:0421/144847.503068:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[4760:4760:0421/144849.335606:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[4767:4767:0421/144849.909398:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[4770:4770:0421/144850.480631:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[4770:4770:0421/144850.480752:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[4770:4770:0421/144850.480814:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[4770:4770:0421/144850.480860:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[4770:4770:0421/144850.480886:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[4770:4770:0421/144850.481228:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[4770:4770:0421/144850.481282:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[4770:4770:0421/144850.481324:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[4770:4770:0421/144850.481362:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[4770:4770:0421/144850.481387:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[4770:4770:0421/144850.482393:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[4777:4777:0421/144850.660170:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[4777:4777:0421/144850.660303:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[4777:4777:0421/144850.660334:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[4777:4777:0421/144850.660366:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[4777:4777:0421/144850.660393:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[4777:4777:0421/144850.660708:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[4777:4777:0421/144850.660753:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[4777:4777:0421/144850.660786:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[4777:4777:0421/144850.660813:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[4777:4777:0421/144850.660838:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[4777:4777:0421/144850.661841:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[4784:4784:0421/144850.740669:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[4784:4784:0421/144850.740840:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[4784:4784:0421/144850.740882:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[4784:4784:0421/144850.740915:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[4784:4784:0421/144850.740951:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[4784:4784:0421/144850.741349:ERROR:angle_platform_impl.cc(44)] Display.cpp:1083 (initialize): ANGLE Display::initialize error 0: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[4784:4784:0421/144850.741399:ERROR:gl_display.cc(497)] EGL Driver message (Critical) eglInitialize: Internal Vulkan error (-3): Initialization of an object could not be completed for implementation-specific reasons, in ../../third_party/angle/src/libANGLE/renderer/vulkan/vk_renderer.cpp, initialize:1801.
+[4784:4784:0421/144850.741439:ERROR:gl_display.cc(767)] eglInitialize SwANGLE failed with error EGL_NOT_INITIALIZED
+[4784:4784:0421/144850.741539:ERROR:gl_display.cc(801)] Initialization of all EGL display types failed.
+[4784:4784:0421/144850.741600:ERROR:gl_ozone_egl.cc(26)] GLDisplayEGL::Initialize failed.
+[4784:4784:0421/144850.742651:ERROR:viz_main_impl.cc(166)] Exiting GPU process due to errors during initialization
+[4791:4791:0421/144850.749579:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[4791:4791:0421/144850.760567:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[6322:6322:0421/150124.590183:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[6322:6322:0421/150124.595939:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[6387:6387:0421/150126.906702:WARNING:frame_impl.cc(430)] SendProcessMessage sent to detached frame 5-7F3200DD65FB606B18CDF8FA513B2042 will be ignored
+[2191:2191:0423/090318.553793:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[2191:2191:0423/090318.559119:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2253:2253:0423/090320.241445:WARNING:frame_impl.cc(430)] SendProcessMessage sent to detached frame 5-F095C11B688E6FC656B80EC13B7254DC will be ignored
+=======
+>>>>>>> origin/#1-Health-And-damage-
+[12527:12527:0423/104404.455400:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[12527:12527:0423/104404.462728:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[12589:12589:0423/104406.965635:WARNING:frame_impl.cc(430)] SendProcessMessage sent to detached frame 5-C6D4BB94C0994FAA14166B8AE0B8F183 will be ignored

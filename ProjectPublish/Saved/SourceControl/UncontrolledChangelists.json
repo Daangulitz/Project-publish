@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Wigets/BW_MainMenu.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/ThirdPerson/MI_ThirdPersonColWay.uasset"
 				"/home/mick/Documents/GitHub/Project-publish/ProjectPublish/Content/Mick/testMap.umap",
 				"/home/mick/Documents/GitHub/Project-publish/ProjectPublish/Content/Mick/testing.umap",
 				"/home/mick/Documents/GitHub/Project-publish/ProjectPublish/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
