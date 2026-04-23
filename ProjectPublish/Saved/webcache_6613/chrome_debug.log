@@ -13228,3 +13228,6 @@
 [2099:2099:0423/122354.825735:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
 [2099:2099:0423/122354.831241:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
 [2162:2162:0423/122356.727517:WARNING:frame_impl.cc(430)] SendProcessMessage sent to detached frame 5-17B4700B938906371A672CB1ECF33C69 will be ignored
+[9709:9709:0423/130156.390326:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[9709:9709:0423/130156.398741:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[9779:9779:0423/130200.961257:WARNING:frame_impl.cc(430)] SendProcessMessage sent to detached frame 5-D2FCA38104D42CA2273E1E2556E3210E will be ignored
