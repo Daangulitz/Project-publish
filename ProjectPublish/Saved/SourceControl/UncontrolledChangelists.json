@@ -6,7 +6,18 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Wigets/BW_MainMenu.uasset",
-				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/ThirdPerson/MI_ThirdPersonColWay.uasset"
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/MainMenuPlayerController.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/MainMenuHud.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Main_Menu.umap",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/BP_MainGameInstance.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/BP_MainMenuGamemode.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/MainPlayerController.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BaseMap.umap",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/GI_Game.uasset"
 			]
 		}
 	]
