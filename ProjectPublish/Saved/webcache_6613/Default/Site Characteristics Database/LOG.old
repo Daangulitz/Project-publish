@@ -1,3 +1,7 @@
-2026/04/21-11:10:57.842 663c Reusing MANIFEST C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/04/21-11:10:57.858 663c Recovering log #6
-2026/04/21-11:10:57.859 663c Reusing old log C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/000006.log 
+2026/04/23-09:48:45.209 5cd0 Log #9: 1 ops saved to Table #10 OK
+2026/04/23-09:48:45.210 5cd0 Archiving C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/000009.log: OK
+2026/04/23-09:48:45.211 5cd0 Table #4: 2 entries OK
+2026/04/23-09:48:45.211 5cd0 Table #7: 3 entries OK
+2026/04/23-09:48:45.211 5cd0 Table #10: 1 entries OK
+2026/04/23-09:48:45.213 5cd0 Archiving C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/04/23-09:48:45.225 5cd0 **** Repaired leveldb C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 533 bytes. Some data may have been lost. ****
