@@ -5,7 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/HostMap.umap"
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/HostMap.umap",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Main_Menu.umap",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BaseMap.umap",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Wigets/BW_MainMenu.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/GI_Game.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/Spawner.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Main_Menu_HLODLayer_Instanced.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Main_Menu_HLODLayer_Merged.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/__ExternalActors__/Daan/Main_Menu/8/FZ/6D0HZGXWPCVBMPQIIL7944.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/__ExternalActors__/Daan/Main_Menu/7/CC/52HED3S9QK1VRL6G4ZRVIX.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/__ExternalActors__/Daan/Main_Menu/0/UP/ARI5M6JXQYDVE3RSB6OL9D.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/BP_MainMenuSpawner.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/__ExternalActors__/Daan/Main_Menu/D/6J/FX9Z05TGAE6MGQ69FJOGWM.uasset"
 			]
 		}
 	]
