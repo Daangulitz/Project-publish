@@ -929,3 +929,28 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.04.23-11.34.13:549][  6]LogTurnkeySupport: Completed device detection: Code = 0
 [2026.04.23-11.34.13:549][  6]LogTurnkeySupport: Turnkey Device: Linux@DaanArchs: (Name=DaanArchs, Type=Computer, Status=Valid, Allowed=, Current=Arch Linux, Flags="Device_InstallSoftwareValid")
 [2026.04.23-11.36.08:475][447]LogDerivedDataCache: /home/daantje/.config/Epic/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.23-11.45.33:781][369]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.23-11.45.33:781][369]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.23-11.45.33:781][369]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.23-11.45.33:781][369]LogInit: Display: PreExit Game.
+[2026.04.23-11.45.33:782][369]LogWorld: BeginTearingDown for /Game/Daan/Main_Menu
+[2026.04.23-11.45.33:782][369]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2026.04.23-11.45.33:782][369]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0 
+[2026.04.23-11.45.33:782][369]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0 shut down
+[2026.04.23-11.45.33:782][369]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-11.45.33:782][369]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/Main_Menu.Main_Menu
+[2026.04.23-11.45.33:783][369]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.23-11.45.33:784][369]LogExit: Preparing to exit.
+[2026.04.23-11.45.33:801][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.04.23-11.45.34:339][369]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.23-11.45.34:343][369]LogExit: Game engine shut down
+[2026.04.23-11.45.34:416][369]LogExit: Object subsystem successfully closed.
+[2026.04.23-11.45.35:148][369]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.23-11.45.35:148][369]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.23-11.45.35:148][369]LogSteamShared: Freeing the Steam Loaded Modules...
+[2026.04.23-11.45.35:163][369]LogEOSShared: Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.23-11.45.35:163][369]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.23-11.45.35:165][369]LogPakFile: Destroying PakPlatformFile
+[2026.04.23-11.45.35:166][369]LogExit: Exiting.
+[2026.04.23-11.45.35:166][369]LogCore: FUnixPlatformMisc::RequestExit(bForce=false, ReturnCode=143)
+[2026.04.23-11.45.35:173][369]Log file closed, 04/23/26 13:45:35

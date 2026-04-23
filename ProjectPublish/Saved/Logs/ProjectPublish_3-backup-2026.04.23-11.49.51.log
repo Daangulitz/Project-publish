@@ -943,15 +943,3 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.04.23-11.49.51:045][487]LogRuntimeTelemetry: Recording EnginePreExit events
 [2026.04.23-11.49.51:046][487]LogExit: Preparing to exit.
 [2026.04.23-11.49.51:062][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
-[2026.04.23-11.49.51:927][487]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
-[2026.04.23-11.49.51:931][487]LogExit: Game engine shut down
-[2026.04.23-11.49.51:996][487]LogExit: Object subsystem successfully closed.
-[2026.04.23-11.49.52:503][487]LogShaderCompilers: Display: Shaders left to compile 0
-[2026.04.23-11.49.52:503][487]LogChaosDD: Chaos Debug Draw Shutdown
-[2026.04.23-11.49.52:503][487]LogSteamShared: Freeing the Steam Loaded Modules...
-[2026.04.23-11.49.52:526][487]LogEOSShared: Shutdown EOS_Shutdown Result=[EOS_Success]
-[2026.04.23-11.49.52:526][487]LogNFORDenoise: NFORDenoise function shutting down
-[2026.04.23-11.49.52:528][487]LogPakFile: Destroying PakPlatformFile
-[2026.04.23-11.49.52:529][487]LogExit: Exiting.
-[2026.04.23-11.49.52:529][487]LogCore: FUnixPlatformMisc::RequestExit(bForce=false, ReturnCode=143)
-[2026.04.23-11.49.52:539][487]Log file closed, 04/23/26 13:49:52
