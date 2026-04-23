@@ -17,10 +17,10 @@
 -pipe
 -msse4.2
 -I"."
--I"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private"
--I"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT"
--I"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source"
--I"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes"
+-I"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private"
+-I"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT"
+-I"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source"
+-I"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes"
 -I"Runtime/Core/Public"
 -I"Runtime/TraceLog/Public"
 -I"Runtime/AutoRTFM/Public"
@@ -314,7 +314,7 @@
 -I"../Plugins/Online/OnlineSubsystemUtils/Source"
 -I"../Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Classes"
 -I"../Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Public"
--I"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Intermediate/Build/Linux/x64/UnrealEditor/Development/UnrealEd"
+-I"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Intermediate/Build/Linux/x64/ProjectPublishEditor/Development/UnrealEd"
 -isystem"ThirdParty/GuidelinesSupportLibrary/GSL-1144/include"
 -isystem"ThirdParty/AtomicQueue"
 -isystem"ThirdParty/RapidJSON/1.1.0"

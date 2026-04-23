@@ -14,7 +14,7 @@
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_6 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_7 0
 #define UE_PROJECT_NAME ProjectPublish
-#define UE_TARGET_NAME UnrealEditor
+#define UE_TARGET_NAME ProjectPublishEditor
 #define WITH_ADVANCED_STEAM_SESSIONS 1
 #define UE_MODULE_NAME "AdvancedSteamSessions"
 #define UE_PLUGIN_NAME "AdvancedSteamSessions"
