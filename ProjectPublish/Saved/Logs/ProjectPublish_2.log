@@ -1735,3 +1735,1000 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.04.23-12.17.09:839][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2026.04.23-12.17.12:973][376]LogSlate: Window 'Plugins' being destroyed
 [2026.04.23-12.17.12:979][376]LogSlate: Window 'Plugins' being destroyed
+[2026.04.23-12.18.05:535][677]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-12.18.05:543][677]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2026.04.23-12.18.05:543][677]LogContentBundle: [Main_Menu(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.23-12.18.05:543][677]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' started...
+[2026.04.23-12.18.05:544][677]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' took 352 us
+[2026.04.23-12.18.05:544][677]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.04.23-12.18.05:544][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-12.18.05:544][677]BlueprintLog: Warning: Blueprint failed to compile:  BW_MainMenu
+[2026.04.23-12.18.11:006][677]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Daan/Wigets/BW_MainMenu.BW_MainMenu
+[2026.04.23-12.18.11:134][677]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.04.23-12.18.13:228][880]LogSlate: Window 'Message Log' being destroyed
+[2026.04.23-12.18.13:234][880]LogSlate: Window 'Message Log' being destroyed
+[2026.04.23-12.18.17:551][363]LogSlate: Took 0.004738 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.04.23-12.18.56:985][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-12.18.56:995][693]LogFileHelpers: Saving Package: /Game/Daan/Wigets/BW_MainMenu
+[2026.04.23-12.18.56:995][693]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Daan/Wigets/BW_MainMenu] ([2] browsable assets)...
+[2026.04.23-12.18.57:002][693]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Daan/Wigets/BW_MainMenu.BW_MainMenu]
+[2026.04.23-12.18.57:002][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Daan/Wigets/BW_MainMenu]
+[2026.04.23-12.18.57:002][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daan/Wigets/BW_MainMenu" FILE="../../../../../home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Wigets/BW_MainMenu.uasset" SILENT=true
+[2026.04.23-12.18.57:009][693]LogSavePackage: Moving output files for package: /Game/Daan/Wigets/BW_MainMenu
+[2026.04.23-12.18.57:009][693]LogSavePackage: Moving '../../../../../home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/BW_MainMenu31AED3330C50463E98BF9FF7870D5D1F.tmp' to '../../../../../home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Wigets/BW_MainMenu.uasset'
+[2026.04.23-12.18.57:017][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.839 ms (total: 77.183 ms)
+[2026.04.23-12.18.57:028][693]LogContentValidation: Enabled validators:
+[2026.04.23-12.18.57:029][693]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-12.18.57:029][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-12.18.57:029][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-12.18.57:029][693]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-12.18.57:029][693]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-12.18.57:029][693]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-12.18.57:029][693]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.04.23-12.18.57:029][693]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.04.23-12.18.57:030][693]AssetCheck: /Game/Daan/Wigets/BW_MainMenu Validating asset
+[2026.04.23-12.18.57:030][693]LogContentValidation: Validated asset counts for 2 validators:
+[2026.04.23-12.18.57:030][693]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.04.23-12.18.57:030][693]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.04.23-12.19.00:395][ 86]LogBlueprint: Compiling Blueprint '/Game/Daan/Wigets/BW_MainMenu.BW_MainMenu'
+[2026.04.23-12.19.00:459][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.23-12.19.03:319][424]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-12.19.03:325][424]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2026.04.23-12.19.03:325][424]LogContentBundle: [Main_Menu(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.23-12.19.03:325][424]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' started...
+[2026.04.23-12.19.03:325][424]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' took 291 us (total: 643 us)
+[2026.04.23-12.19.03:325][424]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.04.23-12.19.03:325][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-12.19.03:326][424]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2026.04.23-12.19.03:326][424]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.04.23-12.19.03:326][424]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.04.23-12.19.03:326][424]LogPlayLevel: Creating play world package: /Game/Daan/UEDPIE_0_Main_Menu
+[2026.04.23-12.19.03:327][424]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-12.19.03:327][424]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 49 us
+[2026.04.23-12.19.03:327][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000800s)
+[2026.04.23-12.19.03:327][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Daan/Main_Menu.Main_Menu to /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu (0.000837s)
+[2026.04.23-12.19.03:353][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.04.23-12.19.03:355][424]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.04.23-12.19.03:360][424]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.19.03:361][424]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-12.19.03:362][424]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-12.19.03:362][424]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-12.19.03:362][424]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-12.19.03:362][424]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Dedicated Server, IsServer = 1, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-12.19.03:362][424]LogWorldPartition: Display: WorldPartition initialize took 337 us (total: 6.745 ms)
+[2026.04.23-12.19.03:362][424]LogPlayLevel: PIE: World Init took: (0.001694s)
+[2026.04.23-12.19.03:363][424]LogLoad: Game class is 'BP_MainMenuGamemode_C'
+[2026.04.23-12.19.03:363][424]LogWorld: Bringing World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-14.19.03
+[2026.04.23-12.19.03:363][424]LogWorld: Bringing up level for play took: 0.000305
+[2026.04.23-12.19.03:363][424]LogCsvProfiler: Display: Metadata set : iris="0"
+[2026.04.23-12.19.03:363][424]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.04.23-12.19.03:363][424]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.04.23-12.19.03:363][424]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.19.03:363][424]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.19.03:364][424]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2026.04.23-12.19.03:364][424]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.04.23-12.19.03:364][424]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.19.03:364][424]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2026.04.23-12.19.03:364][424]PIE: Server logged in
+[2026.04.23-12.19.03:364][424]PIE: Play in editor total start time 0.039 seconds.
+[2026.04.23-12.19.03:364][424]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.04.23-12.19.03:364][424]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.19.03:364][424]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.04.23-12.19.03:365][424]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2026.04.23-12.19.03:365][424]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.04.23-12.19.03:365][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-12.19.03:365][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-12.19.03:365][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-12.19.03:365][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-12.19.03:365][424]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.04.23-12.19.03:365][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-12.19.03:365][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.04.23-12.19.03:365][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-12.19.03:365][424]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-12.19.03:365][424]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-12.19.03:365][424]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-12.19.03:365][424]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.04.23-12.19.03:366][424]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL3'
+[2026.04.23-12.19.03:366][424]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.04.23-12.19.03:366][424]LogAudioMixer: Display: Using Audio Hardware Device Raptor Lake-P/U/H cAVS HDMI / DisplayPort 3 Output
+[2026.04.23-12.19.03:366][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-12.19.03:366][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-12.19.03:366][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-12.19.03:366][424]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=2
+[2026.04.23-12.19.03:367][424]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.04.23-12.19.03:367][424]LogInit: FAudioDevice initialized with ID 2.
+[2026.04.23-12.19.03:367][424]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled'.
+[2026.04.23-12.19.03:367][424]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.04.23-12.19.03:369][424]LogGlobalStatus: Browse Started Browse: "127.0.0.1:17777/Game/Daan/Main_Menu"
+[2026.04.23-12.19.03:369][424]LogNet: Browse: 127.0.0.1:17777/Game/Daan/Main_Menu
+[2026.04.23-12.19.03:369][424]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.19.03:369][424]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.19.03:369][424]LogInit: BSD IPv4/6: Socket queue. Rx: 65536 (config 32768) Tx: 65536 (config 32768)
+[2026.04.23-12.19.03:369][424]LogNet: Created socket for bind address: 0.0.0.0:0
+[2026.04.23-12.19.03:369][424]LogNet: IpConnection_0 setting maximum channels to: 32767
+[2026.04.23-12.19.03:369][424]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.19.03:370][424]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 0
+[2026.04.23-12.19.03:370][424]LogNet: Game client on port 17777, rate 100000
+[2026.04.23-12.19.03:370][424]LogNetVersion: ProjectPublish 1.0.0.0, NetCL: 47537391, EngineNetworkVersion: 43, GameNetworkVersion: 0 (Checksum: 4176805340)
+[2026.04.23-12.19.03:370][424]PIE: Client logged in
+[2026.04.23-12.19.03:372][424]PIE: Play in editor total start time 0.047 seconds.
+[2026.04.23-12.19.03:372][424]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.04.23-12.19.03:372][424]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.19.03:372][424]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.04.23-12.19.03:374][424]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2026.04.23-12.19.03:374][424]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.04.23-12.19.03:374][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-12.19.03:374][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-12.19.03:374][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-12.19.03:374][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-12.19.03:374][424]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.04.23-12.19.03:374][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-12.19.03:374][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.04.23-12.19.03:374][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-12.19.03:374][424]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-12.19.03:374][424]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-12.19.03:374][424]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-12.19.03:374][424]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.04.23-12.19.03:374][424]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL3'
+[2026.04.23-12.19.03:374][424]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.04.23-12.19.03:374][424]LogAudioMixer: Display: Using Audio Hardware Device Raptor Lake-P/U/H cAVS HDMI / DisplayPort 3 Output
+[2026.04.23-12.19.03:374][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-12.19.03:374][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-12.19.03:374][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-12.19.03:375][424]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=3
+[2026.04.23-12.19.03:375][424]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.04.23-12.19.03:375][424]LogInit: FAudioDevice initialized with ID 3.
+[2026.04.23-12.19.03:375][424]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled'.
+[2026.04.23-12.19.03:376][424]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.23-12.19.03:376][424]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=3
+[2026.04.23-12.19.03:383][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-12.19.03:383][424]LogGlobalStatus: Browse Started Browse: "127.0.0.1:17777/Game/Daan/Main_Menu"
+[2026.04.23-12.19.03:383][424]LogNet: Browse: 127.0.0.1:17777/Game/Daan/Main_Menu
+[2026.04.23-12.19.03:383][424]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.19.03:383][424]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.19.03:384][424]LogInit: BSD IPv4/6: Socket queue. Rx: 65536 (config 32768) Tx: 65536 (config 32768)
+[2026.04.23-12.19.03:384][424]LogNet: Created socket for bind address: 0.0.0.0:0
+[2026.04.23-12.19.03:384][424]LogNet: IpConnection_1 setting maximum channels to: 32767
+[2026.04.23-12.19.03:384][424]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.19.03:384][424]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 1
+[2026.04.23-12.19.03:384][424]LogNet: Game client on port 17777, rate 100000
+[2026.04.23-12.19.03:387][424]PIE: Client logged in
+[2026.04.23-12.19.03:390][424]PIE: Play in editor total start time 0.066 seconds.
+[2026.04.23-12.19.03:416][425]LogCsvProfiler: Display: Metadata set : systemresolution.resx="640"
+[2026.04.23-12.19.03:416][425]LogCsvProfiler: Display: Metadata set : systemresolution.resy="480"
+[2026.04.23-12.19.04:382][540]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:45234
+[2026.04.23-12.19.04:382][540]LogHandshake: SendConnectChallenge. Timestamp: 1.071113, Cookie: 081181153009169136097230127115061206070029057253031129143058
+[2026.04.23-12.19.04:383][540]LogHandshake: Cached server SessionID: 0
+[2026.04.23-12.19.04:383][540]LogHandshake: SendChallengeResponse. Timestamp: 1.071113, Cookie: 081181153009169136097230127115061206070029057253031129143058
+[2026.04.23-12.19.04:391][541]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:45234
+[2026.04.23-12.19.04:391][541]LogHandshake: SendChallengeAck. InCookie: 081181153009169136097230127115061206070029057253031129143058
+[2026.04.23-12.19.04:391][541]LogNet: Server accepting post-challenge connection from: 127.0.0.1:45234
+[2026.04.23-12.19.04:391][541]LogNet: IpConnection_2 setting maximum channels to: 32767
+[2026.04.23-12.19.04:391][541]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.19.04:391][541]LogNet: NotifyAcceptedConnection: Name: Main_Menu, TimeStamp: 04/23/26 14:19:04, [UNetConnection] RemoteAddr: 127.0.0.1:45234, Name: IpConnection_2, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.19.04:391][541]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:45234, Name: IpConnection_2, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.19.04:391][541]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.19.04:399][542]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu: Accepted
+[2026.04.23-12.19.04:399][542]LogNet: Remote platform little endian=1
+[2026.04.23-12.19.04:399][542]LogNet: This platform little endian=1
+[2026.04.23-12.19.04:399][542]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51607
+[2026.04.23-12.19.04:399][542]LogHandshake: SendConnectChallenge. Timestamp: 1.087780, Cookie: 104173229082083108172131049029192057248031102216186247125039
+[2026.04.23-12.19.04:400][542]LogHandshake: Cached server SessionID: 0
+[2026.04.23-12.19.04:400][542]LogHandshake: SendChallengeResponse. Timestamp: 1.087780, Cookie: 104173229082083108172131049029192057248031102216186247125039
+[2026.04.23-12.19.04:408][543]LogNet: Login request: ?Name=DaanArchs-3C6F9AC26C8E4FE9857754B3D44F93DC userId: NULL:DaanArchs-3C6F9AC26C8E4FE9857754B3D44F93DC platform: NULL
+[2026.04.23-12.19.04:408][543]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51607
+[2026.04.23-12.19.04:408][543]LogHandshake: SendChallengeAck. InCookie: 104173229082083108172131049029192057248031102216186247125039
+[2026.04.23-12.19.04:408][543]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51607
+[2026.04.23-12.19.04:408][543]LogNet: IpConnection_3 setting maximum channels to: 32767
+[2026.04.23-12.19.04:408][543]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.19.04:408][543]LogNet: NotifyAcceptedConnection: Name: Main_Menu, TimeStamp: 04/23/26 14:19:04, [UNetConnection] RemoteAddr: 127.0.0.1:51607, Name: IpConnection_3, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.19.04:408][543]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51607, Name: IpConnection_3, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.19.04:408][543]LogNet: Welcomed by server (Level: /Game/Daan/UEDPIE_0_Main_Menu, Game: /Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C)
+[2026.04.23-12.19.04:408][543]LogLoad: LoadMap: 127.0.0.1:17777/Game/Daan/Main_Menu?game=/Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C
+[2026.04.23-12.19.04:408][543]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2026.04.23-12.19.04:408][543]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.19.04:408][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.19.04:435][543]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-12.19.04:436][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.04.23-12.19.04:441][543]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-12.19.04:441][543]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 53 us (total: 102 us)
+[2026.04.23-12.19.04:441][543]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main_Menu'.
+[2026.04.23-12.19.04:441][543]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-12.19.04:442][543]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-12.19.04:442][543]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-12.19.04:442][543]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-12.19.04:442][543]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-12.19.04:442][543]LogWorldPartition: Display: WorldPartition initialize took 244 us (total: 6.989 ms)
+[2026.04.23-12.19.04:442][543]LogPlayLevel: PIE: World Init took: (0.001541s)
+[2026.04.23-12.19.04:442][543]LogWorld: Bringing World /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-14.19.04
+[2026.04.23-12.19.04:442][543]LogWorld: Bringing up level for play took: 0.000194
+[2026.04.23-12.19.04:443][543]LogLoad: Took 0.034240 seconds to LoadMap(/Game/Daan/Main_Menu)
+[2026.04.23-12.19.04:443][543]LogGlobalStatus: LoadMap Load map complete /Game/Daan/Main_Menu
+[2026.04.23-12.19.04:443][543]LogGlobalStatus: TravelCompleted Pending net game travel completed
+[2026.04.23-12.19.04:443][543]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.19.04:451][544]LogNet: Client netspeed is 100000
+[2026.04.23-12.19.04:451][544]LogNet: Join request: /Game/Daan/Main_Menu?Name=DaanArchs-3C6F9AC26C8E4FE9857754B3D44F93DC?SplitscreenCount=1
+[2026.04.23-12.19.04:457][544]LogNet: Join succeeded: DaanArchs-3C6F9AC26C
+[2026.04.23-12.19.04:457][544]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu: Accepted
+[2026.04.23-12.19.04:457][544]LogNet: Remote platform little endian=1
+[2026.04.23-12.19.04:457][544]LogNet: This platform little endian=1
+[2026.04.23-12.19.04:471][545]LogNet: Login request: ?Name=DaanArchs-152E6FA7D47F408097A57CA455536C52 userId: NULL:DaanArchs-152E6FA7D47F408097A57CA455536C52 platform: NULL
+[2026.04.23-12.19.04:473][545]LogNet: Welcomed by server (Level: /Game/Daan/UEDPIE_0_Main_Menu, Game: /Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C)
+[2026.04.23-12.19.04:474][545]LogLoad: LoadMap: 127.0.0.1:17777/Game/Daan/Main_Menu?game=/Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C
+[2026.04.23-12.19.04:474][545]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2026.04.23-12.19.04:474][545]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.19.04:474][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.19.04:497][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-12.19.04:498][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.04.23-12.19.04:501][545]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-12.19.04:501][545]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 50 us (total: 153 us)
+[2026.04.23-12.19.04:501][545]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Menu'.
+[2026.04.23-12.19.04:501][545]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-12.19.04:502][545]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-12.19.04:502][545]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-12.19.04:502][545]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_2_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-12.19.04:502][545]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-12.19.04:503][545]LogWorldPartition: Display: WorldPartition initialize took 247 us (total: 7.237 ms)
+[2026.04.23-12.19.04:503][545]LogPlayLevel: PIE: World Init took: (0.001552s)
+[2026.04.23-12.19.04:503][545]LogWorld: Bringing World /Game/Daan/UEDPIE_2_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-14.19.04
+[2026.04.23-12.19.04:503][545]LogWorld: Bringing up level for play took: 0.000220
+[2026.04.23-12.19.04:503][545]LogLoad: Took 0.029547 seconds to LoadMap(/Game/Daan/Main_Menu)
+[2026.04.23-12.19.04:503][545]LogGlobalStatus: LoadMap Load map complete /Game/Daan/Main_Menu
+[2026.04.23-12.19.04:503][545]LogGlobalStatus: TravelCompleted Pending net game travel completed
+[2026.04.23-12.19.04:513][546]LogNet: Client netspeed is 100000
+[2026.04.23-12.19.04:513][546]LogNet: Join request: /Game/Daan/Main_Menu?Name=DaanArchs-152E6FA7D47F408097A57CA455536C52?SplitscreenCount=1
+[2026.04.23-12.19.04:514][546]LogNet: Join succeeded: DaanArchs-152E6FA7D4
+[2026.04.23-12.19.04:976][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-12.19.04:976][593]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_2_Main_Menu
+[2026.04.23-12.19.04:976][593]LogSlate: Window 'ProjectPublish Preview [NetMode: Client 2]  (64-bit/PC Vulkan SM6)' being destroyed
+[2026.04.23-12.19.04:984][593]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.19.04:984][593]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.19.04:984][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.19.04:984][593]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_2_Main_Menu.Main_Menu
+[2026.04.23-12.19.04:984][593]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2026.04.23-12.19.04:984][593]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2 
+[2026.04.23-12.19.04:984][593]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-152E6FA7D47F408097A57CA455536C52, Channels: 12, Time: 2026.04.23-12.19.04
+[2026.04.23-12.19.04:984][593]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-152E6FA7D47F408097A57CA455536C52
+[2026.04.23-12.19.04:984][593]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_2 shut down
+[2026.04.23-12.19.04:985][593]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_1_Main_Menu
+[2026.04.23-12.19.04:985][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-12.19.04:985][593]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.19.04:985][593]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.19.04:985][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.19.04:985][593]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu
+[2026.04.23-12.19.04:985][593]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2026.04.23-12.19.04:985][593]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_1 
+[2026.04.23-12.19.04:985][593]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-3C6F9AC26C8E4FE9857754B3D44F93DC, Channels: 12, Time: 2026.04.23-12.19.04
+[2026.04.23-12.19.04:985][593]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-3C6F9AC26C8E4FE9857754B3D44F93DC
+[2026.04.23-12.19.04:985][593]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_1 shut down
+[2026.04.23-12.19.04:985][593]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_0_Main_Menu
+[2026.04.23-12.19.04:986][593]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.19.04:986][593]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.19.04:986][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.19.04:986][593]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu
+[2026.04.23-12.19.04:986][593]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2026.04.23-12.19.04:986][593]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0 
+[2026.04.23-12.19.04:986][593]LogNet: UNetConnection::SendCloseReason:
+[2026.04.23-12.19.04:986][593]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2026.04.23-12.19.04:986][593]LogNet: UNetConnection::SendCloseReason:
+[2026.04.23-12.19.04:986][593]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2026.04.23-12.19.04:986][593]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51607, Name: IpConnection_3, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_1, Owner: BP_ThirdPersonPlayerController_C_1, UniqueId: NULL:DaanArchs-152E6FA7D47F408097A57CA455536C52
+[2026.04.23-12.19.04:986][593]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51607, Name: IpConnection_3, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_1, Owner: BP_ThirdPersonPlayerController_C_1, UniqueId: NULL:DaanArchs-152E6FA7D47F408097A57CA455536C52, Channels: 12, Time: 2026.04.23-12.19.04
+[2026.04.23-12.19.04:986][593]LogNet: UNetConnection::SendCloseReason:
+[2026.04.23-12.19.04:986][593]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2026.04.23-12.19.04:986][593]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51607, Name: IpConnection_3, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_1, Owner: BP_ThirdPersonPlayerController_C_1, UniqueId: NULL:DaanArchs-152E6FA7D47F408097A57CA455536C52
+[2026.04.23-12.19.04:986][593]LogNet: UNetDriver::RemoveClientConnection - Removed address 127.0.0.1:51607 from MappedClientConnections for: [UNetConnection] RemoteAddr: 127.0.0.1:51607, Name: IpConnection_3, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_1, Owner: BP_ThirdPersonPlayerController_C_1, UniqueId: NULL:DaanArchs-152E6FA7D47F408097A57CA455536C52
+[2026.04.23-12.19.04:986][593]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:45234, Name: IpConnection_2, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-3C6F9AC26C8E4FE9857754B3D44F93DC
+[2026.04.23-12.19.04:986][593]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:45234, Name: IpConnection_2, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-3C6F9AC26C8E4FE9857754B3D44F93DC, Channels: 12, Time: 2026.04.23-12.19.04
+[2026.04.23-12.19.04:986][593]LogNet: UNetConnection::SendCloseReason:
+[2026.04.23-12.19.04:986][593]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2026.04.23-12.19.04:986][593]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:45234, Name: IpConnection_2, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-3C6F9AC26C8E4FE9857754B3D44F93DC
+[2026.04.23-12.19.04:986][593]LogNet: UNetDriver::RemoveClientConnection - Removed address 127.0.0.1:45234 from MappedClientConnections for: [UNetConnection] RemoteAddr: 127.0.0.1:45234, Name: IpConnection_2, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-3C6F9AC26C8E4FE9857754B3D44F93DC
+[2026.04.23-12.19.04:986][593]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_0 shut down
+[2026.04.23-12.19.04:986][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.23-12.19.04:989][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.19.05:015][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-12.19.05:015][593]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.23-12.19.05:015][593]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.04.23-12.19.05:018][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.04.23-12.19.05:033][594]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.04.23-12.19.05:033][594]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.04.23-12.19.05:033][594]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.04.23-12.19.11:612][379]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-12.19.11:619][379]LogContentBundle: [Main_Menu(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.23-12.19.11:619][379]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' started...
+[2026.04.23-12.19.11:619][379]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' took 282 us (total: 926 us)
+[2026.04.23-12.19.11:619][379]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.04.23-12.19.11:619][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-12.19.11:659][379]LogPlayLevel: Creating play world package: /Game/Daan/UEDPIE_0_Main_Menu
+[2026.04.23-12.19.11:660][379]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-12.19.11:660][379]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 43 us (total: 197 us)
+[2026.04.23-12.19.11:660][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001177s)
+[2026.04.23-12.19.11:660][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Daan/Main_Menu.Main_Menu to /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu (0.001200s)
+[2026.04.23-12.19.11:686][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.23-12.19.11:688][379]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.04.23-12.19.11:688][379]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.19.11:688][379]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-12.19.11:689][379]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-12.19.11:689][379]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-12.19.11:689][379]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-12.19.11:689][379]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Dedicated Server, IsServer = 1, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-12.19.11:689][379]LogWorldPartition: Display: WorldPartition initialize took 268 us (total: 7.505 ms)
+[2026.04.23-12.19.11:689][379]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2026.04.23-12.19.11:689][379]LogLoad: Game class is 'BP_MainMenuGamemode_C'
+[2026.04.23-12.19.11:689][379]LogWorld: Bringing World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-14.19.11
+[2026.04.23-12.19.11:690][379]LogWorld: Bringing up level for play took: 0.000228
+[2026.04.23-12.19.11:690][379]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.04.23-12.19.11:690][379]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.04.23-12.19.11:690][379]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.19.11:690][379]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.19.11:690][379]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2026.04.23-12.19.11:690][379]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.04.23-12.19.11:690][379]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.19.11:690][379]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_3 IpNetDriver listening on port 17777
+[2026.04.23-12.19.11:690][379]PIE: Server logged in
+[2026.04.23-12.19.11:690][379]PIE: Play in editor total start time 0.071 seconds.
+[2026.04.23-12.19.11:690][379]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.04.23-12.19.11:690][379]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.19.11:690][379]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.04.23-12.19.11:691][379]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2026.04.23-12.19.11:691][379]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.04.23-12.19.11:691][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-12.19.11:691][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-12.19.11:691][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-12.19.11:691][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-12.19.11:691][379]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.04.23-12.19.11:691][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-12.19.11:691][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.04.23-12.19.11:691][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-12.19.11:691][379]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-12.19.11:691][379]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-12.19.11:691][379]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-12.19.11:692][379]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.04.23-12.19.11:692][379]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL3'
+[2026.04.23-12.19.11:692][379]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.04.23-12.19.11:692][379]LogAudioMixer: Display: Using Audio Hardware Device Raptor Lake-P/U/H cAVS HDMI / DisplayPort 3 Output
+[2026.04.23-12.19.11:692][379]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-12.19.11:692][379]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-12.19.11:692][379]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-12.19.11:692][379]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=4
+[2026.04.23-12.19.11:692][379]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.04.23-12.19.11:692][379]LogInit: FAudioDevice initialized with ID 4.
+[2026.04.23-12.19.11:692][379]LogAudio: Display: Audio Device (ID: 4) registered with world 'Untitled'.
+[2026.04.23-12.19.11:692][379]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.23-12.19.11:695][379]LogGlobalStatus: Browse Started Browse: "127.0.0.1:17777/Game/Daan/Main_Menu"
+[2026.04.23-12.19.11:695][379]LogNet: Browse: 127.0.0.1:17777/Game/Daan/Main_Menu
+[2026.04.23-12.19.11:695][379]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.19.11:695][379]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.19.11:695][379]LogInit: BSD IPv4/6: Socket queue. Rx: 65536 (config 32768) Tx: 65536 (config 32768)
+[2026.04.23-12.19.11:695][379]LogNet: Created socket for bind address: 0.0.0.0:0
+[2026.04.23-12.19.11:695][379]LogNet: IpConnection_4 setting maximum channels to: 32767
+[2026.04.23-12.19.11:695][379]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.19.11:695][379]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 2
+[2026.04.23-12.19.11:695][379]LogNet: Game client on port 17777, rate 100000
+[2026.04.23-12.19.11:695][379]PIE: Client logged in
+[2026.04.23-12.19.11:696][379]PIE: Play in editor total start time 0.077 seconds.
+[2026.04.23-12.19.12:711][501]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:46780
+[2026.04.23-12.19.12:711][501]LogHandshake: SendConnectChallenge. Timestamp: 1.106916, Cookie: 061097235197185221001098156048254073032045222200210209081192
+[2026.04.23-12.19.12:711][501]LogHandshake: Cached server SessionID: 0
+[2026.04.23-12.19.12:711][501]LogHandshake: SendChallengeResponse. Timestamp: 1.106916, Cookie: 061097235197185221001098156048254073032045222200210209081192
+[2026.04.23-12.19.12:720][502]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:46780
+[2026.04.23-12.19.12:720][502]LogHandshake: SendChallengeAck. InCookie: 061097235197185221001098156048254073032045222200210209081192
+[2026.04.23-12.19.12:720][502]LogNet: Server accepting post-challenge connection from: 127.0.0.1:46780
+[2026.04.23-12.19.12:720][502]LogNet: IpConnection_5 setting maximum channels to: 32767
+[2026.04.23-12.19.12:720][502]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.19.12:720][502]LogNet: NotifyAcceptedConnection: Name: Main_Menu, TimeStamp: 04/23/26 14:19:12, [UNetConnection] RemoteAddr: 127.0.0.1:46780, Name: IpConnection_5, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.19.12:720][502]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:46780, Name: IpConnection_5, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.19.12:720][502]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.19.12:728][503]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu: Accepted
+[2026.04.23-12.19.12:728][503]LogNet: Remote platform little endian=1
+[2026.04.23-12.19.12:728][503]LogNet: This platform little endian=1
+[2026.04.23-12.19.12:736][504]LogNet: Login request: ?Name=DaanArchs-30C06CC2632F4C998365DC8934E50D03 userId: NULL:DaanArchs-30C06CC2632F4C998365DC8934E50D03 platform: NULL
+[2026.04.23-12.19.12:736][504]LogNet: Welcomed by server (Level: /Game/Daan/UEDPIE_0_Main_Menu, Game: /Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C)
+[2026.04.23-12.19.12:737][504]LogLoad: LoadMap: 127.0.0.1:17777/Game/Daan/Main_Menu?game=/Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C
+[2026.04.23-12.19.12:737][504]LogWorld: BeginTearingDown for /Temp/Untitled_3
+[2026.04.23-12.19.12:737][504]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.19.12:737][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.19.12:759][504]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-12.19.12:760][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.04.23-12.19.12:762][504]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-12.19.12:762][504]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 48 us (total: 245 us)
+[2026.04.23-12.19.12:762][504]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main_Menu'.
+[2026.04.23-12.19.12:762][504]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-12.19.12:763][504]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-12.19.12:763][504]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-12.19.12:763][504]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-12.19.12:763][504]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-12.19.12:763][504]LogWorldPartition: Display: WorldPartition initialize took 215 us (total: 7.721 ms)
+[2026.04.23-12.19.12:763][504]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2026.04.23-12.19.12:763][504]LogWorld: Bringing World /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-14.19.12
+[2026.04.23-12.19.12:763][504]LogWorld: Bringing up level for play took: 0.000174
+[2026.04.23-12.19.12:763][504]LogLoad: Took 0.026898 seconds to LoadMap(/Game/Daan/Main_Menu)
+[2026.04.23-12.19.12:763][504]LogGlobalStatus: LoadMap Load map complete /Game/Daan/Main_Menu
+[2026.04.23-12.19.12:763][504]LogGlobalStatus: TravelCompleted Pending net game travel completed
+[2026.04.23-12.19.12:769][505]LogNet: Client netspeed is 100000
+[2026.04.23-12.19.12:769][505]LogNet: Join request: /Game/Daan/Main_Menu?Name=DaanArchs-30C06CC2632F4C998365DC8934E50D03?SplitscreenCount=1
+[2026.04.23-12.19.12:770][505]LogNet: Join succeeded: DaanArchs-30C06CC263
+[2026.04.23-12.19.13:485][591]LogOnlineSession: Display: OSS: Session creation completed. Automatic start is turned on, starting session now.
+[2026.04.23-12.19.13:486][591]LogGlobalStatus: Browse Started Browse: "/Game/Daan/BaseMap?listen"
+[2026.04.23-12.19.13:486][591]LogNet: Browse: /Game/Daan/BaseMap?listen
+[2026.04.23-12.19.13:486][591]LogLoad: LoadMap: /Game/Daan/BaseMap?listen
+[2026.04.23-12.19.13:486][591]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_1_Main_Menu
+[2026.04.23-12.19.13:486][591]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2026.04.23-12.19.13:486][591]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4 
+[2026.04.23-12.19.13:486][591]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-30C06CC2632F4C998365DC8934E50D03, Channels: 10, Time: 2026.04.23-12.19.13
+[2026.04.23-12.19.13:486][591]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-30C06CC2632F4C998365DC8934E50D03
+[2026.04.23-12.19.13:486][591]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_4 shut down
+[2026.04.23-12.19.13:487][591]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.19.13:487][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.19.13:487][591]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu
+[2026.04.23-12.19.13:530][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-12.19.13:532][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.04.23-12.19.13:533][591]LogStreaming: Display: FlushAsyncLoading(538): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.23-12.19.13:848][591]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [SkinnedAsset] anyway! RequiredMemory = 0.000 MiB + 4096.000 MiB, MemoryLimit = 757.986328 MiB 
+[2026.04.23-12.19.13:848][591]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [SkinnedAsset] anyway! RequiredMemory = 0.000 MiB + 4096.000 MiB, MemoryLimit = 757.986328 MiB 
+[2026.04.23-12.19.13:882][591]LogAudio: Display: Audio Device (ID: 4) registered with world 'BaseMap'.
+[2026.04.23-12.19.13:882][591]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseMap
+[2026.04.23-12.19.13:883][591]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2026.04.23-12.19.13:883][591]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.23-12.19.13:883][591]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.04.23-12.19.13:884][591]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.04.23-12.19.13:884][591]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.19.13:884][591]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.19.13:884][591]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2026.04.23-12.19.13:884][591]LogNet: Created socket for bind address: 0.0.0.0:7777
+[2026.04.23-12.19.13:884][591]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.19.13:884][591]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_5 IpNetDriver listening on port 7777
+[2026.04.23-12.19.13:901][591]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor being ready before playing
+[2026.04.23-12.19.13:901][591]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Engine/EngineSky/SM_SkySphere.SM_SkySphere being ready before playing
+[2026.04.23-12.19.13:903][591]LogWorld: Bringing World /Game/Daan/UEDPIE_1_BaseMap.BaseMap up for play (max tick rate 0) at 2026.04.23-14.19.13
+[2026.04.23-12.19.13:903][591]LogWorld: Bringing up level for play took: 0.000863
+[2026.04.23-12.19.13:913][591]LogLoad: Took 0.426939 seconds to LoadMap(/Game/Daan/BaseMap)
+[2026.04.23-12.19.13:913][591]LogGlobalStatus: LoadMap Load map complete /Game/Daan/BaseMap
+[2026.04.23-12.19.13:942][592]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2026.04.23-12.19.13:943][592]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:46780, Name: IpConnection_5, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-30C06CC2632F4C998365DC8934E50D03
+[2026.04.23-12.19.13:943][592]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:46780, Name: IpConnection_5, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-30C06CC2632F4C998365DC8934E50D03, Channels: 10, Time: 2026.04.23-12.19.13
+[2026.04.23-12.19.13:943][592]LogNet: UNetConnection::SendCloseReason:
+[2026.04.23-12.19.13:943][592]LogNet:  - Result=ControlChannelClose, ErrorContext="ControlChannelClose"
+[2026.04.23-12.19.13:943][592]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:46780, Name: IpConnection_5, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-30C06CC2632F4C998365DC8934E50D03
+[2026.04.23-12.19.14:011][593]LogNet: UNetDriver::RemoveClientConnection - Removed address 127.0.0.1:46780 from MappedClientConnections for: [UNetConnection] RemoteAddr: 127.0.0.1:46780, Name: IpConnection_5, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-30C06CC2632F4C998365DC8934E50D03
+[2026.04.23-12.21.57:840][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-12.21.57:840][418]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_1_BaseMap
+[2026.04.23-12.21.57:840][418]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.21.57:840][418]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.21.57:840][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.21.57:841][418]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2026.04.23-12.21.57:841][418]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_5 
+[2026.04.23-12.21.57:841][418]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_5 shut down
+[2026.04.23-12.21.57:841][418]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_0_Main_Menu
+[2026.04.23-12.21.57:841][418]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.21.57:841][418]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.21.57:841][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.21.57:841][418]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu
+[2026.04.23-12.21.57:842][418]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2026.04.23-12.21.57:842][418]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_3 
+[2026.04.23-12.21.57:842][418]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_3 shut down
+[2026.04.23-12.21.57:842][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.23-12.21.57:846][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.21.57:867][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-12.21.57:867][418]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.04.23-12.21.57:871][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.04.23-12.21.57:911][421]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.04.23-12.21.57:911][421]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.04.23-12.21.57:977][429]Cmd: SELECT NONE
+[2026.04.23-12.22.20:071][ 69]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-12.22.20:077][ 69]LogUMGEditor: Disabling Slate Post Buffers for multi-window PIE session, currently not supported.
+[2026.04.23-12.22.20:077][ 69]LogContentBundle: [Main_Menu(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.23-12.22.20:077][ 69]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' started...
+[2026.04.23-12.22.20:077][ 69]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' took 303 us (total: 1.230 ms)
+[2026.04.23-12.22.20:077][ 69]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.04.23-12.22.20:077][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-12.22.20:117][ 69]LogPlayLevel: Creating play world package: /Game/Daan/UEDPIE_0_Main_Menu
+[2026.04.23-12.22.20:118][ 69]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-12.22.20:118][ 69]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 45 us (total: 291 us)
+[2026.04.23-12.22.20:118][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000800s)
+[2026.04.23-12.22.20:118][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Daan/Main_Menu.Main_Menu to /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu (0.000825s)
+[2026.04.23-12.22.20:140][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.04.23-12.22.20:141][ 69]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2026.04.23-12.22.20:141][ 69]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.22.20:141][ 69]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-12.22.20:142][ 69]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-12.22.20:142][ 69]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-12.22.20:142][ 69]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-12.22.20:142][ 69]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Dedicated Server, IsServer = 1, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-12.22.20:143][ 69]LogWorldPartition: Display: WorldPartition initialize took 310 us (total: 8.032 ms)
+[2026.04.23-12.22.20:143][ 69]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2026.04.23-12.22.20:143][ 69]LogLoad: Game class is 'BP_MainMenuGamemode_C'
+[2026.04.23-12.22.20:143][ 69]LogWorld: Bringing World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-14.22.20
+[2026.04.23-12.22.20:143][ 69]LogWorld: Bringing up level for play took: 0.000254
+[2026.04.23-12.22.20:143][ 69]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.04.23-12.22.20:143][ 69]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.04.23-12.22.20:143][ 69]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.22.20:143][ 69]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.22.20:144][ 69]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2026.04.23-12.22.20:144][ 69]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.04.23-12.22.20:144][ 69]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.22.20:144][ 69]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2026.04.23-12.22.20:144][ 69]PIE: Server logged in
+[2026.04.23-12.22.20:144][ 69]PIE: Play in editor total start time 0.067 seconds.
+[2026.04.23-12.22.20:144][ 69]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.04.23-12.22.20:144][ 69]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.22.20:144][ 69]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.04.23-12.22.20:145][ 69]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2026.04.23-12.22.20:145][ 69]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.04.23-12.22.20:145][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-12.22.20:145][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-12.22.20:145][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-12.22.20:145][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-12.22.20:145][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.04.23-12.22.20:145][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-12.22.20:145][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.04.23-12.22.20:145][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-12.22.20:145][ 69]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-12.22.20:145][ 69]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-12.22.20:145][ 69]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-12.22.20:145][ 69]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.04.23-12.22.20:145][ 69]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL3'
+[2026.04.23-12.22.20:145][ 69]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.04.23-12.22.20:145][ 69]LogAudioMixer: Display: Using Audio Hardware Device Raptor Lake-P/U/H cAVS HDMI / DisplayPort 3 Output
+[2026.04.23-12.22.20:145][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-12.22.20:145][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-12.22.20:145][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-12.22.20:146][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=5
+[2026.04.23-12.22.20:146][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.04.23-12.22.20:146][ 69]LogInit: FAudioDevice initialized with ID 5.
+[2026.04.23-12.22.20:146][ 69]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled'.
+[2026.04.23-12.22.20:146][ 69]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.23-12.22.20:148][ 69]LogGlobalStatus: Browse Started Browse: "127.0.0.1:17777/Game/Daan/Main_Menu"
+[2026.04.23-12.22.20:148][ 69]LogNet: Browse: 127.0.0.1:17777/Game/Daan/Main_Menu
+[2026.04.23-12.22.20:148][ 69]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.22.20:148][ 69]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.22.20:148][ 69]LogInit: BSD IPv4/6: Socket queue. Rx: 65536 (config 32768) Tx: 65536 (config 32768)
+[2026.04.23-12.22.20:148][ 69]LogNet: Created socket for bind address: 0.0.0.0:0
+[2026.04.23-12.22.20:148][ 69]LogNet: IpConnection_6 setting maximum channels to: 32767
+[2026.04.23-12.22.20:148][ 69]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.22.20:149][ 69]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 3
+[2026.04.23-12.22.20:149][ 69]LogNet: Game client on port 17777, rate 100000
+[2026.04.23-12.22.20:149][ 69]PIE: Client logged in
+[2026.04.23-12.22.20:150][ 69]PIE: Play in editor total start time 0.073 seconds.
+[2026.04.23-12.22.20:150][ 69]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.04.23-12.22.20:150][ 69]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.22.20:150][ 69]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.04.23-12.22.20:151][ 69]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2026.04.23-12.22.20:151][ 69]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.04.23-12.22.20:151][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-12.22.20:151][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-12.22.20:151][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-12.22.20:151][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-12.22.20:151][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.04.23-12.22.20:151][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-12.22.20:151][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.04.23-12.22.20:151][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-12.22.20:151][ 69]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-12.22.20:151][ 69]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-12.22.20:151][ 69]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-12.22.20:151][ 69]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.04.23-12.22.20:151][ 69]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL3'
+[2026.04.23-12.22.20:151][ 69]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.04.23-12.22.20:151][ 69]LogAudioMixer: Display: Using Audio Hardware Device Raptor Lake-P/U/H cAVS HDMI / DisplayPort 3 Output
+[2026.04.23-12.22.20:152][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-12.22.20:152][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-12.22.20:152][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-12.22.20:152][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=6
+[2026.04.23-12.22.20:152][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.04.23-12.22.20:152][ 69]LogInit: FAudioDevice initialized with ID 6.
+[2026.04.23-12.22.20:152][ 69]LogAudio: Display: Audio Device (ID: 6) registered with world 'Untitled'.
+[2026.04.23-12.22.20:152][ 69]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.23-12.22.20:159][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-12.22.20:159][ 69]LogGlobalStatus: Browse Started Browse: "127.0.0.1:17777/Game/Daan/Main_Menu"
+[2026.04.23-12.22.20:159][ 69]LogNet: Browse: 127.0.0.1:17777/Game/Daan/Main_Menu
+[2026.04.23-12.22.20:159][ 69]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.22.20:159][ 69]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.22.20:159][ 69]LogInit: BSD IPv4/6: Socket queue. Rx: 65536 (config 32768) Tx: 65536 (config 32768)
+[2026.04.23-12.22.20:159][ 69]LogNet: Created socket for bind address: 0.0.0.0:0
+[2026.04.23-12.22.20:159][ 69]LogNet: IpConnection_7 setting maximum channels to: 32767
+[2026.04.23-12.22.20:160][ 69]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.22.20:160][ 69]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 4
+[2026.04.23-12.22.20:160][ 69]LogNet: Game client on port 17777, rate 100000
+[2026.04.23-12.22.20:162][ 69]PIE: Client logged in
+[2026.04.23-12.22.20:165][ 69]PIE: Play in editor total start time 0.088 seconds.
+[2026.04.23-12.22.21:157][188]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:40624
+[2026.04.23-12.22.21:157][188]LogHandshake: SendConnectChallenge. Timestamp: 1.094260, Cookie: 104099243153187009250037229191052015081107075082058100174184
+[2026.04.23-12.22.21:157][188]LogHandshake: Cached server SessionID: 0
+[2026.04.23-12.22.21:157][188]LogHandshake: SendChallengeResponse. Timestamp: 1.094260, Cookie: 104099243153187009250037229191052015081107075082058100174184
+[2026.04.23-12.22.21:165][189]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:40624
+[2026.04.23-12.22.21:165][189]LogHandshake: SendChallengeAck. InCookie: 104099243153187009250037229191052015081107075082058100174184
+[2026.04.23-12.22.21:165][189]LogNet: Server accepting post-challenge connection from: 127.0.0.1:40624
+[2026.04.23-12.22.21:165][189]LogNet: IpConnection_8 setting maximum channels to: 32767
+[2026.04.23-12.22.21:165][189]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.22.21:166][189]LogNet: NotifyAcceptedConnection: Name: Main_Menu, TimeStamp: 04/23/26 14:22:21, [UNetConnection] RemoteAddr: 127.0.0.1:40624, Name: IpConnection_8, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.22.21:166][189]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:40624, Name: IpConnection_8, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.22.21:166][189]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.22.21:174][190]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu: Accepted
+[2026.04.23-12.22.21:174][190]LogNet: Remote platform little endian=1
+[2026.04.23-12.22.21:174][190]LogNet: This platform little endian=1
+[2026.04.23-12.22.21:174][190]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:48400
+[2026.04.23-12.22.21:174][190]LogHandshake: SendConnectChallenge. Timestamp: 1.110927, Cookie: 030153162112065084178150097055081156098061087038005126222205
+[2026.04.23-12.22.21:174][190]LogHandshake: Cached server SessionID: 0
+[2026.04.23-12.22.21:174][190]LogHandshake: SendChallengeResponse. Timestamp: 1.110927, Cookie: 030153162112065084178150097055081156098061087038005126222205
+[2026.04.23-12.22.21:182][191]LogNet: Login request: ?Name=DaanArchs-C09FE8E7D688439FB4BA7322D54376B1 userId: NULL:DaanArchs-C09FE8E7D688439FB4BA7322D54376B1 platform: NULL
+[2026.04.23-12.22.21:182][191]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:48400
+[2026.04.23-12.22.21:182][191]LogHandshake: SendChallengeAck. InCookie: 030153162112065084178150097055081156098061087038005126222205
+[2026.04.23-12.22.21:182][191]LogNet: Server accepting post-challenge connection from: 127.0.0.1:48400
+[2026.04.23-12.22.21:182][191]LogNet: IpConnection_9 setting maximum channels to: 32767
+[2026.04.23-12.22.21:182][191]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.22.21:182][191]LogNet: NotifyAcceptedConnection: Name: Main_Menu, TimeStamp: 04/23/26 14:22:21, [UNetConnection] RemoteAddr: 127.0.0.1:48400, Name: IpConnection_9, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.22.21:182][191]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:48400, Name: IpConnection_9, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.22.21:183][191]LogNet: Welcomed by server (Level: /Game/Daan/UEDPIE_0_Main_Menu, Game: /Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C)
+[2026.04.23-12.22.21:183][191]LogLoad: LoadMap: 127.0.0.1:17777/Game/Daan/Main_Menu?game=/Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C
+[2026.04.23-12.22.21:183][191]LogWorld: BeginTearingDown for /Temp/Untitled_4
+[2026.04.23-12.22.21:183][191]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.22.21:183][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.22.21:208][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-12.22.21:209][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.04.23-12.22.21:211][191]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-12.22.21:211][191]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 50 us (total: 341 us)
+[2026.04.23-12.22.21:211][191]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main_Menu'.
+[2026.04.23-12.22.21:211][191]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-12.22.21:212][191]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-12.22.21:213][191]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-12.22.21:213][191]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-12.22.21:213][191]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-12.22.21:213][191]LogWorldPartition: Display: WorldPartition initialize took 242 us (total: 8.275 ms)
+[2026.04.23-12.22.21:213][191]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2026.04.23-12.22.21:213][191]LogWorld: Bringing World /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-14.22.21
+[2026.04.23-12.22.21:213][191]LogWorld: Bringing up level for play took: 0.000194
+[2026.04.23-12.22.21:213][191]LogLoad: Took 0.030460 seconds to LoadMap(/Game/Daan/Main_Menu)
+[2026.04.23-12.22.21:213][191]LogGlobalStatus: LoadMap Load map complete /Game/Daan/Main_Menu
+[2026.04.23-12.22.21:213][191]LogGlobalStatus: TravelCompleted Pending net game travel completed
+[2026.04.23-12.22.21:213][191]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_7, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_8, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.22.21:221][192]LogNet: Client netspeed is 100000
+[2026.04.23-12.22.21:221][192]LogNet: Join request: /Game/Daan/Main_Menu?Name=DaanArchs-C09FE8E7D688439FB4BA7322D54376B1?SplitscreenCount=1
+[2026.04.23-12.22.21:221][192]LogNet: Join succeeded: DaanArchs-C09FE8E7D6
+[2026.04.23-12.22.21:221][192]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu: Accepted
+[2026.04.23-12.22.21:221][192]LogNet: Remote platform little endian=1
+[2026.04.23-12.22.21:221][192]LogNet: This platform little endian=1
+[2026.04.23-12.22.21:230][193]LogNet: Login request: ?Name=DaanArchs-497FAB5B48B34C819126C4C107C0D9D7 userId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7 platform: NULL
+[2026.04.23-12.22.21:234][193]LogNet: Welcomed by server (Level: /Game/Daan/UEDPIE_0_Main_Menu, Game: /Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C)
+[2026.04.23-12.22.21:234][193]LogLoad: LoadMap: 127.0.0.1:17777/Game/Daan/Main_Menu?game=/Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C
+[2026.04.23-12.22.21:234][193]LogWorld: BeginTearingDown for /Temp/Untitled_5
+[2026.04.23-12.22.21:234][193]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.22.21:235][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.22.21:257][193]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-12.22.21:259][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.04.23-12.22.21:261][193]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-12.22.21:261][193]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 67 us (total: 409 us)
+[2026.04.23-12.22.21:261][193]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main_Menu'.
+[2026.04.23-12.22.21:261][193]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-12.22.21:262][193]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-12.22.21:262][193]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-12.22.21:262][193]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_2_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-12.22.21:262][193]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-12.22.21:263][193]LogWorldPartition: Display: WorldPartition initialize took 273 us (total: 8.548 ms)
+[2026.04.23-12.22.21:263][193]LogPlayLevel: PIE: World Init took: (0.001591s)
+[2026.04.23-12.22.21:263][193]LogWorld: Bringing World /Game/Daan/UEDPIE_2_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-14.22.21
+[2026.04.23-12.22.21:263][193]LogWorld: Bringing up level for play took: 0.000226
+[2026.04.23-12.22.21:263][193]LogLoad: Took 0.028709 seconds to LoadMap(/Game/Daan/Main_Menu)
+[2026.04.23-12.22.21:263][193]LogGlobalStatus: LoadMap Load map complete /Game/Daan/Main_Menu
+[2026.04.23-12.22.21:263][193]LogGlobalStatus: TravelCompleted Pending net game travel completed
+[2026.04.23-12.22.21:273][194]LogNet: Client netspeed is 100000
+[2026.04.23-12.22.21:273][194]LogNet: Join request: /Game/Daan/Main_Menu?Name=DaanArchs-497FAB5B48B34C819126C4C107C0D9D7?SplitscreenCount=1
+[2026.04.23-12.22.21:274][194]LogNet: Join succeeded: DaanArchs-497FAB5B48
+[2026.04.23-12.22.22:815][364]LogOnlineSession: Display: OSS: Session creation completed. Automatic start is turned on, starting session now.
+[2026.04.23-12.22.22:817][364]LogGlobalStatus: Browse Started Browse: "/Game/Daan/BaseMap?listen"
+[2026.04.23-12.22.22:817][364]LogNet: Browse: /Game/Daan/BaseMap?listen
+[2026.04.23-12.22.22:817][364]LogLoad: LoadMap: /Game/Daan/BaseMap?listen
+[2026.04.23-12.22.22:817][364]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_1_Main_Menu
+[2026.04.23-12.22.22:817][364]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2026.04.23-12.22.22:817][364]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_7 
+[2026.04.23-12.22.22:817][364]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_7, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-C09FE8E7D688439FB4BA7322D54376B1, Channels: 12, Time: 2026.04.23-12.22.22
+[2026.04.23-12.22.22:817][364]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_7, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-C09FE8E7D688439FB4BA7322D54376B1
+[2026.04.23-12.22.22:817][364]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_7 shut down
+[2026.04.23-12.22.22:818][364]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.22.22:818][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.22.22:818][364]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu
+[2026.04.23-12.22.22:881][364]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-12.22.22:883][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.23-12.22.22:884][364]LogStreaming: Display: FlushAsyncLoading(539): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.23-12.22.22:887][364]LogAudio: Display: Audio Device (ID: 5) registered with world 'BaseMap'.
+[2026.04.23-12.22.22:887][364]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseMap
+[2026.04.23-12.22.22:888][364]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2026.04.23-12.22.22:888][364]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.23-12.22.22:888][364]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.04.23-12.22.22:888][364]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.04.23-12.22.22:888][364]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.22.22:888][364]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.22.22:889][364]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2026.04.23-12.22.22:889][364]LogNet: Created socket for bind address: 0.0.0.0:7777
+[2026.04.23-12.22.22:889][364]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.22.22:889][364]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9 IpNetDriver listening on port 7777
+[2026.04.23-12.22.22:889][364]LogWorld: Bringing World /Game/Daan/UEDPIE_1_BaseMap.BaseMap up for play (max tick rate 0) at 2026.04.23-14.22.22
+[2026.04.23-12.22.22:890][364]LogWorld: Bringing up level for play took: 0.000739
+[2026.04.23-12.22.22:892][364]LogLoad: Took 0.075224 seconds to LoadMap(/Game/Daan/BaseMap)
+[2026.04.23-12.22.22:892][364]LogGlobalStatus: LoadMap Load map complete /Game/Daan/BaseMap
+[2026.04.23-12.22.22:900][365]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2026.04.23-12.22.22:900][365]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:40624, Name: IpConnection_8, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-C09FE8E7D688439FB4BA7322D54376B1
+[2026.04.23-12.22.22:900][365]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:40624, Name: IpConnection_8, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-C09FE8E7D688439FB4BA7322D54376B1, Channels: 12, Time: 2026.04.23-12.22.22
+[2026.04.23-12.22.22:900][365]LogNet: UNetConnection::SendCloseReason:
+[2026.04.23-12.22.22:900][365]LogNet:  - Result=ControlChannelClose, ErrorContext="ControlChannelClose"
+[2026.04.23-12.22.22:900][365]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:40624, Name: IpConnection_8, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-C09FE8E7D688439FB4BA7322D54376B1
+[2026.04.23-12.22.22:908][366]LogNet: UNetDriver::RemoveClientConnection - Removed address 127.0.0.1:40624 from MappedClientConnections for: [UNetConnection] RemoteAddr: 127.0.0.1:40624, Name: IpConnection_8, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-C09FE8E7D688439FB4BA7322D54376B1
+[2026.04.23-12.22.35:804][293]LogGlobalStatus: Browse Started Browse: "10.16.33.177/Game/Daan/Main_Menu"
+[2026.04.23-12.22.35:804][293]LogNet: Browse: 10.16.33.177/Game/Daan/Main_Menu
+[2026.04.23-12.22.35:804][293]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2026.04.23-12.22.35:804][293]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_8 
+[2026.04.23-12.22.35:804][293]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_7, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_8, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7, Channels: 10, Time: 2026.04.23-12.22.35
+[2026.04.23-12.22.35:804][293]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_7, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_8, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7
+[2026.04.23-12.22.35:804][293]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_8 shut down
+[2026.04.23-12.22.35:805][293]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.22.35:805][293]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.22.35:805][293]LogInit: BSD IPv4/6: Socket queue. Rx: 65536 (config 32768) Tx: 65536 (config 32768)
+[2026.04.23-12.22.35:805][293]LogNet: Created socket for bind address: 0.0.0.0:0
+[2026.04.23-12.22.35:805][293]LogNet: IpConnection_10 setting maximum channels to: 32767
+[2026.04.23-12.22.35:805][293]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.22.35:805][293]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 5
+[2026.04.23-12.22.35:805][293]LogNet: Game client on port 7777, rate 100000
+[2026.04.23-12.22.35:814][294]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2026.04.23-12.22.35:814][294]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:48400, Name: IpConnection_9, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_1, Owner: BP_ThirdPersonPlayerController_C_1, UniqueId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7
+[2026.04.23-12.22.35:814][294]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:48400, Name: IpConnection_9, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_1, Owner: BP_ThirdPersonPlayerController_C_1, UniqueId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7, Channels: 10, Time: 2026.04.23-12.22.35
+[2026.04.23-12.22.35:814][294]LogNet: UNetConnection::SendCloseReason:
+[2026.04.23-12.22.35:814][294]LogNet:  - Result=ControlChannelClose, ErrorContext="ControlChannelClose"
+[2026.04.23-12.22.35:814][294]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:48400, Name: IpConnection_9, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_1, Owner: BP_ThirdPersonPlayerController_C_1, UniqueId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7
+[2026.04.23-12.22.35:828][295]LogNet: UNetDriver::RemoveClientConnection - Removed address 127.0.0.1:48400 from MappedClientConnections for: [UNetConnection] RemoteAddr: 127.0.0.1:48400, Name: IpConnection_9, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_1, Owner: BP_ThirdPersonPlayerController_C_1, UniqueId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7
+[2026.04.23-12.22.36:819][366]LogNet: NotifyAcceptingConnection accepted from: 10.16.33.177:36752
+[2026.04.23-12.22.36:820][366]LogHandshake: SendConnectChallenge. Timestamp: 14.013848, Cookie: 012085210222055213155196171232173097216056128209220101233224
+[2026.04.23-12.22.36:820][366]LogHandshake: Cached server SessionID: 0
+[2026.04.23-12.22.36:820][366]LogHandshake: SendChallengeResponse. Timestamp: 14.013848, Cookie: 012085210222055213155196171232173097216056128209220101233224
+[2026.04.23-12.22.36:833][367]LogNet: NotifyAcceptingConnection accepted from: 10.16.33.177:36752
+[2026.04.23-12.22.36:833][367]LogHandshake: SendChallengeAck. InCookie: 012085210222055213155196171232173097216056128209220101233224
+[2026.04.23-12.22.36:833][367]LogNet: Server accepting post-challenge connection from: 10.16.33.177:36752
+[2026.04.23-12.22.36:833][367]LogNet: IpConnection_11 setting maximum channels to: 32767
+[2026.04.23-12.22.36:833][367]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.22.36:833][367]LogNet: NotifyAcceptedConnection: Name: BaseMap, TimeStamp: 04/23/26 14:22:36, [UNetConnection] RemoteAddr: 10.16.33.177:36752, Name: IpConnection_11, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.22.36:833][367]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 10.16.33.177:36752, Name: IpConnection_11, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.22.36:834][367]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 10.16.33.177:7777, Name: IpConnection_10, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_10, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.22.36:846][368]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Daan/UEDPIE_1_BaseMap.BaseMap: Accepted
+[2026.04.23-12.22.36:846][368]LogNet: Remote platform little endian=1
+[2026.04.23-12.22.36:846][368]LogNet: This platform little endian=1
+[2026.04.23-12.22.36:860][369]LogNet: Login request: ?Name=DaanArchs-497FAB5B48B34C819126C4C107C0D9D7 userId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7 platform: NULL
+[2026.04.23-12.22.36:861][369]LogNet: Welcomed by server (Level: /Game/Daan/UEDPIE_1_BaseMap, Game: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C)
+[2026.04.23-12.22.36:861][369]LogLoad: LoadMap: 10.16.33.177/Game/Daan/BaseMap?game=/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C
+[2026.04.23-12.22.36:861][369]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_2_Main_Menu
+[2026.04.23-12.22.36:862][369]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.22.36:862][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.22.36:862][369]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_2_Main_Menu.Main_Menu
+[2026.04.23-12.22.36:887][369]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-12.22.36:889][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.04.23-12.22.36:890][369]LogStreaming: Display: FlushAsyncLoading(540): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.23-12.22.36:893][369]LogAudio: Display: Audio Device (ID: 6) registered with world 'BaseMap'.
+[2026.04.23-12.22.36:893][369]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseMap
+[2026.04.23-12.22.36:894][369]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2026.04.23-12.22.36:895][369]LogWorld: Bringing World /Game/Daan/UEDPIE_2_BaseMap.BaseMap up for play (max tick rate 0) at 2026.04.23-14.22.36
+[2026.04.23-12.22.36:895][369]LogWorld: Bringing up level for play took: 0.000797
+[2026.04.23-12.22.36:895][369]LogLoad: Took 0.033721 seconds to LoadMap(/Game/Daan/BaseMap)
+[2026.04.23-12.22.36:895][369]LogGlobalStatus: LoadMap Load map complete /Game/Daan/BaseMap
+[2026.04.23-12.22.36:895][369]LogGlobalStatus: TravelCompleted Pending net game travel completed
+[2026.04.23-12.22.36:904][370]LogNet: Client netspeed is 100000
+[2026.04.23-12.22.36:904][370]LogNet: Join request: /Game/Daan/Main_Menu?Name=DaanArchs-497FAB5B48B34C819126C4C107C0D9D7?SplitscreenCount=1
+[2026.04.23-12.22.36:908][370]LogNet: Join succeeded: DaanArchs-497FAB5B48
+[2026.04.23-12.22.40:890][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-12.22.40:890][578]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_2_BaseMap
+[2026.04.23-12.22.40:890][578]LogSlate: Window 'ProjectPublish Preview [NetMode: Client 2]  (64-bit/PC Vulkan SM6)' being destroyed
+[2026.04.23-12.22.40:897][578]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.22.40:897][578]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.22.40:897][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.22.40:898][578]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2026.04.23-12.22.40:898][578]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_10 
+[2026.04.23-12.22.40:898][578]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 10.16.33.177:7777, Name: IpConnection_10, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_10, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7, Channels: 12, Time: 2026.04.23-12.22.40
+[2026.04.23-12.22.40:898][578]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 10.16.33.177:7777, Name: IpConnection_10, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_10, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7
+[2026.04.23-12.22.40:899][578]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_10 shut down
+[2026.04.23-12.22.40:899][578]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_1_BaseMap
+[2026.04.23-12.22.40:899][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-12.22.40:899][578]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.22.40:899][578]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.22.40:899][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.22.40:900][578]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2026.04.23-12.22.40:900][578]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9 
+[2026.04.23-12.22.40:900][578]LogNet: UNetConnection::SendCloseReason:
+[2026.04.23-12.22.40:900][578]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2026.04.23-12.22.40:900][578]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 10.16.33.177:36752, Name: IpConnection_11, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_1, Owner: BP_ThirdPersonPlayerController_C_1, UniqueId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7
+[2026.04.23-12.22.40:900][578]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 10.16.33.177:36752, Name: IpConnection_11, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_1, Owner: BP_ThirdPersonPlayerController_C_1, UniqueId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7, Channels: 12, Time: 2026.04.23-12.22.40
+[2026.04.23-12.22.40:900][578]LogNet: UNetConnection::SendCloseReason:
+[2026.04.23-12.22.40:900][578]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2026.04.23-12.22.40:900][578]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 10.16.33.177:36752, Name: IpConnection_11, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_1, Owner: BP_ThirdPersonPlayerController_C_1, UniqueId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7
+[2026.04.23-12.22.40:900][578]LogNet: UNetDriver::RemoveClientConnection - Removed address 10.16.33.177:36752 from MappedClientConnections for: [UNetConnection] RemoteAddr: 10.16.33.177:36752, Name: IpConnection_11, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_1, Owner: BP_ThirdPersonPlayerController_C_1, UniqueId: NULL:DaanArchs-497FAB5B48B34C819126C4C107C0D9D7
+[2026.04.23-12.22.40:900][578]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_9 shut down
+[2026.04.23-12.22.40:900][578]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_0_Main_Menu
+[2026.04.23-12.22.40:901][578]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.22.40:901][578]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.22.40:901][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.22.40:901][578]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu
+[2026.04.23-12.22.40:901][578]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2026.04.23-12.22.40:901][578]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6 
+[2026.04.23-12.22.40:901][578]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_6 shut down
+[2026.04.23-12.22.40:901][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.23-12.22.40:904][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.22.40:928][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-12.22.40:928][578]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.04.23-12.22.40:929][578]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.04.23-12.22.40:933][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.23-12.22.41:006][579]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.04.23-12.22.41:006][579]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.04.23-12.22.41:006][579]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2026.04.23-12.22.56:367][414]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-12.22.56:373][414]LogContentBundle: [Main_Menu(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.23-12.22.56:373][414]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' started...
+[2026.04.23-12.22.56:374][414]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' took 297 us (total: 1.527 ms)
+[2026.04.23-12.22.56:374][414]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.04.23-12.22.56:374][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-12.22.56:405][414]LogPlayLevel: Creating play world package: /Game/Daan/UEDPIE_0_Main_Menu
+[2026.04.23-12.22.56:405][414]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-12.22.56:405][414]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 51 us (total: 460 us)
+[2026.04.23-12.22.56:405][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000783s)
+[2026.04.23-12.22.56:406][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Daan/Main_Menu.Main_Menu to /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu (0.000807s)
+[2026.04.23-12.22.56:428][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.04.23-12.22.56:429][414]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.04.23-12.22.56:429][414]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.22.56:429][414]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-12.22.56:430][414]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-12.22.56:430][414]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-12.22.56:430][414]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-12.22.56:430][414]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Dedicated Server, IsServer = 1, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-12.22.56:430][414]LogWorldPartition: Display: WorldPartition initialize took 275 us (total: 8.824 ms)
+[2026.04.23-12.22.56:430][414]LogPlayLevel: PIE: World Init took: (0.001562s)
+[2026.04.23-12.22.56:430][414]LogLoad: Game class is 'BP_MainMenuGamemode_C'
+[2026.04.23-12.22.56:431][414]LogWorld: Bringing World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-14.22.56
+[2026.04.23-12.22.56:431][414]LogWorld: Bringing up level for play took: 0.000255
+[2026.04.23-12.22.56:431][414]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.04.23-12.22.56:431][414]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.04.23-12.22.56:431][414]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.22.56:431][414]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.22.56:431][414]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2026.04.23-12.22.56:431][414]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.04.23-12.22.56:431][414]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.22.56:431][414]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_11 IpNetDriver listening on port 17777
+[2026.04.23-12.22.56:431][414]PIE: Server logged in
+[2026.04.23-12.22.56:431][414]PIE: Play in editor total start time 0.058 seconds.
+[2026.04.23-12.22.56:432][414]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.04.23-12.22.56:432][414]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.22.56:432][414]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.04.23-12.22.56:433][414]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2026.04.23-12.22.56:433][414]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.04.23-12.22.56:433][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-12.22.56:433][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-12.22.56:433][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-12.22.56:433][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-12.22.56:433][414]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL3'
+[2026.04.23-12.22.56:433][414]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: Using Audio Hardware Device Raptor Lake-P/U/H cAVS HDMI / DisplayPort 3 Output
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=7
+[2026.04.23-12.22.56:433][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.04.23-12.22.56:433][414]LogInit: FAudioDevice initialized with ID 7.
+[2026.04.23-12.22.56:433][414]LogAudio: Display: Audio Device (ID: 7) registered with world 'Untitled'.
+[2026.04.23-12.22.56:434][414]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.23-12.22.56:435][414]LogGlobalStatus: Browse Started Browse: "127.0.0.1:17777/Game/Daan/Main_Menu"
+[2026.04.23-12.22.56:436][414]LogNet: Browse: 127.0.0.1:17777/Game/Daan/Main_Menu
+[2026.04.23-12.22.56:436][414]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.22.56:436][414]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.22.56:436][414]LogInit: BSD IPv4/6: Socket queue. Rx: 65536 (config 32768) Tx: 65536 (config 32768)
+[2026.04.23-12.22.56:436][414]LogNet: Created socket for bind address: 0.0.0.0:0
+[2026.04.23-12.22.56:436][414]LogNet: IpConnection_12 setting maximum channels to: 32767
+[2026.04.23-12.22.56:436][414]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.22.56:436][414]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 6
+[2026.04.23-12.22.56:436][414]LogNet: Game client on port 17777, rate 100000
+[2026.04.23-12.22.56:436][414]PIE: Client logged in
+[2026.04.23-12.22.56:437][414]PIE: Play in editor total start time 0.064 seconds.
+[2026.04.23-12.22.57:460][537]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57249
+[2026.04.23-12.22.57:460][537]LogHandshake: SendConnectChallenge. Timestamp: 1.100647, Cookie: 053079255116231215142247012106141053153058106164167212217234
+[2026.04.23-12.22.57:460][537]LogHandshake: Cached server SessionID: 0
+[2026.04.23-12.22.57:460][537]LogHandshake: SendChallengeResponse. Timestamp: 1.100647, Cookie: 053079255116231215142247012106141053153058106164167212217234
+[2026.04.23-12.22.57:468][538]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57249
+[2026.04.23-12.22.57:468][538]LogHandshake: SendChallengeAck. InCookie: 053079255116231215142247012106141053153058106164167212217234
+[2026.04.23-12.22.57:468][538]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57249
+[2026.04.23-12.22.57:468][538]LogNet: IpConnection_13 setting maximum channels to: 32767
+[2026.04.23-12.22.57:468][538]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.22.57:468][538]LogNet: NotifyAcceptedConnection: Name: Main_Menu, TimeStamp: 04/23/26 14:22:57, [UNetConnection] RemoteAddr: 127.0.0.1:57249, Name: IpConnection_13, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_11, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.22.57:468][538]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57249, Name: IpConnection_13, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_11, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.22.57:469][538]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_12, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-12.22.57:477][539]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu: Accepted
+[2026.04.23-12.22.57:477][539]LogNet: Remote platform little endian=1
+[2026.04.23-12.22.57:477][539]LogNet: This platform little endian=1
+[2026.04.23-12.22.57:485][540]LogNet: Login request: ?Name=DaanArchs-E6B035D572634E628432B0000B84E127 userId: NULL:DaanArchs-E6B035D572634E628432B0000B84E127 platform: NULL
+[2026.04.23-12.22.57:485][540]LogNet: Welcomed by server (Level: /Game/Daan/UEDPIE_0_Main_Menu, Game: /Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C)
+[2026.04.23-12.22.57:485][540]LogLoad: LoadMap: 127.0.0.1:17777/Game/Daan/Main_Menu?game=/Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C
+[2026.04.23-12.22.57:485][540]LogWorld: BeginTearingDown for /Temp/Untitled_6
+[2026.04.23-12.22.57:485][540]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.22.57:485][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.22.57:509][540]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-12.22.57:511][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.04.23-12.22.57:513][540]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-12.22.57:513][540]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 47 us (total: 508 us)
+[2026.04.23-12.22.57:513][540]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main_Menu'.
+[2026.04.23-12.22.57:513][540]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-12.22.57:514][540]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-12.22.57:514][540]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-12.22.57:514][540]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-12.22.57:514][540]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-12.22.57:515][540]LogWorldPartition: Display: WorldPartition initialize took 236 us (total: 9.061 ms)
+[2026.04.23-12.22.57:515][540]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2026.04.23-12.22.57:515][540]LogWorld: Bringing World /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-14.22.57
+[2026.04.23-12.22.57:515][540]LogWorld: Bringing up level for play took: 0.000184
+[2026.04.23-12.22.57:515][540]LogLoad: Took 0.029761 seconds to LoadMap(/Game/Daan/Main_Menu)
+[2026.04.23-12.22.57:515][540]LogGlobalStatus: LoadMap Load map complete /Game/Daan/Main_Menu
+[2026.04.23-12.22.57:515][540]LogGlobalStatus: TravelCompleted Pending net game travel completed
+[2026.04.23-12.22.57:521][541]LogNet: Client netspeed is 100000
+[2026.04.23-12.22.57:521][541]LogNet: Join request: /Game/Daan/Main_Menu?Name=DaanArchs-E6B035D572634E628432B0000B84E127?SplitscreenCount=1
+[2026.04.23-12.22.57:523][541]LogNet: Join succeeded: DaanArchs-E6B035D572
+[2026.04.23-12.22.58:602][650]LogOnlineSession: Display: OSS: Session creation completed. Automatic start is turned on, starting session now.
+[2026.04.23-12.22.58:603][650]LogGlobalStatus: Browse Started Browse: "/Game/Daan/BaseMap?listen"
+[2026.04.23-12.22.58:603][650]LogNet: Browse: /Game/Daan/BaseMap?listen
+[2026.04.23-12.22.58:603][650]LogLoad: LoadMap: /Game/Daan/BaseMap?listen
+[2026.04.23-12.22.58:603][650]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_1_Main_Menu
+[2026.04.23-12.22.58:603][650]LogNet: World NetDriver shutdown IpNetDriver_12 [GameNetDriver]
+[2026.04.23-12.22.58:603][650]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_12 
+[2026.04.23-12.22.58:603][650]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_12, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-E6B035D572634E628432B0000B84E127, Channels: 10, Time: 2026.04.23-12.22.58
+[2026.04.23-12.22.58:603][650]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_12, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_12, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-E6B035D572634E628432B0000B84E127
+[2026.04.23-12.22.58:603][650]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_12 shut down
+[2026.04.23-12.22.58:604][650]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.22.58:604][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.22.58:604][650]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu
+[2026.04.23-12.22.58:658][650]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-12.22.58:659][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.04.23-12.22.58:661][650]LogStreaming: Display: FlushAsyncLoading(541): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.23-12.22.58:663][650]LogAudio: Display: Audio Device (ID: 7) registered with world 'BaseMap'.
+[2026.04.23-12.22.58:663][650]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseMap
+[2026.04.23-12.22.58:664][650]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2026.04.23-12.22.58:664][650]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.23-12.22.58:664][650]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.04.23-12.22.58:664][650]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.04.23-12.22.58:664][650]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-12.22.58:664][650]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-12.22.58:665][650]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2026.04.23-12.22.58:665][650]LogNet: Created socket for bind address: 0.0.0.0:7777
+[2026.04.23-12.22.58:665][650]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-12.22.58:665][650]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_13 IpNetDriver listening on port 7777
+[2026.04.23-12.22.58:665][650]LogWorld: Bringing World /Game/Daan/UEDPIE_1_BaseMap.BaseMap up for play (max tick rate 0) at 2026.04.23-14.22.58
+[2026.04.23-12.22.58:666][650]LogWorld: Bringing up level for play took: 0.000721
+[2026.04.23-12.22.58:668][650]LogLoad: Took 0.065017 seconds to LoadMap(/Game/Daan/BaseMap)
+[2026.04.23-12.22.58:668][650]LogGlobalStatus: LoadMap Load map complete /Game/Daan/BaseMap
+[2026.04.23-12.22.58:675][651]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2026.04.23-12.22.58:675][651]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57249, Name: IpConnection_13, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_11, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-E6B035D572634E628432B0000B84E127
+[2026.04.23-12.22.58:675][651]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57249, Name: IpConnection_13, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_11, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-E6B035D572634E628432B0000B84E127, Channels: 10, Time: 2026.04.23-12.22.58
+[2026.04.23-12.22.58:675][651]LogNet: UNetConnection::SendCloseReason:
+[2026.04.23-12.22.58:675][651]LogNet:  - Result=ControlChannelClose, ErrorContext="ControlChannelClose"
+[2026.04.23-12.22.58:675][651]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57249, Name: IpConnection_13, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_11, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-E6B035D572634E628432B0000B84E127
+[2026.04.23-12.22.58:683][652]LogNet: UNetDriver::RemoveClientConnection - Removed address 127.0.0.1:57249 from MappedClientConnections for: [UNetConnection] RemoteAddr: 127.0.0.1:57249, Name: IpConnection_13, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_11, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-E6B035D572634E628432B0000B84E127
+[2026.04.23-12.24.19:552][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-12.24.19:552][814]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_1_BaseMap
+[2026.04.23-12.24.19:552][814]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.24.19:552][814]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.24.19:552][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.24.19:552][814]LogNet: World NetDriver shutdown IpNetDriver_13 [GameNetDriver]
+[2026.04.23-12.24.19:553][814]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_13 
+[2026.04.23-12.24.19:553][814]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_13 shut down
+[2026.04.23-12.24.19:553][814]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_0_Main_Menu
+[2026.04.23-12.24.19:553][814]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-12.24.19:553][814]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-12.24.19:553][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.24.19:553][814]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu
+[2026.04.23-12.24.19:553][814]LogNet: World NetDriver shutdown IpNetDriver_11 [GameNetDriver]
+[2026.04.23-12.24.19:553][814]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_11 
+[2026.04.23-12.24.19:553][814]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_11 shut down
+[2026.04.23-12.24.19:553][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.23-12.24.19:556][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-12.24.19:580][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-12.24.19:580][814]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.23-12.24.19:583][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.04.23-12.24.19:630][819]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.04.23-12.24.19:630][819]LogPlayLevel: Display: Destroying online subsystem :Context_13
