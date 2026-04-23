@@ -1,0 +1,46 @@
+Generating report for minidump
+
+Application version 5.7.4.0
+ ... built from changelist 51494982
+
+OS version Linux 6.19.12-arch1-1 (network name: DaanArchs)
+Running 10 x86_64 processors (16 logical cores)
+Exception was "Ensure condition failed: false  [File:./Runtime/Engine/Private/WorldPartition/WorldPartitionLevelHelper.cpp] [Line: 919] "
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libUnrealEditor-Engine.so!FWorldPartitionLevelHelper::LoadActorsInternal(FWorldPartitionLevelHelper::FLoadActorsParams&&, FWorldPartitionLevelHelper::FLoadedPropertyOverrides&&)::$_0::operator()(FName const&, UPackage*, EAsyncLoadingResult::Type) const::'lambda'()::operator()() const [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/WorldPartition/WorldPartitionLevelHelper.cpp:919]
+libUnrealEditor-Engine.so!decltype(auto) UE::Core::Private::Tuple::TTupleBase<TIntegerSequence<unsigned int> >::ApplyAfter<FWorldPartitionLevelHelper::LoadActorsInternal(FWorldPartitionLevelHelper::FLoadActorsParams&&, FWorldPartitionLevelHelper::FLoadedPropertyOverrides&&)::$_0&, FName const&, UPackage*, EAsyncLoadingResult::Type>(FWorldPartitionLevelHelper::LoadActorsInternal(FWorldPartitionLevelHelper::FLoadActorsParams&&, FWorldPartitionLevelHelper::FLoadedPropertyOverrides&&)::$_0&&&, FName const&&&, UPackage*&&, EAsyncLoadingResult::Type&&) const & [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/WorldPartition/WorldPartitionLevelHelper.cpp:919]
+libUnrealEditor-Engine.so!TBaseFunctorDelegateInstance<void (FName const&, UPackage*, EAsyncLoadingResult::Type), FDefaultDelegateUserPolicy, FWorldPartitionLevelHelper::LoadActorsInternal(FWorldPartitionLevelHelper::FLoadActorsParams&&, FWorldPartitionLevelHelper::FLoadedPropertyOverrides&&)::$_0>::ExecuteIfSafe(FName const&, UPackage*, EAsyncLoadingResult::Type) const [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstancesImpl.h:919]
+libUnrealEditor-CoreUObject.so!FAsyncLoadingThread2::FCompletedPackageRequest::CallCompletionCallbacks() [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Delegates/DelegateSignatureImpl.inl:631]
+libUnrealEditor-CoreUObject.so!FAsyncLoadingThread2::ProcessLoadedPackagesFromGameThread(FAsyncLoadingThreadState2&, bool&, TArrayView<int const, int>) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/Serialization/AsyncLoading2.cpp:10124]
+libUnrealEditor-CoreUObject.so!FAsyncLoadingThread2::TickAsyncLoadingFromGameThread(FAsyncLoadingThreadState2&, bool, bool, double, TArrayView<int const, int>, bool&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/Serialization/AsyncLoading2.cpp:10194]
+libUnrealEditor-CoreUObject.so!FAsyncLoadingThread2::FlushLoading(TArrayView<int const, int>) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/Serialization/AsyncLoading2.cpp:11908]
+libUnrealEditor-CoreUObject.so!FlushAsyncLoading(TArrayView<int const, int>) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/Serialization/AsyncPackageLoader.cpp:354]
+libUnrealEditor-Engine.so!UWorld::FlushAsyncLevelRequests() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/World.cpp:4928]
+libUnrealEditor-Engine.so!UWorld::FlushLevelStreaming(EFlushLevelStreamingType) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/World.cpp:5303]
+libUnrealEditor-Engine.so!UWorld::BlockTillLevelStreamingCompleted() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/World.cpp:4759]
+libUnrealEditor-Engine.so!UEngine::BlockTillLevelStreamingCompleted(UWorld*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/UnrealEngine.cpp:16375]
+libUnrealEditor-Engine.so!UGameInstance::StartPlayInEditorGameInstance(ULocalPlayer*, FGameInstancePIEParameters const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/GameInstance.cpp:519]
+libUnrealEditor-UnrealEd.so!UEditorEngine::CreateInnerProcessPIEGameInstance(FRequestPlaySessionParams&, FGameInstancePIEParameters const&, int) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:3187]
+libUnrealEditor-UnrealEd.so!UEditorEngine::OnLoginPIEComplete_Deferred(int, bool, FString, FPieLoginStruct) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1628]
+libUnrealEditor-UnrealEd.so!UEditorEngine::CreateNewPlayInEditorInstance(FRequestPlaySessionParams&, bool, EPlayNetMode) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1888]
+libUnrealEditor-UnrealEd.so!UEditorEngine::StartPlayInEditorSession(FRequestPlaySessionParams&) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:2911]
+libUnrealEditor-UnrealEd.so!UEditorEngine::StartQueuedPlaySessionRequestImpl() [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1193]
+libUnrealEditor-UnrealEd.so!UEditorEngine::StartQueuedPlaySessionRequest() [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1103]
+libUnrealEditor-UnrealEd.so!UEditorEngine::Tick(float, bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/EditorEngine.cpp:2057]
+libUnrealEditor-UnrealEd.so!UUnrealEdEngine::Tick(float, bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/UnrealEdEngine.cpp:534]
+UnrealEditor!FEngineLoop::Tick() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/LaunchEngineLoop.cpp:5828]
+UnrealEditor!GuardedMain(char16_t const*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/Launch.cpp:60]
+libUnrealEditor-UnixCommonStartup.so!CommonUnixMain(int, char**, int (*)(char16_t const*), void (*)()) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Unix/UnixCommonStartup/Private/UnixCommonStartup.cpp:323]
+libc.so.6!UnknownFunction(0x276c0)
+libc.so.6!__libc_start_main(+0x88)
+UnrealEditor!_start [/opt/unreal-engine/Engine/Binaries/Linux/UnrealEditor:-1]
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

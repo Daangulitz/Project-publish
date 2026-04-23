@@ -1,3 +1,9 @@
-2026/04/23-11:14:38.973 596c Reusing MANIFEST C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
-2026/04/23-11:14:38.974 596c Recovering log #3
-2026/04/23-11:14:38.977 596c Reusing old log C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\Session Storage/000003.log 
+<<<<<<< HEAD
+2026/04/23-09:03:20.234 8c9 Reusing MANIFEST /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/webcache_6613/Default/Session Storage/MANIFEST-000001
+2026/04/23-09:03:20.234 8c9 Recovering log #3
+2026/04/23-09:03:20.234 8c9 Reusing old log /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/webcache_6613/Default/Session Storage/000003.log 
+=======
+2026/04/21-13:55:09.212 5eb0 Reusing MANIFEST C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+2026/04/21-13:55:09.213 5eb0 Recovering log #3
+2026/04/21-13:55:09.214 5eb0 Reusing old log C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\Session Storage/000003.log 
+>>>>>>> origin/#1-Health-And-damage-

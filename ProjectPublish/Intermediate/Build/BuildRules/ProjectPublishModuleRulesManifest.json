@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/AdvancedSessions.Build.cs",
+		"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/AdvancedSteamSessions.Build.cs"
+	],
+	"EngineVersion": "5.7.4"
+}
