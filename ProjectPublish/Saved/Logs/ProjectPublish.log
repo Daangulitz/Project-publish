@@ -7191,3 +7191,496 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.04.23-10.46.29:568][326]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21120.00Kb MemTypeIndex=1
 [2026.04.23-10.46.29:596][327]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5312.00Kb MemTypeIndex=1
 [2026.04.23-10.46.29:597][327]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21120.00Kb MemTypeIndex=1
+[2026.04.23-10.48.02:429][357]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-10.48.02:434][357]LogContentBundle: [Main_Menu(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.23-10.48.02:434][357]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' started...
+[2026.04.23-10.48.02:434][357]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' took 318 us (total: 4.399 ms)
+[2026.04.23-10.48.02:434][357]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.04.23-10.48.02:434][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-10.48.02:435][357]LogPlayLevel: Creating play world package: /Game/Daan/UEDPIE_0_Main_Menu
+[2026.04.23-10.48.02:435][357]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-10.48.02:435][357]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 41 us (total: 1.914 ms)
+[2026.04.23-10.48.02:436][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000835s)
+[2026.04.23-10.48.02:436][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Daan/Main_Menu.Main_Menu to /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu (0.000864s)
+[2026.04.23-10.48.02:457][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.04.23-10.48.02:458][357]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2026.04.23-10.48.02:458][357]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-10.48.02:458][357]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-10.48.02:460][357]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-10.48.02:460][357]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-10.48.02:460][357]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-10.48.02:460][357]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Dedicated Server, IsServer = 1, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-10.48.02:460][357]LogWorldPartition: Display: WorldPartition initialize took 324 us (total: 27.704 ms)
+[2026.04.23-10.48.02:460][357]LogPlayLevel: PIE: World Init took: (0.001579s)
+[2026.04.23-10.48.02:460][357]LogLoad: Game class is 'BP_MainMenuGamemode_C'
+[2026.04.23-10.48.02:460][357]LogWorld: Bringing World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-12.48.02
+[2026.04.23-10.48.02:460][357]LogWorld: Bringing up level for play took: 0.000266
+[2026.04.23-10.48.02:461][357]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.04.23-10.48.02:461][357]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.04.23-10.48.02:461][357]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-10.48.02:461][357]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-10.48.02:461][357]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2026.04.23-10.48.02:461][357]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.04.23-10.48.02:461][357]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-10.48.02:461][357]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_52 IpNetDriver listening on port 17777
+[2026.04.23-10.48.02:461][357]PIE: Server logged in
+[2026.04.23-10.48.02:461][357]PIE: Play in editor total start time 0.027 seconds.
+[2026.04.23-10.48.02:461][357]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.04.23-10.48.02:461][357]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-10.48.02:461][357]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.04.23-10.48.02:462][357]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2026.04.23-10.48.02:462][357]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2026.04.23-10.48.02:462][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-10.48.02:462][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-10.48.02:462][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-10.48.02:462][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-10.48.02:462][357]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.04.23-10.48.02:462][357]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-10.48.02:462][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.04.23-10.48.02:462][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-10.48.02:462][357]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-10.48.02:462][357]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-10.48.02:462][357]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-10.48.02:462][357]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.04.23-10.48.02:462][357]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL3'
+[2026.04.23-10.48.02:462][357]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.04.23-10.48.02:463][357]LogAudioMixer: Display: Using Audio Hardware Device Raptor Lake-P/U/H cAVS HDMI / DisplayPort 3 Output
+[2026.04.23-10.48.02:463][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-10.48.02:463][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-10.48.02:463][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-10.48.02:463][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=38
+[2026.04.23-10.48.02:463][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2026.04.23-10.48.02:463][357]LogInit: FAudioDevice initialized with ID 38.
+[2026.04.23-10.48.02:463][357]LogAudio: Display: Audio Device (ID: 38) registered with world 'Untitled'.
+[2026.04.23-10.48.02:463][357]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2026.04.23-10.48.02:465][357]LogGlobalStatus: Browse Started Browse: "127.0.0.1:17777/Game/Daan/Main_Menu"
+[2026.04.23-10.48.02:465][357]LogNet: Browse: 127.0.0.1:17777/Game/Daan/Main_Menu
+[2026.04.23-10.48.02:465][357]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-10.48.02:465][357]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-10.48.02:466][357]LogInit: BSD IPv4/6: Socket queue. Rx: 65536 (config 32768) Tx: 65536 (config 32768)
+[2026.04.23-10.48.02:466][357]LogNet: Created socket for bind address: 0.0.0.0:0
+[2026.04.23-10.48.02:466][357]LogNet: IpConnection_28 setting maximum channels to: 32767
+[2026.04.23-10.48.02:466][357]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-10.48.02:466][357]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 4
+[2026.04.23-10.48.02:466][357]LogNet: Game client on port 17777, rate 100000
+[2026.04.23-10.48.02:466][357]PIE: Client logged in
+[2026.04.23-10.48.02:467][357]PIE: Play in editor total start time 0.033 seconds.
+[2026.04.23-10.48.03:482][479]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54226
+[2026.04.23-10.48.03:482][479]LogHandshake: SendConnectChallenge. Timestamp: 1.061118, Cookie: 112018181075116173091138044146038167218183052222241045085127
+[2026.04.23-10.48.03:482][479]LogHandshake: Cached server SessionID: 0
+[2026.04.23-10.48.03:482][479]LogHandshake: SendChallengeResponse. Timestamp: 1.061118, Cookie: 112018181075116173091138044146038167218183052222241045085127
+[2026.04.23-10.48.03:490][480]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54226
+[2026.04.23-10.48.03:490][480]LogHandshake: SendChallengeAck. InCookie: 112018181075116173091138044146038167218183052222241045085127
+[2026.04.23-10.48.03:490][480]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54226
+[2026.04.23-10.48.03:490][480]LogNet: IpConnection_29 setting maximum channels to: 32767
+[2026.04.23-10.48.03:490][480]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-10.48.03:490][480]LogNet: NotifyAcceptedConnection: Name: Main_Menu, TimeStamp: 04/23/26 12:48:03, [UNetConnection] RemoteAddr: 127.0.0.1:54226, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_52, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-10.48.03:490][480]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54226, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_52, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-10.48.03:491][480]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_53, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-10.48.03:499][481]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu: Accepted
+[2026.04.23-10.48.03:499][481]LogNet: Remote platform little endian=1
+[2026.04.23-10.48.03:499][481]LogNet: This platform little endian=1
+[2026.04.23-10.48.03:507][482]LogNet: Login request: ?Name=DaanArchs-C6EBCC8CC6354A89A370809298A4045E userId: NULL:DaanArchs-C6EBCC8CC6354A89A370809298A4045E platform: NULL
+[2026.04.23-10.48.03:507][482]LogNet: Welcomed by server (Level: /Game/Daan/UEDPIE_0_Main_Menu, Game: /Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C)
+[2026.04.23-10.48.03:507][482]LogLoad: LoadMap: 127.0.0.1:17777/Game/Daan/Main_Menu?game=/Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C
+[2026.04.23-10.48.03:507][482]LogWorld: BeginTearingDown for /Temp/Untitled_15
+[2026.04.23-10.48.03:507][482]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-10.48.03:507][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-10.48.03:528][482]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-10.48.03:529][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.23-10.48.03:531][482]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-10.48.03:531][482]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 45 us (total: 1.959 ms)
+[2026.04.23-10.48.03:531][482]LogAudio: Display: Audio Device (ID: 38) registered with world 'Main_Menu'.
+[2026.04.23-10.48.03:531][482]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-10.48.03:532][482]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-10.48.03:532][482]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-10.48.03:532][482]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-10.48.03:532][482]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-10.48.03:532][482]LogWorldPartition: Display: WorldPartition initialize took 232 us (total: 27.937 ms)
+[2026.04.23-10.48.03:532][482]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2026.04.23-10.48.03:532][482]LogWorld: Bringing World /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-12.48.03
+[2026.04.23-10.48.03:532][482]LogWorld: Bringing up level for play took: 0.000171
+[2026.04.23-10.48.03:533][482]LogLoad: Took 0.025355 seconds to LoadMap(/Game/Daan/Main_Menu)
+[2026.04.23-10.48.03:533][482]LogGlobalStatus: LoadMap Load map complete /Game/Daan/Main_Menu
+[2026.04.23-10.48.03:533][482]LogGlobalStatus: TravelCompleted Pending net game travel completed
+[2026.04.23-10.48.03:536][482]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.04.23-10.48.03:538][483]LogNet: Client netspeed is 100000
+[2026.04.23-10.48.03:538][483]LogNet: Join request: /Game/Daan/Main_Menu?Name=DaanArchs-C6EBCC8CC6354A89A370809298A4045E?SplitscreenCount=1
+[2026.04.23-10.48.03:539][483]LogNet: Join succeeded: DaanArchs-C6EBCC8CC6
+[2026.04.23-10.48.03:551][483]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.04.23-10.48.03:554][483]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.04.23-10.48.03:564][483]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=9664.00Kb MemTypeIndex=1
+[2026.04.23-10.48.03:566][483]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=73920.00Kb MemTypeIndex=1
+[2026.04.23-10.48.03:580][484]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.03:654][484]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=9664.00Kb MemTypeIndex=1
+[2026.04.23-10.48.03:656][484]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.03:657][484]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.03:659][484]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.04.23-10.48.03:670][484]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=7114.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:144][652]LogOnlineSession: Display: OSS: Session creation completed. Automatic start is turned on, starting session now.
+[2026.04.23-10.48.05:153][653]LogGlobalStatus: Browse Started Browse: "/Game/Daan/BaseMap?listen"
+[2026.04.23-10.48.05:153][653]LogNet: Browse: /Game/Daan/BaseMap?listen
+[2026.04.23-10.48.05:153][653]LogLoad: LoadMap: /Game/Daan/BaseMap?listen
+[2026.04.23-10.48.05:153][653]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_1_Main_Menu
+[2026.04.23-10.48.05:153][653]LogNet: World NetDriver shutdown IpNetDriver_53 [GameNetDriver]
+[2026.04.23-10.48.05:153][653]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_53 
+[2026.04.23-10.48.05:153][653]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_53, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-C6EBCC8CC6354A89A370809298A4045E, Channels: 10, Time: 2026.04.23-10.48.05
+[2026.04.23-10.48.05:153][653]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_53, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-C6EBCC8CC6354A89A370809298A4045E
+[2026.04.23-10.48.05:153][653]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_53 shut down
+[2026.04.23-10.48.05:154][653]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-10.48.05:154][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-10.48.05:154][653]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu
+[2026.04.23-10.48.05:194][653]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-10.48.05:196][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.04.23-10.48.05:197][653]LogStreaming: Display: FlushAsyncLoading(639): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.23-10.48.05:199][653]LogAudio: Display: Audio Device (ID: 38) registered with world 'BaseMap'.
+[2026.04.23-10.48.05:199][653]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseMap
+[2026.04.23-10.48.05:200][653]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2026.04.23-10.48.05:200][653]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.23-10.48.05:200][653]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.04.23-10.48.05:200][653]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.04.23-10.48.05:200][653]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-10.48.05:200][653]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-10.48.05:201][653]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2026.04.23-10.48.05:201][653]LogNet: Created socket for bind address: 0.0.0.0:7777
+[2026.04.23-10.48.05:201][653]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-10.48.05:201][653]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_54 IpNetDriver listening on port 7777
+[2026.04.23-10.48.05:201][653]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10240.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:201][653]LogWorld: Bringing World /Game/Daan/UEDPIE_1_BaseMap.BaseMap up for play (max tick rate 0) at 2026.04.23-12.48.05
+[2026.04.23-10.48.05:201][653]LogWorld: Bringing up level for play took: 0.000720
+[2026.04.23-10.48.05:204][653]LogLoad: Took 0.051187 seconds to LoadMap(/Game/Daan/BaseMap)
+[2026.04.23-10.48.05:204][653]LogGlobalStatus: LoadMap Load map complete /Game/Daan/BaseMap
+[2026.04.23-10.48.05:206][653]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=114688.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:212][654]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2026.04.23-10.48.05:212][654]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54226, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_52, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-C6EBCC8CC6354A89A370809298A4045E
+[2026.04.23-10.48.05:212][654]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54226, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_52, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-C6EBCC8CC6354A89A370809298A4045E, Channels: 10, Time: 2026.04.23-10.48.05
+[2026.04.23-10.48.05:212][654]LogNet: UNetConnection::SendCloseReason:
+[2026.04.23-10.48.05:212][654]LogNet:  - Result=ControlChannelClose, ErrorContext="ControlChannelClose"
+[2026.04.23-10.48.05:212][654]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54226, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_52, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-C6EBCC8CC6354A89A370809298A4045E
+[2026.04.23-10.48.05:226][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:235][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:235][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:235][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:236][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:237][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:237][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:238][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:238][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:238][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:238][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:239][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2432.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:239][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2432.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:240][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5312.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:241][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2496.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:242][654]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:247][655]LogNet: UNetDriver::RemoveClientConnection - Removed address 127.0.0.1:54226 from MappedClientConnections for: [UNetConnection] RemoteAddr: 127.0.0.1:54226, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_52, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-C6EBCC8CC6354A89A370809298A4045E
+[2026.04.23-10.48.05:248][655]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=9664.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:256][655]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:256][655]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:259][655]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2432.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:260][655]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2432.00Kb MemTypeIndex=1
+[2026.04.23-10.48.05:261][655]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2432.00Kb MemTypeIndex=1
+[2026.04.23-10.52.31:161][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-10.52.31:161][193]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_1_BaseMap
+[2026.04.23-10.52.31:161][193]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-10.52.31:161][193]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-10.52.31:161][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-10.52.31:164][193]LogNet: World NetDriver shutdown IpNetDriver_54 [GameNetDriver]
+[2026.04.23-10.52.31:164][193]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_54 
+[2026.04.23-10.52.31:164][193]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_54 shut down
+[2026.04.23-10.52.31:164][193]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_0_Main_Menu
+[2026.04.23-10.52.31:164][193]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-10.52.31:164][193]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-10.52.31:164][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-10.52.31:165][193]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu
+[2026.04.23-10.52.31:165][193]LogNet: World NetDriver shutdown IpNetDriver_52 [GameNetDriver]
+[2026.04.23-10.52.31:165][193]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_52 
+[2026.04.23-10.52.31:165][193]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_52 shut down
+[2026.04.23-10.52.31:165][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.23-10.52.31:168][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-10.52.31:193][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-10.52.31:193][193]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2026.04.23-10.52.31:198][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.04.23-10.52.31:215][194]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.04.23-10.52.31:216][194]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=73920.00Kb MemTypeIndex=1
+[2026.04.23-10.52.31:233][195]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.04.23-10.52.31:233][195]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21120.00Kb MemTypeIndex=1
+[2026.04.23-10.52.31:241][196]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2026.04.23-10.52.31:241][196]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.04.23-10.52.31:249][196]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21120.00Kb MemTypeIndex=1
+[2026.04.23-10.54.22:762][527]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Daan/BluePrints/BP_MainGameInstance.BP_MainGameInstance
+[2026.04.23-10.54.26:855][912]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Daan/Wigets/BW_MainMenu.BW_MainMenu
+[2026.04.23-10.54.26:873][912]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.04.23-10.54.27:392][912]LogStreaming: Display: FlushAsyncLoading(640): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.23-10.54.28:583][958]LogSlate: Took 0.001542 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.04.23-10.56.22:709][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.23-10.56.22:735][382]LogFileHelpers: Saving Package: /Game/Daan/Wigets/BW_MainMenu
+[2026.04.23-10.56.22:735][382]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Daan/Wigets/BW_MainMenu] ([2] browsable assets)...
+[2026.04.23-10.56.22:735][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/Daan/Wigets/BW_MainMenu]
+[2026.04.23-10.56.22:735][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daan/Wigets/BW_MainMenu" FILE="../../../../../home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Wigets/BW_MainMenu.uasset" SILENT=true
+[2026.04.23-10.56.22:746][382]LogSavePackage: Moving output files for package: /Game/Daan/Wigets/BW_MainMenu
+[2026.04.23-10.56.22:746][382]LogSavePackage: Moving '../../../../../home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/BW_MainMenu25F588B51E67411EA3218AEFA9DDA34D.tmp' to '../../../../../home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Wigets/BW_MainMenu.uasset'
+[2026.04.23-10.56.22:767][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.063 ms (total: 1.00 sec)
+[2026.04.23-10.56.22:794][382]LogContentValidation: Enabled validators:
+[2026.04.23-10.56.22:794][382]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.23-10.56.22:794][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.23-10.56.22:794][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.23-10.56.22:794][382]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.23-10.56.22:794][382]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.23-10.56.22:794][382]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.23-10.56.22:794][382]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.04.23-10.56.22:794][382]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.04.23-10.56.22:795][382]AssetCheck: /Game/Daan/Wigets/BW_MainMenu Validating asset
+[2026.04.23-10.56.22:796][382]LogContentValidation: Validated asset counts for 2 validators:
+[2026.04.23-10.56.22:796][382]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.04.23-10.56.22:796][382]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.04.23-10.56.25:797][683]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.23-10.56.25:804][683]LogContentBundle: [Main_Menu(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.23-10.56.25:804][683]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' started...
+[2026.04.23-10.56.25:805][683]LogWorldPartition: Display: GenerateStreaming for 'Main_Menu' took 326 us (total: 4.725 ms)
+[2026.04.23-10.56.25:805][683]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.04.23-10.56.25:805][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.23-10.56.25:831][683]LogPlayLevel: Creating play world package: /Game/Daan/UEDPIE_0_Main_Menu
+[2026.04.23-10.56.25:831][683]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-10.56.25:831][683]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 48 us (total: 2.008 ms)
+[2026.04.23-10.56.25:831][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000809s)
+[2026.04.23-10.56.25:831][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Daan/Main_Menu.Main_Menu to /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu (0.000833s)
+[2026.04.23-10.56.25:892][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.04.23-10.56.25:894][683]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2026.04.23-10.56.25:894][683]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-10.56.25:894][683]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-10.56.25:895][683]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-10.56.25:895][683]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-10.56.25:895][683]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-10.56.25:895][683]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Dedicated Server, IsServer = 1, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-10.56.25:895][683]LogWorldPartition: Display: WorldPartition initialize took 285 us (total: 28.222 ms)
+[2026.04.23-10.56.25:895][683]LogPlayLevel: PIE: World Init took: (0.001612s)
+[2026.04.23-10.56.25:896][683]LogLoad: Game class is 'BP_MainMenuGamemode_C'
+[2026.04.23-10.56.25:896][683]LogWorld: Bringing World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-12.56.25
+[2026.04.23-10.56.25:896][683]LogWorld: Bringing up level for play took: 0.000273
+[2026.04.23-10.56.25:896][683]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.04.23-10.56.25:896][683]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.04.23-10.56.25:896][683]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-10.56.25:896][683]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-10.56.25:896][683]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2026.04.23-10.56.25:896][683]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.04.23-10.56.25:896][683]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-10.56.25:896][683]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_55 IpNetDriver listening on port 17777
+[2026.04.23-10.56.25:897][683]PIE: Server logged in
+[2026.04.23-10.56.25:897][683]PIE: Play in editor total start time 0.092 seconds.
+[2026.04.23-10.56.25:897][683]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.04.23-10.56.25:897][683]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-10.56.25:897][683]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.04.23-10.56.25:898][683]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2026.04.23-10.56.25:898][683]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2026.04.23-10.56.25:898][683]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.23-10.56.25:898][683]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.23-10.56.25:898][683]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.23-10.56.25:898][683]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.23-10.56.25:898][683]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.04.23-10.56.25:898][683]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.23-10.56.25:898][683]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.04.23-10.56.25:898][683]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.23-10.56.25:898][683]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.23-10.56.25:898][683]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.23-10.56.25:898][683]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.23-10.56.25:898][683]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.04.23-10.56.25:898][683]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL3'
+[2026.04.23-10.56.25:898][683]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.04.23-10.56.25:898][683]LogAudioMixer: Display: Using Audio Hardware Device Raptor Lake-P/U/H cAVS HDMI / DisplayPort 3 Output
+[2026.04.23-10.56.25:899][683]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.23-10.56.25:899][683]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.23-10.56.25:899][683]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.23-10.56.25:899][683]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=39
+[2026.04.23-10.56.25:900][683]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2026.04.23-10.56.25:900][683]LogInit: FAudioDevice initialized with ID 39.
+[2026.04.23-10.56.25:900][683]LogAudio: Display: Audio Device (ID: 39) registered with world 'Untitled'.
+[2026.04.23-10.56.25:900][683]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2026.04.23-10.56.25:900][683]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=39
+[2026.04.23-10.56.25:902][683]LogGlobalStatus: Browse Started Browse: "127.0.0.1:17777/Game/Daan/Main_Menu"
+[2026.04.23-10.56.25:902][683]LogNet: Browse: 127.0.0.1:17777/Game/Daan/Main_Menu
+[2026.04.23-10.56.25:902][683]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-10.56.25:902][683]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-10.56.25:902][683]LogInit: BSD IPv4/6: Socket queue. Rx: 65536 (config 32768) Tx: 65536 (config 32768)
+[2026.04.23-10.56.25:902][683]LogNet: Created socket for bind address: 0.0.0.0:0
+[2026.04.23-10.56.25:902][683]LogNet: IpConnection_30 setting maximum channels to: 32767
+[2026.04.23-10.56.25:902][683]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-10.56.25:902][683]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 5
+[2026.04.23-10.56.25:902][683]LogNet: Game client on port 17777, rate 100000
+[2026.04.23-10.56.25:903][683]PIE: Client logged in
+[2026.04.23-10.56.25:904][683]PIE: Play in editor total start time 0.099 seconds.
+[2026.04.23-10.56.26:920][805]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55012
+[2026.04.23-10.56.26:920][805]LogHandshake: SendConnectChallenge. Timestamp: 1.131174, Cookie: 133099159242245102226077109216160197215070055182024012031023
+[2026.04.23-10.56.26:920][805]LogHandshake: Cached server SessionID: 0
+[2026.04.23-10.56.26:920][805]LogHandshake: SendChallengeResponse. Timestamp: 1.131174, Cookie: 133099159242245102226077109216160197215070055182024012031023
+[2026.04.23-10.56.26:928][806]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55012
+[2026.04.23-10.56.26:928][806]LogHandshake: SendChallengeAck. InCookie: 133099159242245102226077109216160197215070055182024012031023
+[2026.04.23-10.56.26:928][806]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55012
+[2026.04.23-10.56.26:928][806]LogNet: IpConnection_31 setting maximum channels to: 32767
+[2026.04.23-10.56.26:928][806]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-10.56.26:928][806]LogNet: NotifyAcceptedConnection: Name: Main_Menu, TimeStamp: 04/23/26 12:56:26, [UNetConnection] RemoteAddr: 127.0.0.1:55012, Name: IpConnection_31, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_55, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-10.56.26:928][806]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55012, Name: IpConnection_31, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_55, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-10.56.26:929][806]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_30, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_56, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.04.23-10.56.26:937][807]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu: Accepted
+[2026.04.23-10.56.26:937][807]LogNet: Remote platform little endian=1
+[2026.04.23-10.56.26:937][807]LogNet: This platform little endian=1
+[2026.04.23-10.56.26:945][808]LogNet: Login request: ?Name=DaanArchs-D11105B12FDE4B67BE918B0F66314A5F userId: NULL:DaanArchs-D11105B12FDE4B67BE918B0F66314A5F platform: NULL
+[2026.04.23-10.56.26:945][808]LogNet: Welcomed by server (Level: /Game/Daan/UEDPIE_0_Main_Menu, Game: /Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C)
+[2026.04.23-10.56.26:945][808]LogLoad: LoadMap: 127.0.0.1:17777/Game/Daan/Main_Menu?game=/Game/Daan/BluePrints/BP_MainMenuGamemode.BP_MainMenuGamemode_C
+[2026.04.23-10.56.26:945][808]LogWorld: BeginTearingDown for /Temp/Untitled_16
+[2026.04.23-10.56.26:945][808]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-10.56.26:945][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-10.56.26:966][808]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-10.56.26:968][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.23-10.56.26:970][808]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.23-10.56.26:970][808]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 45 us (total: 2.053 ms)
+[2026.04.23-10.56.26:970][808]LogAudio: Display: Audio Device (ID: 39) registered with world 'Main_Menu'.
+[2026.04.23-10.56.26:970][808]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Menu
+[2026.04.23-10.56.26:971][808]LogWorldPartition: ULevel::OnLevelLoaded(Main_Menu)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.23-10.56.26:971][808]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.23-10.56.26:971][808]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.23-10.56.26:971][808]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Client, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.23-10.56.26:971][808]LogWorldPartition: Display: WorldPartition initialize took 217 us (total: 28.440 ms)
+[2026.04.23-10.56.26:971][808]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2026.04.23-10.56.26:971][808]LogWorld: Bringing World /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu up for play (max tick rate 0) at 2026.04.23-12.56.26
+[2026.04.23-10.56.26:971][808]LogWorld: Bringing up level for play took: 0.000186
+[2026.04.23-10.56.26:972][808]LogLoad: Took 0.026403 seconds to LoadMap(/Game/Daan/Main_Menu)
+[2026.04.23-10.56.26:972][808]LogGlobalStatus: LoadMap Load map complete /Game/Daan/Main_Menu
+[2026.04.23-10.56.26:972][808]LogGlobalStatus: TravelCompleted Pending net game travel completed
+[2026.04.23-10.56.26:974][808]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.04.23-10.56.26:978][809]LogNet: Client netspeed is 100000
+[2026.04.23-10.56.26:978][809]LogNet: Join request: /Game/Daan/Main_Menu?Name=DaanArchs-D11105B12FDE4B67BE918B0F66314A5F?SplitscreenCount=1
+[2026.04.23-10.56.26:979][809]LogNet: Join succeeded: DaanArchs-D11105B12F
+[2026.04.23-10.56.26:986][809]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=73984.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:000][809]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:003][809]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:015][809]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:029][809]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:032][809]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:043][809]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:045][809]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=9664.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:047][809]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=73920.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:068][809]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5312.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:075][810]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:077][810]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:173][810]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=9664.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:175][810]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:175][810]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:177][810]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:193][810]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=7114.00Kb MemTypeIndex=1
+[2026.04.23-10.56.27:995][898]LogOnlineSession: Display: OSS: Session creation completed. Automatic start is turned on, starting session now.
+[2026.04.23-10.56.28:004][899]LogGlobalStatus: Browse Started Browse: "/Game/Daan/BaseMap?listen"
+[2026.04.23-10.56.28:004][899]LogNet: Browse: /Game/Daan/BaseMap?listen
+[2026.04.23-10.56.28:004][899]LogLoad: LoadMap: /Game/Daan/BaseMap?listen
+[2026.04.23-10.56.28:004][899]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_1_Main_Menu
+[2026.04.23-10.56.28:004][899]LogNet: World NetDriver shutdown IpNetDriver_56 [GameNetDriver]
+[2026.04.23-10.56.28:004][899]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_56 
+[2026.04.23-10.56.28:004][899]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_30, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_56, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-D11105B12FDE4B67BE918B0F66314A5F, Channels: 10, Time: 2026.04.23-10.56.28
+[2026.04.23-10.56.28:004][899]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_30, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_56, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-D11105B12FDE4B67BE918B0F66314A5F
+[2026.04.23-10.56.28:004][899]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_56 shut down
+[2026.04.23-10.56.28:004][899]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-10.56.28:004][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-10.56.28:004][899]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_1_Main_Menu.Main_Menu
+[2026.04.23-10.56.28:053][899]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.23-10.56.28:055][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.23-10.56.28:056][899]LogStreaming: Display: FlushAsyncLoading(641): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.23-10.56.28:058][899]LogAudio: Display: Audio Device (ID: 39) registered with world 'BaseMap'.
+[2026.04.23-10.56.28:058][899]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseMap
+[2026.04.23-10.56.28:059][899]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2026.04.23-10.56.28:059][899]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.23-10.56.28:059][899]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.04.23-10.56.28:059][899]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.04.23-10.56.28:059][899]LogPushModel: PushModel HandleCreation is now enabled
+[2026.04.23-10.56.28:059][899]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.04.23-10.56.28:060][899]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2026.04.23-10.56.28:060][899]LogNet: Created socket for bind address: 0.0.0.0:7777
+[2026.04.23-10.56.28:060][899]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.04.23-10.56.28:060][899]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_57 IpNetDriver listening on port 7777
+[2026.04.23-10.56.28:060][899]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10240.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:061][899]LogWorld: Bringing World /Game/Daan/UEDPIE_1_BaseMap.BaseMap up for play (max tick rate 0) at 2026.04.23-12.56.28
+[2026.04.23-10.56.28:061][899]LogWorld: Bringing up level for play took: 0.000865
+[2026.04.23-10.56.28:063][899]LogLoad: Took 0.059616 seconds to LoadMap(/Game/Daan/BaseMap)
+[2026.04.23-10.56.28:063][899]LogGlobalStatus: LoadMap Load map complete /Game/Daan/BaseMap
+[2026.04.23-10.56.28:065][899]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=114688.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:072][900]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2026.04.23-10.56.28:072][900]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55012, Name: IpConnection_31, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_55, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-D11105B12FDE4B67BE918B0F66314A5F
+[2026.04.23-10.56.28:072][900]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55012, Name: IpConnection_31, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_55, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-D11105B12FDE4B67BE918B0F66314A5F, Channels: 10, Time: 2026.04.23-10.56.28
+[2026.04.23-10.56.28:072][900]LogNet: UNetConnection::SendCloseReason:
+[2026.04.23-10.56.28:072][900]LogNet:  - Result=ControlChannelClose, ErrorContext="ControlChannelClose"
+[2026.04.23-10.56.28:072][900]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55012, Name: IpConnection_31, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_55, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-D11105B12FDE4B67BE918B0F66314A5F
+[2026.04.23-10.56.28:095][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:110][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:110][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:111][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:111][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:111][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1080.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:115][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:115][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1728.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:115][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:115][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1824.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:115][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:115][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:115][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:115][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:115][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2432.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:116][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2432.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:117][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2432.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:118][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5312.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:123][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:123][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:123][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:124][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:124][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:125][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:125][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:125][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:126][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:126][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2496.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:126][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:127][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:127][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:128][900]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:134][901]LogNet: UNetDriver::RemoveClientConnection - Removed address 127.0.0.1:55012 from MappedClientConnections for: [UNetConnection] RemoteAddr: 127.0.0.1:55012, Name: IpConnection_31, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_55, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:DaanArchs-D11105B12FDE4B67BE918B0F66314A5F
+[2026.04.23-10.56.28:135][901]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=9664.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:137][901]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:137][901]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1216.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:137][901]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:137][901]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=9664.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:181][901]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:181][901]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1216.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:260][901]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2432.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:261][901]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2432.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:262][901]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2432.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:263][901]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:264][901]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:264][901]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:269][902]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.56.28:272][902]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.04.23-10.57.48:311][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-10.57.48:311][756]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_1_BaseMap
+[2026.04.23-10.57.48:312][756]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-10.57.48:312][756]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-10.57.48:312][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-10.57.48:326][756]LogNet: World NetDriver shutdown IpNetDriver_57 [GameNetDriver]
+[2026.04.23-10.57.48:326][756]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_57 
+[2026.04.23-10.57.48:326][756]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_57 shut down
+[2026.04.23-10.57.48:326][756]LogWorld: BeginTearingDown for /Game/Daan/UEDPIE_0_Main_Menu
+[2026.04.23-10.57.48:326][756]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.04.23-10.57.48:326][756]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2026.04.23-10.57.48:327][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-10.57.48:327][756]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Daan/UEDPIE_0_Main_Menu.Main_Menu
+[2026.04.23-10.57.48:327][756]LogNet: World NetDriver shutdown IpNetDriver_55 [GameNetDriver]
+[2026.04.23-10.57.48:327][756]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_55 
+[2026.04.23-10.57.48:327][756]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_55 shut down
+[2026.04.23-10.57.48:327][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.23-10.57.48:330][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.23-10.57.48:356][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.23-10.57.48:356][756]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2026.04.23-10.57.48:360][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.04.23-10.57.48:379][757]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.04.23-10.57.48:379][757]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=73920.00Kb MemTypeIndex=1
+[2026.04.23-10.57.48:401][758]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.04.23-10.57.48:401][758]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21120.00Kb MemTypeIndex=1
+[2026.04.23-10.57.48:409][759]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.04.23-10.57.48:409][759]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.04.23-10.57.48:412][759]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21120.00Kb MemTypeIndex=1
