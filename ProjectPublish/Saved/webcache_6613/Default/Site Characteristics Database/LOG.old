@@ -1,6 +1,7 @@
-2026/04/23-13:48:36.514 b3d0 Log #20: 4 ops saved to Table #22 OK
-2026/04/23-13:48:36.516 b3d0 Archiving C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/000020.log: OK
-2026/04/23-13:48:36.517 b3d0 Table #21: 2 entries OK
-2026/04/23-13:48:36.517 b3d0 Table #22: 4 entries OK
-2026/04/23-13:48:36.519 b3d0 Archiving C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/04/23-13:48:36.524 b3d0 **** Repaired leveldb C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 396 bytes. Some data may have been lost. ****
+2026/04/23-19:29:48.411 977c Log #24: 1 ops saved to Table #25 OK
+2026/04/23-19:29:48.413 977c Archiving C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/000024.log: OK
+2026/04/23-19:29:48.419 977c Table #21: 2 entries OK
+2026/04/23-19:29:48.427 977c Table #22: 4 entries OK
+2026/04/23-19:29:48.427 977c Table #25: 1 entries OK
+2026/04/23-19:29:48.435 977c Archiving C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/04/23-19:29:48.441 977c **** Repaired leveldb C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 558 bytes. Some data may have been lost. ****
