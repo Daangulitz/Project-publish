@@ -1,3 +1,6 @@
-2026/04/23-11:05:27.339 9564 Reusing MANIFEST C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/04/23-11:05:27.340 9564 Recovering log #20
-2026/04/23-11:05:27.340 9564 Reusing old log C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/000020.log 
+2026/04/23-13:48:36.514 b3d0 Log #20: 4 ops saved to Table #22 OK
+2026/04/23-13:48:36.516 b3d0 Archiving C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/000020.log: OK
+2026/04/23-13:48:36.517 b3d0 Table #21: 2 entries OK
+2026/04/23-13:48:36.517 b3d0 Table #22: 4 entries OK
+2026/04/23-13:48:36.519 b3d0 Archiving C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/04/23-13:48:36.524 b3d0 **** Repaired leveldb C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 396 bytes. Some data may have been lost. ****
