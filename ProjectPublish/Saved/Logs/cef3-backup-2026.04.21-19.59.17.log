@@ -1,0 +1,31 @@
+[26780:4976:0421/141311.945:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26780:29412:0421/141311.985:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26780:4976:0421/141311.992:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26780:22384:0421/141314.408:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26780:22384:0421/141314.410:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26780:22384:0421/141314.417:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26780:22384:0421/141314.419:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26780:22384:0421/141314.742:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26780:22384:0421/141314.743:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[15940:20744:0421/141315.545:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8C0BE7F289D9B93D48C236F32EBD8E33 will be ignored
+[26780:28428:0421/141319.331:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\caspe\Documents\GitHub\Project-publish\ProjectPublish\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26780:4976:0421/141501.137:ERROR:device_event_log_impl.cc(196)] [14:15:01.124] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26780:4976:0421/141501.150:ERROR:device_event_log_impl.cc(196)] [14:15:01.138] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[26780:4976:0421/141501.235:ERROR:device_event_log_impl.cc(196)] [14:15:01.220] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26780:4976:0421/141910.924:ERROR:device_event_log_impl.cc(196)] [14:19:10.907] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26780:4976:0421/141911.209:ERROR:device_event_log_impl.cc(196)] [14:19:10.941] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[26780:4976:0421/141911.210:ERROR:device_event_log_impl.cc(196)] [14:19:10.963] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26780:4976:0421/150432.575:ERROR:device_event_log_impl.cc(196)] [15:04:32.451] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26780:4976:0421/150432.576:ERROR:device_event_log_impl.cc(196)] [15:04:32.475] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[26780:4976:0421/150432.576:ERROR:device_event_log_impl.cc(196)] [15:04:32.511] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[1348:22796:0421/162543.344:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[1348:24132:0421/162543.390:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26780:22064:0421/162543.392:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26780:4976:0421/162545.270:ERROR:device_event_log_impl.cc(196)] [16:25:45.174] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26780:4976:0421/162545.270:ERROR:device_event_log_impl.cc(196)] [16:25:45.220] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[26780:22064:0421/215837.217:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26780:22064:0421/215839.308:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[1348:13588:0421/215839.314:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[26780:25748:0421/215849.001:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[26780:25748:0421/215852.023:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[26780:4976:0421/215917.910:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

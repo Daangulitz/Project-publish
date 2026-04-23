@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/HostMap.umap",
 				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Main_Menu.umap",
 				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BaseMap.umap",
@@ -18,6 +19,21 @@
 				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/__ExternalActors__/Daan/Main_Menu/0/UP/ARI5M6JXQYDVE3RSB6OL9D.uasset",
 				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/BP_MainMenuSpawner.uasset",
 				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/__ExternalActors__/Daan/Main_Menu/D/6J/FX9Z05TGAE6MGQ69FJOGWM.uasset"
+=======
+				"/home/mick/Documents/GitHub/Project-publish/ProjectPublish/Content/Mick/testMap.umap",
+				"/home/mick/Documents/GitHub/Project-publish/ProjectPublish/Content/Mick/testing.umap",
+				"/home/mick/Documents/GitHub/Project-publish/ProjectPublish/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/Artists/Damon/Level_D.umap",
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/Artists/Kris/Level_K.umap",
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/Artists/Madison/Level_M.umap",
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/Artists/Roel/Level_M.umap",
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/Dev/Casper/Health/BPC_Health.uasset",
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/Dev/Casper/Health/WB_health.uasset",
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/Health/WB_health.uasset",
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/Health/BPC_Health.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/HostMap.umap"
+>>>>>>> origin/#1-Health-And-damage-
 			]
 		}
 	]
