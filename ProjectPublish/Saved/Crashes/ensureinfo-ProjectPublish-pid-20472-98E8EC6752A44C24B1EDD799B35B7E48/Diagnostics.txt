@@ -1,0 +1,37 @@
+Generating report for minidump
+
+Application version 5.7.4.0
+ ... built from changelist 51494982
+
+OS version Linux 6.19.12-arch1-1 (network name: mickus-dickus)
+Running 16 x86_64 processors (24 logical cores)
+Exception was "Ensure condition failed: bCEFInitialized  [File:./Runtime/WebBrowser/Private/WebBrowserSingleton.cpp] [Line: 478] "
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libUnrealEditor-WebBrowser.so!FWebBrowserSingleton::FWebBrowserSingleton(FWebBrowserInitSettings const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/WebBrowser/Private/WebBrowserSingleton.cpp:478]
+libUnrealEditor-WebBrowser.so!FWebBrowserModule::GetSingleton() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/WebBrowser/Private/WebBrowserModule.cpp:115]
+libUnrealEditor-MainFrame.so!FMainFrameModule::CreateHomeScreenWidget(TSharedPtr<SDockTab, (ESPMode)1> const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/MainFrame/Private/MainFrameModule.cpp:959]
+libUnrealEditor-MainFrame.so!FMainFrameModule::SpawnHomeScreenWindow(FSpawnTabArgs const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/MainFrame/Private/MainFrameModule.cpp:938]
+libUnrealEditor-UnrealEd.so!TBaseStaticDelegateInstance<TSharedRef<SDockTab, (ESPMode)1> (FSpawnTabArgs const&), FDefaultDelegateUserPolicy>::Execute(FSpawnTabArgs const&) const [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Templates/Invoke.h:47]
+libUnrealEditor-Slate.so!FTabManager::SpawnTab(FTabId const&, TSharedPtr<SWindow, (ESPMode)1> const&, bool) [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Delegates/DelegateSignatureImpl.inl:614]
+libUnrealEditor-Slate.so!FTabManager::RestoreArea_Helper(TSharedRef<FTabManager::FLayoutNode, (ESPMode)1> const&, TSharedPtr<SWindow, (ESPMode)1> const&, bool, FSidebarTabLists&, EOutputCanBeNullptr, bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Docking/TabManager.cpp:2013]
+libUnrealEditor-Slate.so!FTabManager::CanRestoreSplitterContent(TArray<TSharedRef<SDockingNode, (ESPMode)1>, TSizedDefaultAllocator<32> >&, TSharedRef<FTabManager::FSplitter, (ESPMode)1> const&, TSharedPtr<SWindow, (ESPMode)1> const&, FSidebarTabLists&, EOutputCanBeNullptr) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Docking/TabManager.cpp:2238]
+libUnrealEditor-Slate.so!FTabManager::RestoreArea_Helper(TSharedRef<FTabManager::FLayoutNode, (ESPMode)1> const&, TSharedPtr<SWindow, (ESPMode)1> const&, bool, FSidebarTabLists&, EOutputCanBeNullptr, bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Docking/TabManager.cpp:2152]
+libUnrealEditor-Slate.so!FTabManager::RestoreArea(TSharedRef<FTabManager::FArea, (ESPMode)1> const&, TSharedPtr<SWindow, (ESPMode)1> const&, bool, EOutputCanBeNullptr, bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Docking/TabManager.cpp:1931]
+libUnrealEditor-Slate.so!FTabManager::RestoreFrom(TSharedRef<FTabManager::FLayout, (ESPMode)1> const&, TSharedPtr<SWindow, (ESPMode)1> const&, bool, EOutputCanBeNullptr) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Slate/Private/Framework/Docking/TabManager.cpp:1148]
+libUnrealEditor-MainFrame.so!FMainFrameModule::CreateDefaultMainFrameAuxiliary(bool, bool, bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/MainFrame/Private/MainFrameModule.cpp:357]
+libUnrealEditor-UnrealEd.so!EditorInit(IEngineLoop&) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/UnrealEdGlobals.cpp:236]
+UnrealEditor!GuardedMain(char16_t const*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/Launch.cpp:167]
+libUnrealEditor-UnixCommonStartup.so!CommonUnixMain(int, char**, int (*)(char16_t const*), void (*)()) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Unix/UnixCommonStartup/Private/UnixCommonStartup.cpp:323]
+libc.so.6!UnknownFunction(0x276c0)
+libc.so.6!__libc_start_main(+0x88)
+UnrealEditor!_start [/opt/unreal-engine/Engine/Binaries/Linux/UnrealEditor:-1]
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

@@ -1,0 +1,12 @@
+{
+	"SourceFiles": [
+		"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/AdvancedSessions.Build.cs",
+		"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/AdvancedSteamSessions.Build.cs",
+		"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Intermediate/Source/ProjectPublish.Build.cs",
+		"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Intermediate/Source/ProjectPublish.Target.cs",
+		"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Intermediate/Source/ProjectPublishClient.Target.cs",
+		"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Intermediate/Source/ProjectPublishEditor.Target.cs",
+		"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Intermediate/Source/ProjectPublishServer.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}

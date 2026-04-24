@@ -1,0 +1,4 @@
+[37089:37089:0421/111521.629885:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[37089:37089:0421/111521.655726:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[14325:14325:0421/133029.848497:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm
+[15092:15092:0421/133139.782219:WARNING:vaapi_wrapper.cc(1529)] Skipping nVidia device named: nvidia-drm

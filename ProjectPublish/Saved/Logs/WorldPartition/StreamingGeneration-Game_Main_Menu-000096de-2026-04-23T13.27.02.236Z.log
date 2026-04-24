@@ -1,0 +1,27 @@
+[+] Containers:
+ |--[+] Container: /Game/Daan/Main_Menu
+ |   |--[+] ActorDescs:
+ |   |   |- Guid:DE549BE4ED284ADE950C186A2DC867B2 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false EditorBoundsRelative:IsValid=false RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true View=(RuntimeGrid=none RuntimeHLODLayer=none bIsForcedNonSpatiallyLoaded=false bIsForcedNoRuntimeGrid=false bIsForcedNoDataLayers=false bIsForceNoHLODLayer=false bIsForcedHLODIrrelevant=false)
+ |   |--[+] Clusters:
+ |   |   |--[+] [  0]
+ |   |   |   |- Guid:DE549BE4ED284ADE950C186A2DC867B2 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false EditorBoundsRelative:IsValid=false RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true View=(RuntimeGrid=none RuntimeHLODLayer=none bIsForcedNonSpatiallyLoaded=false bIsForcedNoRuntimeGrid=false bIsForcedNoDataLayers=false bIsForceNoHLODLayer=false bIsForcedHLODIrrelevant=false)
+ |- ContainerInstances:
+ |--[+] MainContainer:
+ |   |-           ID: 00000000000000000000000000000000
+ |   |-     ParentID: 00000000000000000000000000000000
+ |   |-       Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |-    Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |-    Container: /Game/Daan/Main_Menu
+ |   |- HLODRelevant: true
+----------------------------------------------------------------------------------------------------------------
+Main_Menu - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Main_Menu Persistent Level
+ |- Always loaded Actor Count: 1 
+ |- Actor Path: /Game/Daan/Main_Menu.Main_Menu:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Daan/Main_Menu/8/FZ/6D0HZGXWPCVBMPQIIL7944
+
+----------------------------------------------------------------------------------------------------------------
+Main_Menu - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+

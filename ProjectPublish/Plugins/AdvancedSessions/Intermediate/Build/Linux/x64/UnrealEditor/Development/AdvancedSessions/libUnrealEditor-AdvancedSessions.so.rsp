@@ -1,0 +1,12 @@
+"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSessions/Module.AdvancedSessions.1.cpp.o"
+"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSessions/Module.AdvancedSessions.2.cpp.o"
+"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSessions/Module.AdvancedSessions.3.cpp.o"
+-soname="libUnrealEditor-AdvancedSessions.so"
+-rpath="${ORIGIN}/../../../../../../../../../../opt/unreal-engine/Engine/Plugins/Online/OnlineSubsystem/Binaries/Linux"
+-rpath="${ORIGIN}/../../../../../../../../../../opt/unreal-engine/Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Linux"
+-rpath-link="/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Binaries/Linux"
+-L"../Binaries/Linux"
+-L"../Plugins/Online/OnlineSubsystem/Binaries/Linux"
+-L"../Plugins/Online/OnlineSubsystemUtils/Binaries/Linux"
+--start-group
+--end-group

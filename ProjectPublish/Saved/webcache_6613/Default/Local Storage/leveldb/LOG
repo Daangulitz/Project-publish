@@ -1,3 +1,8 @@
-2026/04/24-14:17:30.462 b9b8 Reusing MANIFEST C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/24-14:17:30.467 b9b8 Recovering log #3
-2026/04/24-14:17:30.469 b9b8 Reusing old log C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+<<<<<<< HEAD
+2026/04/23-14:14:48.565 bd4f Reusing MANIFEST /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/webcache_6613/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/23-14:14:48.570 bd4f Recovering log #3
+2026/04/23-14:14:48.570 bd4f Reusing old log /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/webcache_6613/Default/Local Storage/leveldb/000003.log 
+=======
+2026/04/23-19:29:48.396 b668 Creating DB C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/04/23-19:29:48.419 b668 Reusing MANIFEST C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+>>>>>>> origin/main

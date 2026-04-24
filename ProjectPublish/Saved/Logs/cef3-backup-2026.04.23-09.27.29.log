@@ -1,0 +1,11 @@
+[11371:11371:0423/104404.337726:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11371:11371:0423/104404.543868:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.isEnabled: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[11371:11371:0423/104404.543927:ERROR:kwallet_dbus.cc(112)] Error contacting kwalletd6 (isEnabled)
+[11371:11371:0423/104404.544000:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KLauncher.start_service_by_desktop_name: object_path= /KLauncher: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[11371:11371:0423/104404.544006:ERROR:kwallet_dbus.cc(81)] Error contacting klauncher to start kwalletd6
+[11371:11371:0423/104404.544013:WARNING:key_storage_linux.cc(191)] OSCrypt tried KWallet but couldn't initialise.
+[11371:11371:0423/104404.640640:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.close: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[11371:11371:0423/104404.640677:ERROR:kwallet_dbus.cc(502)] Error contacting kwalletd6 (close)
+[11371:11371:0423/104404.646910:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12529:12555:0423/104406.234234:ERROR:simple_version_upgrade.cc(170)] Disk cache backend fake index file has wrong magic number.
+[12529:12555:0423/104406.234516:ERROR:simple_backend_impl.cc(756)] Simple Cache Backend: wrong file structure on disk: 3 path: /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/webcache_6613/Default/Cache/Cache_Data
