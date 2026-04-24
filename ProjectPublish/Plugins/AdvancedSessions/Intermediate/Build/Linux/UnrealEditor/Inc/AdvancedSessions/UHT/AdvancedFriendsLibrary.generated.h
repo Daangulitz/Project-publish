@@ -22,7 +22,7 @@ struct FBPOnlineRecentPlayer;
 struct FBPUniqueNetId;
 
 // ********** Begin Class UAdvancedFriendsLibrary **************************************************
-#define FID_home_daantje_Documents_SchoolProjecten_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_home_mick_Documents_Unreal_Projects_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execIsAFriend); \
 	DECLARE_FUNCTION(execGetStoredRecentPlayersList); \
 	DECLARE_FUNCTION(execGetStoredFriendsList); \
@@ -34,7 +34,7 @@ struct FBPUniqueNetId;
 struct Z_Construct_UClass_UAdvancedFriendsLibrary_Statics;
 ADVANCEDSESSIONS_API UClass* Z_Construct_UClass_UAdvancedFriendsLibrary_NoRegister();
 
-#define FID_home_daantje_Documents_SchoolProjecten_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_INCLASS_NO_PURE_DECLS \
+#define FID_home_mick_Documents_Unreal_Projects_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAdvancedFriendsLibrary(); \
 	friend struct ::Z_Construct_UClass_UAdvancedFriendsLibrary_Statics; \
@@ -45,7 +45,7 @@ public: \
 	DECLARE_SERIALIZER(UAdvancedFriendsLibrary)
 
 
-#define FID_home_daantje_Documents_SchoolProjecten_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_ENHANCED_CONSTRUCTORS \
+#define FID_home_mick_Documents_Unreal_Projects_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UAdvancedFriendsLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -57,13 +57,13 @@ public: \
 	NO_API virtual ~UAdvancedFriendsLibrary();
 
 
-#define FID_home_daantje_Documents_SchoolProjecten_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_25_PROLOG
-#define FID_home_daantje_Documents_SchoolProjecten_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_GENERATED_BODY \
+#define FID_home_mick_Documents_Unreal_Projects_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_25_PROLOG
+#define FID_home_mick_Documents_Unreal_Projects_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_home_daantje_Documents_SchoolProjecten_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_home_daantje_Documents_SchoolProjecten_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_INCLASS_NO_PURE_DECLS \
-	FID_home_daantje_Documents_SchoolProjecten_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_ENHANCED_CONSTRUCTORS \
+	FID_home_mick_Documents_Unreal_Projects_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_home_mick_Documents_Unreal_Projects_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_INCLASS_NO_PURE_DECLS \
+	FID_home_mick_Documents_Unreal_Projects_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h_28_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -73,6 +73,6 @@ class UAdvancedFriendsLibrary;
 // ********** End Class UAdvancedFriendsLibrary ****************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_home_daantje_Documents_SchoolProjecten_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h
+#define CURRENT_FILE_ID FID_home_mick_Documents_Unreal_Projects_Project_publish_ProjectPublish_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedFriendsLibrary_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

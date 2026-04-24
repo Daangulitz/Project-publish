@@ -1,6 +1,6 @@
-/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp.o: \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Intermediate/Build/Linux/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Intermediate/Build/Linux/x64/UnrealEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h \
+/home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp.o: \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Intermediate/Build/Linux/x64/ProjectPublishEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Intermediate/Build/Linux/x64/ProjectPublishEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h \
   /opt/unreal-engine/Engine/Source/Editor/UnrealEd/Public/UnrealEdSharedPCH.h \
   /opt/unreal-engine/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
   /opt/unreal-engine/Engine/Source/Runtime/Slate/Public/SlateSharedPCH.h \
@@ -3006,13 +3006,13 @@
   /opt/unreal-engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/lib/clang/20/include/sanitizer/common_interface_defs.h \
   /opt/unreal-engine/Engine/Source/../Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/include/c++/v1/array \
   /opt/unreal-engine/Engine/Source/../Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/include/c++/v1/__iterator/static_bounded_iter.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSteamSessions/Definitions.AdvancedSteamSessions.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.gen.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSteamSessions/Definitions.AdvancedSteamSessions.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.gen.cpp \
   Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h \
   Runtime/Core/Public/CoreMinimal.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/BlueprintDataDefinitions.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/BlueprintDataDefinitions.h \
   Runtime/Engine/Classes/Engine/Engine.h \
   Runtime/Engine/Classes/GameFramework/PlayerState.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
@@ -3174,7 +3174,7 @@
   ../Plugins/Online/OnlineSubsystemUtils/Intermediate/Build/Linux/UnrealEditor/Inc/OnlineSubsystemUtils/UHT/TestBeaconHost.generated.h \
   ../Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Classes/TurnBasedBlueprintLibrary.h \
   ../Plugins/Online/OnlineSubsystemUtils/Intermediate/Build/Linux/UnrealEditor/Inc/OnlineSubsystemUtils/UHT/TurnBasedBlueprintLibrary.generated.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/BlueprintDataDefinitions.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/BlueprintDataDefinitions.generated.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/Online.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineUserInterface.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlinePresenceInterface.h \
@@ -3218,22 +3218,33 @@
   ThirdParty/Steamworks/Steamv161/sdk/public/steam/steamnetworkingtypes.h \
   ThirdParty/Steamworks/Steamv161/sdk/public/steam/isteamnetworkingsockets.h \
   ThirdParty/Steamworks/Steamv161/sdk/public/steam/isteamnetworkingutils.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamSessions.init.gen.cpp \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamWorkshopLibrary.gen.cpp \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamWorkshopLibrary.generated.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamNotificationsSubsystem.gen.cpp \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamNotificationsSubsystem.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamFriendsLibrary.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamSessions.init.gen.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamWorkshopLibrary.gen.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/AdvancedSteamWorkshopLibrary.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamNotificationsSubsystem.gen.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamNotificationsSubsystem.h \
   Runtime/Engine/Public/Subsystems/GameInstanceSubsystem.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamNotificationsSubsystem.generated.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamRequestGroupOfficersCallbackProxy.gen.cpp \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamRequestGroupOfficersCallbackProxy.generated.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamWSRequestUGCDetailsCallbackProxy.gen.cpp \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamWSRequestUGCDetailsCallbackProxy.generated.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSteamSessions/PerModuleInline.gen.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamNotificationsSubsystem.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamRequestGroupOfficersCallbackProxy.gen.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamRequestGroupOfficersCallbackProxy.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamWSRequestUGCDetailsCallbackProxy.gen.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamWSRequestUGCDetailsCallbackProxy.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSteamSessions/PerModuleInline.gen.cpp \
   Runtime/Core/Public/HAL/PerModuleInline.inl \
   Runtime/Core/Public/CoreGlobals.h \
-  Runtime/Core/Public/Modules/Boilerplate/ModuleBoilerplate.h
+  Runtime/Core/Public/Modules/Boilerplate/ModuleBoilerplate.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamFriendsLibrary.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/OnlineSubSystemHeader.h \
+  Runtime/Engine/Classes/Engine/Texture.h \
+  Runtime/Engine/Classes/Engine/Texture2D.h \
+  Runtime/Engine/Public/TextureResource.h \
+  Runtime/Core/Public/PixelFormat.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamSessions.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/AdvancedSteamSessions.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamWorkshopLibrary.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamRequestGroupOfficersCallbackProxy.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamWSRequestUGCDetailsCallbackProxy.cpp

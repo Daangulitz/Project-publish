@@ -1,14 +1,4 @@
-<<<<<<< HEAD
-﻿Log file open, 04/23/26 10:30:01
-LogICUInternationalization: OS requested locale 'en_US' is not supported. Using the OS requested language of 'en-US' as the locale.
-LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
-LogConfig: No local boot hotfix file found at: [/home/daantje/.config/Epic/CrashReportClient/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
-LogInit: ExecutableName: CrashReportClientEditor
-LogInit: Build: ++UE5+Release-5.7-CL-51494982
-LogInit: Platform=Linux
-LogInit: MachineId=3cdf7a92d3224369a4459fffed029588-000003e8
-=======
-﻿Log file open, 04/21/26 15:15:13
+﻿Log file open, 04/23/26 11:35:34
 LogICUInternationalization: OS requested locale 'en_US' is not supported. Using the OS requested language of 'en-US' as the locale.
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogConfig: No local boot hotfix file found at: [/home/mick/.config/Epic/CrashReportClient/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
@@ -16,232 +6,120 @@ LogInit: ExecutableName: CrashReportClientEditor
 LogInit: Build: ++UE5+Release-5.7-CL-51494982
 LogInit: Platform=Linux
 LogInit: MachineId=6c5bab08140a48e9a4fc980d74ea4269-000003e8
->>>>>>> origin/#1-Health-And-damage-
 LogInit: DeviceId=
 LogInit: Engine Version: 5.7.4-51494982+++UE5+Release-5.7
 LogInit: Compatible Engine Version: 5.7.0-47537391+++UE5+Release-5.7
 LogInit: Net CL: 47537391
-<<<<<<< HEAD
-LogInit: OS: Arch Linux (6.19.12-arch1-1), CPU: 13th Gen Intel(R) Core(TM) i7-13620H, GPU: NVIDIA GeForce RTX 4060 Laptop GPU (NVIDIA UNIX Open Kernel Module for x86_64  595.58.03  Release Build  (root@))
-LogInit: CPU Model ID: 6ba2, microcode revision: 6134
-=======
 LogInit: OS: Arch Linux (6.19.12-arch1-1), CPU: 13th Gen Intel(R) Core(TM) i7-13700HX, GPU: NVIDIA GeForce RTX 4060 Laptop GPU (NVIDIA UNIX Open Kernel Module for x86_64  595.58.03  Release Build  (root@))
 LogInit: CPU Model ID: 6bf2, microcode revision: 3e
->>>>>>> origin/#1-Health-And-damage-
 LogInit: Compiled (64-bit): Mar  6 2026 12:49:40
 LogInit: Architecture: x64
 LogInit: Compiled with Clang: 20.1.8 (github.com/llvm/llvm-project 87f0227cb60147a26a1eeb4fb06e3b505e9c7261)
 LogInit: Build Configuration: Shipping
 LogInit: Branch Name: ++UE5+Release-5.7
-<<<<<<< HEAD
-LogInit: Command Line:  -Abslog="/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/Logs/ProjectPublish-CRC.log" -Unattended "/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-1940-150499AD7F374829A7D5E88BB4C6917A/"
-=======
-LogInit: Command Line:  -Abslog="/home/mick/Documents/GitHub/Project-publish/ProjectPublish/Saved/Logs/ProjectPublish-CRC.log" -Unattended "/home/mick/Documents/GitHub/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-3951-C0D0D4A4B22E4F169929B18187833B48/"
->>>>>>> origin/#1-Health-And-damage-
+LogInit: Command Line:  -Abslog="/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Saved/Logs/ProjectPublish-CRC.log" -Unattended "/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-63517-515002BA07AB4040B564F24FBE875859/"
 LogInit: Base Directory: /opt/unreal-engine/Engine/Binaries/Linux/
 LogInit: Allocator: Mimalloc
 LogInit: Installed Engine Build: 1
 LogInit: This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
 LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC.
 LogInit: Object subsystem initialized
-<<<<<<< HEAD
-LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
-[2026.04.23-08.30.01:511][  0]LogInit: Unix hardware info:
-[2026.04.23-08.30.01:511][  0]LogInit:  - we are the first instance of this executable
-[2026.04.23-08.30.01:511][  0]LogInit:  - this process' id (pid) is 8635, parent process' id (ppid) is 1940
-[2026.04.23-08.30.01:511][  0]LogInit:  - we are not running under debugger
-[2026.04.23-08.30.01:511][  0]LogInit:  - machine network name is 'DaanArchs'
-[2026.04.23-08.30.01:511][  0]LogInit:  - user name is 'daantje' (daantje)
-[2026.04.23-08.30.01:511][  0]LogInit:  - we're logged in locally
-[2026.04.23-08.30.01:511][  0]LogInit:  - we're running with rendering
-[2026.04.23-08.30.01:511][  0]LogInit:  - CPU: GenuineIntel '13th Gen Intel(R) Core(TM) i7-13620H' (signature: 0xB06A2)
-[2026.04.23-08.30.01:511][  0]LogInit:  - Number of physical cores available for the process: 10
-[2026.04.23-08.30.01:511][  0]LogInit:  - Number of logical cores available for the process: 16
-[2026.04.23-08.30.01:511][  0]LogInit:  - GPU Brand Info: NVIDIA GeForce RTX 4060 Laptop GPU (NVIDIA UNIX Open Kernel Module for x86_64  595.58.03  Release Build  (root@))
-[2026.04.23-08.30.01:511][  0]LogInit:  - Memory allocator used: Mimalloc
-[2026.04.23-08.30.01:511][  0]LogInit:  - This is an internal build.
-[2026.04.23-08.30.01:511][  0]LogCore: Skipped benchmarking clocks because the engine is running in a standalone program mode - CLOCK_MONOTONIC will be used.
-[2026.04.23-08.30.01:511][  0]LogInit: Unix-specific commandline switches:
-[2026.04.23-08.30.01:511][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
-[2026.04.23-08.30.01:511][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
-[2026.04.23-08.30.01:511][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
-[2026.04.23-08.30.01:511][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
-[2026.04.23-08.30.01:511][  0]LogInit:  -useksm - uses kernel same-page mapping (KSM) for mapped memory (OFF)
-[2026.04.23-08.30.01:511][  0]LogInit:  -ksmmergeall - marks all mmap'd memory pages suitable for KSM (OFF)
-[2026.04.23-08.30.01:511][  0]LogInit:  -preloadmodulesymbols - Loads the main module symbols file into memory (OFF)
-[2026.04.23-08.30.01:511][  0]LogInit:  -sigdfl=SIGNAL - Allows a specific signal to be set to its default handler rather then ignoring the signal
-[2026.04.23-08.30.01:511][  0]LogInit:  -crashhandlerstacksize - Allows setting crash handler stack sizes (204800)
-[2026.04.23-08.30.01:511][  0]LogInit:  -noexclusivelockonwrite - disables marking files created by the engine as exclusive locked while the engine has them opened
-[2026.04.23-08.30.01:511][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
-[2026.04.23-08.30.01:511][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
-[2026.04.23-08.30.01:511][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
-[2026.04.23-08.30.01:511][  0]LogInit:  -allowsyscallfilterfile=PATH_TO_FILE - sets up a system call filter allow list. any invalid syscall in this list *will* cause a crash
-[2026.04.23-08.30.01:511][  0]LogInit:  - Physical RAM available (not considering process quota): 16 GB (15620 MB, 15995476 KB, 16379367424 bytes)
-[2026.04.23-08.30.01:511][  0]LogInit:  - VirtualMemoryAllocator pools will grow at scale 1
-[2026.04.23-08.30.01:511][  0]LogInit:  - MemoryRangeDecommit() will be a no-op (re-run with -vmapoolevict to change)
-[2026.04.23-08.30.01:511][  0]LogInit:  - PageSize 4096
-[2026.04.23-08.30.01:511][  0]LogInit:  - BinnedPageSize 65536
-[2026.04.23-08.30.01:513][  0]LogUObjectArray: 563 objects as part of root set at end of initial load.
-[2026.04.23-08.30.01:513][  0]LogUObjectArray: 0 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
-[2026.04.23-08.30.01:513][  0]LogUObjectArray: CloseDisregardForGC: 563/563 objects in disregard for GC pool
-[2026.04.23-08.30.01:513][  0]LogInit: Using OS detected language (en-US).
-[2026.04.23-08.30.01:513][  0]LogInit: Using OS detected locale (en-US).
-[2026.04.23-08.30.01:514][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
-[2026.04.23-08.30.01:548][  0]LogInit: Using OS detected language (en-US).
-[2026.04.23-08.30.01:548][  0]LogInit: Using OS detected locale (en-US).
-[2026.04.23-08.30.01:548][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
-[2026.04.23-08.30.01:548][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
-[2026.04.23-08.30.01:548][  0]LogPackageLocalizationCache: Processed 2 localized package path(s) for 1 prioritized culture(s) in 0.000025 seconds
-[2026.04.23-08.30.01:558][  0]LogInit: Using libcurl 8.12.1
-[2026.04.23-08.30.01:558][  0]LogInit:  - built for x86_64-unknown-linux-gnu
-[2026.04.23-08.30.01:558][  0]LogInit:  - supports SSL with OpenSSL/1.1.1t
-[2026.04.23-08.30.01:558][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.3
-[2026.04.23-08.30.01:558][  0]LogInit:  - other features:
-[2026.04.23-08.30.01:558][  0]LogInit:      CURL_VERSION_SSL
-[2026.04.23-08.30.01:558][  0]LogInit:      CURL_VERSION_LIBZ
-[2026.04.23-08.30.01:558][  0]LogInit:      CURL_VERSION_IPV6
-[2026.04.23-08.30.01:558][  0]LogInit:      CURL_VERSION_ASYNCHDNS
-[2026.04.23-08.30.01:558][  0]LogInit:      CURL_VERSION_LARGEFILE
-[2026.04.23-08.30.01:558][  0]LogInit:      CURL_VERSION_TLSAUTH_SRP
-[2026.04.23-08.30.01:558][  0]LogInit:      CURL_VERSION_HTTP2
-[2026.04.23-08.30.01:558][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
-[2026.04.23-08.30.01:558][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
-[2026.04.23-08.30.01:558][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
-[2026.04.23-08.30.01:558][  0]LogInit:  - CVarHttpCurlReuseConnectionEnabled = true  - Libcurl will reuse connections
-[2026.04.23-08.30.01:558][  0]LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
-[2026.04.23-08.30.01:558][  0]LogInit:  - LocalHostAddr = Default
-[2026.04.23-08.30.01:558][  0]LogInit:  - BufferSize = 65536
-[2026.04.23-08.30.01:558][  0]LogInit: CreateHttpThread using FCurlMultiPollEventLoopHttpThread
-[2026.04.23-08.30.01:558][  0]LogInit: Creating http thread with maximum 256 concurrent requests
-[2026.04.23-08.30.01:559][  0]LogAnalytics: Display: [CrashReporter.Release] AnalyticsET::StartSession ( APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = ++UE5+Release-5.7-CL-51494982 )
-[2026.04.23-08.30.01:560][  0]CrashReportCoreLog: Display: Applying project settings from '/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-1940-150499AD7F374829A7D5E88BB4C6917A/CrashReportClient.ini'.
-[2026.04.23-08.30.01:560][  0]CrashReportCoreLog: CrashReportClientVersion=1.0
-[2026.04.23-08.30.01:560][  0]CrashReportCoreLog: CrashReportReceiver disabled
-[2026.04.23-08.30.01:560][  0]CrashReportCoreLog: DataRouterUrl: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data
-[2026.04.23-08.30.01:560][  0]CrashReportCoreLog: Initial state = Unknown UploadState value
-[2026.04.23-08.30.01:560][  0]CrashReportCoreLog: Initial state = Unknown UploadState value
-[2026.04.23-08.30.01:561][  0]LogCrashDebugHelper: DepotName: //UE5/Release-5.7
-[2026.04.23-08.30.01:561][  0]LogCrashDebugHelper: BuiltFromCL: 51494982
-[2026.04.23-08.30.01:561][  0]LogCrashDebugHelper: EngineVersion: 5.7.4-51494982+++UE5+Release-5.7
-[2026.04.23-08.30.01:561][  0]LogCrashDebugHelper: BuildVersion: ++UE5+Release-5.7-CL-51494982
-[2026.04.23-08.30.02:534][  0]CrashReportCoreLog: Got 4 pending files to upload from 'ensureinfo-ProjectPublish-pid-1940-150499AD7F374829A7D5E88BB4C6917A'
-[2026.04.23-08.30.02:534][  0]CrashReportCoreLog: State change from Ready to SendingFiles
-[2026.04.23-08.30.02:534][  0]CrashReportCoreLog: CompressAndSendData have 4 pending files
-[2026.04.23-08.30.02:534][  0]CrashReportCoreLog: CompressAndSendData compressing 5971 bytes ('/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-1940-150499AD7F374829A7D5E88BB4C6917A/Diagnostics.txt')
-[2026.04.23-08.30.02:534][  0]CrashReportCoreLog: CompressAndSendData compressing 49747 bytes ('/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-1940-150499AD7F374829A7D5E88BB4C6917A/CrashContext.runtime-xml')
-[2026.04.23-08.30.02:535][  0]CrashReportCoreLog: CompressAndSendData compressing 1192695 bytes ('/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-1940-150499AD7F374829A7D5E88BB4C6917A/ProjectPublish.log')
-[2026.04.23-08.30.02:535][  0]CrashReportCoreLog: CompressAndSendData compressing 256 bytes ('/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-1940-150499AD7F374829A7D5E88BB4C6917A/CrashReportClient.ini')
-[2026.04.23-08.30.02:550][  0]CrashReportCoreLog: Sending HTTP request: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?AppID=CrashReporter&AppVersion=5.7.4-51494982%2B%2B%2BUE5%2BRelease-5.7&AppEnvironment=Release&UploadType=crashreports&UserID=3cdf7a92d3224369a4459fffed029588-000003e8%7C%7C3cdf7a92d3224369a4459fffed029588, Payload size: 130924
-[2026.04.23-08.30.03:501][  0]CrashReportCoreLog: OnProcessRequestComplete(), State=SendingFiles Response=204 ConnectedSuccesfully=1
-[2026.04.23-08.30.03:501][  0]CrashReportCoreLog: All uploads done
-[2026.04.23-08.30.03:501][  0]CrashReportCoreLog: State change from SendingFiles to Finished
-[2026.04.23-08.30.03:568][  0]CrashReportCoreLog: Final state (Receiver) = Finished
-[2026.04.23-08.30.03:568][  0]CrashReportCoreLog: Final state (Receiver) = Unknown UploadState value
-[2026.04.23-08.30.03:568][  0]LogAnalytics: Display: [CrashReporter.Release] AnalyticsET::EndSession
-[2026.04.23-08.30.03:568][  0]LogCore: Engine exit requested (reason: CrashReportClientApp RequestExit)
-[2026.04.23-08.30.03:568][  0]LogExit: Preparing to exit.
-[2026.04.23-08.30.03:568][  0]LogExit: Object subsystem successfully closed.
-[2026.04.23-08.30.04:069][  0]LogPakFile: Destroying PakPlatformFile
-[2026.04.23-08.30.04:070][  0]LogExit: Exiting.
-[2026.04.23-08.30.04:073][  0]Log file closed, 04/23/26 10:30:04
-=======
-[2026.04.21-13.15.13:785][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
-[2026.04.21-13.15.13:785][  0]LogInit: Unix hardware info:
-[2026.04.21-13.15.13:785][  0]LogInit:  - we are the first instance of this executable
-[2026.04.21-13.15.13:785][  0]LogInit:  - this process' id (pid) is 4310, parent process' id (ppid) is 3951
-[2026.04.21-13.15.13:785][  0]LogInit:  - we are not running under debugger
-[2026.04.21-13.15.13:785][  0]LogInit:  - machine network name is 'mickus-dickus'
-[2026.04.21-13.15.13:785][  0]LogInit:  - user name is 'mick' (mick)
-[2026.04.21-13.15.13:785][  0]LogInit:  - we're logged in locally
-[2026.04.21-13.15.13:785][  0]LogInit:  - we're running with rendering
-[2026.04.21-13.15.13:785][  0]LogInit:  - CPU: GenuineIntel '13th Gen Intel(R) Core(TM) i7-13700HX' (signature: 0xB06F2)
-[2026.04.21-13.15.13:785][  0]LogInit:  - Number of physical cores available for the process: 16
-[2026.04.21-13.15.13:785][  0]LogInit:  - Number of logical cores available for the process: 24
-[2026.04.21-13.15.13:785][  0]LogInit:  - GPU Brand Info: NVIDIA GeForce RTX 4060 Laptop GPU (NVIDIA UNIX Open Kernel Module for x86_64  595.58.03  Release Build  (root@))
-[2026.04.21-13.15.13:785][  0]LogInit:  - Memory allocator used: Mimalloc
-[2026.04.21-13.15.13:785][  0]LogInit:  - This is an internal build.
-[2026.04.21-13.15.13:785][  0]LogCore: Skipped benchmarking clocks because the engine is running in a standalone program mode - CLOCK_MONOTONIC will be used.
-[2026.04.21-13.15.13:785][  0]LogInit: Unix-specific commandline switches:
-[2026.04.21-13.15.13:785][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
-[2026.04.21-13.15.13:785][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
-[2026.04.21-13.15.13:785][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
-[2026.04.21-13.15.13:785][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
-[2026.04.21-13.15.13:785][  0]LogInit:  -useksm - uses kernel same-page mapping (KSM) for mapped memory (OFF)
-[2026.04.21-13.15.13:785][  0]LogInit:  -ksmmergeall - marks all mmap'd memory pages suitable for KSM (OFF)
-[2026.04.21-13.15.13:785][  0]LogInit:  -preloadmodulesymbols - Loads the main module symbols file into memory (OFF)
-[2026.04.21-13.15.13:785][  0]LogInit:  -sigdfl=SIGNAL - Allows a specific signal to be set to its default handler rather then ignoring the signal
-[2026.04.21-13.15.13:785][  0]LogInit:  -crashhandlerstacksize - Allows setting crash handler stack sizes (204800)
-[2026.04.21-13.15.13:785][  0]LogInit:  -noexclusivelockonwrite - disables marking files created by the engine as exclusive locked while the engine has them opened
-[2026.04.21-13.15.13:785][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
-[2026.04.21-13.15.13:785][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
-[2026.04.21-13.15.13:785][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
-[2026.04.21-13.15.13:785][  0]LogInit:  -allowsyscallfilterfile=PATH_TO_FILE - sets up a system call filter allow list. any invalid syscall in this list *will* cause a crash
-[2026.04.21-13.15.13:785][  0]LogInit:  - Physical RAM available (not considering process quota): 16 GB (15676 MB, 16052524 KB, 16437784576 bytes)
-[2026.04.21-13.15.13:785][  0]LogInit:  - VirtualMemoryAllocator pools will grow at scale 1
-[2026.04.21-13.15.13:785][  0]LogInit:  - MemoryRangeDecommit() will be a no-op (re-run with -vmapoolevict to change)
-[2026.04.21-13.15.13:785][  0]LogInit:  - PageSize 4096
-[2026.04.21-13.15.13:785][  0]LogInit:  - BinnedPageSize 65536
-[2026.04.21-13.15.13:790][  0]LogUObjectArray: 563 objects as part of root set at end of initial load.
-[2026.04.21-13.15.13:790][  0]LogUObjectArray: 0 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
-[2026.04.21-13.15.13:790][  0]LogUObjectArray: CloseDisregardForGC: 563/563 objects in disregard for GC pool
-[2026.04.21-13.15.13:790][  0]LogInit: Using OS detected language (en-US).
-[2026.04.21-13.15.13:792][  0]LogInit: Using OS detected locale (en-US).
-[2026.04.21-13.15.13:792][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
-[2026.04.21-13.15.13:829][  0]LogInit: Using OS detected language (en-US).
-[2026.04.21-13.15.13:829][  0]LogInit: Using OS detected locale (en-US).
-[2026.04.21-13.15.13:829][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
-[2026.04.21-13.15.13:829][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
-[2026.04.21-13.15.13:829][  0]LogPackageLocalizationCache: Processed 2 localized package path(s) for 1 prioritized culture(s) in 0.000024 seconds
-[2026.04.21-13.15.13:842][  0]LogInit: Using libcurl 8.12.1
-[2026.04.21-13.15.13:842][  0]LogInit:  - built for x86_64-unknown-linux-gnu
-[2026.04.21-13.15.13:842][  0]LogInit:  - supports SSL with OpenSSL/1.1.1t
-[2026.04.21-13.15.13:842][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.3
-[2026.04.21-13.15.13:842][  0]LogInit:  - other features:
-[2026.04.21-13.15.13:842][  0]LogInit:      CURL_VERSION_SSL
-[2026.04.21-13.15.13:842][  0]LogInit:      CURL_VERSION_LIBZ
-[2026.04.21-13.15.13:842][  0]LogInit:      CURL_VERSION_IPV6
-[2026.04.21-13.15.13:842][  0]LogInit:      CURL_VERSION_ASYNCHDNS
-[2026.04.21-13.15.13:842][  0]LogInit:      CURL_VERSION_LARGEFILE
-[2026.04.21-13.15.13:842][  0]LogInit:      CURL_VERSION_TLSAUTH_SRP
-[2026.04.21-13.15.13:842][  0]LogInit:      CURL_VERSION_HTTP2
-[2026.04.21-13.15.13:842][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
-[2026.04.21-13.15.13:842][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
-[2026.04.21-13.15.13:842][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
-[2026.04.21-13.15.13:842][  0]LogInit:  - CVarHttpCurlReuseConnectionEnabled = true  - Libcurl will reuse connections
-[2026.04.21-13.15.13:842][  0]LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
-[2026.04.21-13.15.13:842][  0]LogInit:  - LocalHostAddr = Default
-[2026.04.21-13.15.13:842][  0]LogInit:  - BufferSize = 65536
-[2026.04.21-13.15.13:842][  0]LogInit: CreateHttpThread using FCurlMultiPollEventLoopHttpThread
-[2026.04.21-13.15.13:842][  0]LogInit: Creating http thread with maximum 256 concurrent requests
-[2026.04.21-13.15.13:842][  0]LogAnalytics: Display: [CrashReporter.Release] AnalyticsET::StartSession ( APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = ++UE5+Release-5.7-CL-51494982 )
-[2026.04.21-13.15.13:844][  0]CrashReportCoreLog: Display: Applying project settings from '/home/mick/Documents/GitHub/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-3951-C0D0D4A4B22E4F169929B18187833B48/CrashReportClient.ini'.
-[2026.04.21-13.15.13:844][  0]CrashReportCoreLog: CrashReportClientVersion=1.0
-[2026.04.21-13.15.13:844][  0]CrashReportCoreLog: CrashReportReceiver disabled
-[2026.04.21-13.15.13:844][  0]CrashReportCoreLog: DataRouterUrl: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data
-[2026.04.21-13.15.13:844][  0]CrashReportCoreLog: Initial state = Unknown UploadState value
-[2026.04.21-13.15.13:844][  0]CrashReportCoreLog: Initial state = Unknown UploadState value
-[2026.04.21-13.15.13:844][  0]LogCrashDebugHelper: DepotName: //UE5/Release-5.7
-[2026.04.21-13.15.13:844][  0]LogCrashDebugHelper: BuiltFromCL: 51494982
-[2026.04.21-13.15.13:844][  0]LogCrashDebugHelper: EngineVersion: 5.7.4-51494982+++UE5+Release-5.7
-[2026.04.21-13.15.13:844][  0]LogCrashDebugHelper: BuildVersion: ++UE5+Release-5.7-CL-51494982
-[2026.04.21-13.15.14:816][  0]CrashReportCoreLog: Got 4 pending files to upload from 'ensureinfo-ProjectPublish-pid-3951-C0D0D4A4B22E4F169929B18187833B48'
-[2026.04.21-13.15.14:816][  0]CrashReportCoreLog: State change from Ready to SendingFiles
-[2026.04.21-13.15.14:816][  0]CrashReportCoreLog: CompressAndSendData have 4 pending files
-[2026.04.21-13.15.14:816][  0]CrashReportCoreLog: CompressAndSendData compressing 4007 bytes ('/home/mick/Documents/GitHub/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-3951-C0D0D4A4B22E4F169929B18187833B48/Diagnostics.txt')
-[2026.04.21-13.15.14:816][  0]CrashReportCoreLog: CompressAndSendData compressing 44746 bytes ('/home/mick/Documents/GitHub/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-3951-C0D0D4A4B22E4F169929B18187833B48/CrashContext.runtime-xml')
-[2026.04.21-13.15.14:816][  0]CrashReportCoreLog: CompressAndSendData compressing 149714 bytes ('/home/mick/Documents/GitHub/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-3951-C0D0D4A4B22E4F169929B18187833B48/ProjectPublish.log')
-[2026.04.21-13.15.14:816][  0]CrashReportCoreLog: CompressAndSendData compressing 256 bytes ('/home/mick/Documents/GitHub/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-3951-C0D0D4A4B22E4F169929B18187833B48/CrashReportClient.ini')
-[2026.04.21-13.15.14:819][  0]CrashReportCoreLog: Sending HTTP request: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?AppID=CrashReporter&AppVersion=5.7.4-51494982%2B%2B%2BUE5%2BRelease-5.7&AppEnvironment=Release&UploadType=crashreports&UserID=6c5bab08140a48e9a4fc980d74ea4269-000003e8%7C%7C6c5bab08140a48e9a4fc980d74ea4269, Payload size: 32191
-[2026.04.21-13.15.15:250][  0]CrashReportCoreLog: OnProcessRequestComplete(), State=SendingFiles Response=204 ConnectedSuccesfully=1
-[2026.04.21-13.15.15:250][  0]CrashReportCoreLog: All uploads done
-[2026.04.21-13.15.15:251][  0]CrashReportCoreLog: State change from SendingFiles to Finished
-[2026.04.21-13.15.15:853][  0]CrashReportCoreLog: Final state (Receiver) = Finished
-[2026.04.21-13.15.15:853][  0]CrashReportCoreLog: Final state (Receiver) = Unknown UploadState value
-[2026.04.21-13.15.15:853][  0]LogAnalytics: Display: [CrashReporter.Release] AnalyticsET::EndSession
-[2026.04.21-13.15.15:853][  0]LogCore: Engine exit requested (reason: CrashReportClientApp RequestExit)
-[2026.04.21-13.15.15:853][  0]LogExit: Preparing to exit.
-[2026.04.21-13.15.15:855][  0]LogExit: Object subsystem successfully closed.
-[2026.04.21-13.15.16:358][  0]LogPakFile: Destroying PakPlatformFile
-[2026.04.21-13.15.16:358][  0]LogExit: Exiting.
-[2026.04.21-13.15.16:370][  0]Log file closed, 04/21/26 15:15:16
->>>>>>> origin/#1-Health-And-damage-
+[2026.04.23-09.35.34:117][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2026.04.23-09.35.34:117][  0]LogInit: Unix hardware info:
+[2026.04.23-09.35.34:117][  0]LogInit:  - we are the first instance of this executable
+[2026.04.23-09.35.34:117][  0]LogInit:  - this process' id (pid) is 64040, parent process' id (ppid) is 63517
+[2026.04.23-09.35.34:117][  0]LogInit:  - we are not running under debugger
+[2026.04.23-09.35.34:117][  0]LogInit:  - machine network name is 'mickus-dickus'
+[2026.04.23-09.35.34:117][  0]LogInit:  - user name is 'mick' (mick)
+[2026.04.23-09.35.34:117][  0]LogInit:  - we're logged in locally
+[2026.04.23-09.35.34:117][  0]LogInit:  - we're running with rendering
+[2026.04.23-09.35.34:117][  0]LogInit:  - CPU: GenuineIntel '13th Gen Intel(R) Core(TM) i7-13700HX' (signature: 0xB06F2)
+[2026.04.23-09.35.34:117][  0]LogInit:  - Number of physical cores available for the process: 16
+[2026.04.23-09.35.34:117][  0]LogInit:  - Number of logical cores available for the process: 24
+[2026.04.23-09.35.34:117][  0]LogInit:  - GPU Brand Info: NVIDIA GeForce RTX 4060 Laptop GPU (NVIDIA UNIX Open Kernel Module for x86_64  595.58.03  Release Build  (root@))
+[2026.04.23-09.35.34:117][  0]LogInit:  - Memory allocator used: Mimalloc
+[2026.04.23-09.35.34:117][  0]LogInit:  - This is an internal build.
+[2026.04.23-09.35.34:117][  0]LogCore: Skipped benchmarking clocks because the engine is running in a standalone program mode - CLOCK_MONOTONIC will be used.
+[2026.04.23-09.35.34:117][  0]LogInit: Unix-specific commandline switches:
+[2026.04.23-09.35.34:117][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2026.04.23-09.35.34:117][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2026.04.23-09.35.34:117][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2026.04.23-09.35.34:117][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
+[2026.04.23-09.35.34:117][  0]LogInit:  -useksm - uses kernel same-page mapping (KSM) for mapped memory (OFF)
+[2026.04.23-09.35.34:117][  0]LogInit:  -ksmmergeall - marks all mmap'd memory pages suitable for KSM (OFF)
+[2026.04.23-09.35.34:117][  0]LogInit:  -preloadmodulesymbols - Loads the main module symbols file into memory (OFF)
+[2026.04.23-09.35.34:117][  0]LogInit:  -sigdfl=SIGNAL - Allows a specific signal to be set to its default handler rather then ignoring the signal
+[2026.04.23-09.35.34:117][  0]LogInit:  -crashhandlerstacksize - Allows setting crash handler stack sizes (204800)
+[2026.04.23-09.35.34:117][  0]LogInit:  -noexclusivelockonwrite - disables marking files created by the engine as exclusive locked while the engine has them opened
+[2026.04.23-09.35.34:117][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2026.04.23-09.35.34:117][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2026.04.23-09.35.34:117][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2026.04.23-09.35.34:117][  0]LogInit:  -allowsyscallfilterfile=PATH_TO_FILE - sets up a system call filter allow list. any invalid syscall in this list *will* cause a crash
+[2026.04.23-09.35.34:117][  0]LogInit:  - Physical RAM available (not considering process quota): 16 GB (15676 MB, 16052528 KB, 16437788672 bytes)
+[2026.04.23-09.35.34:117][  0]LogInit:  - VirtualMemoryAllocator pools will grow at scale 1
+[2026.04.23-09.35.34:117][  0]LogInit:  - MemoryRangeDecommit() will be a no-op (re-run with -vmapoolevict to change)
+[2026.04.23-09.35.34:117][  0]LogInit:  - PageSize 4096
+[2026.04.23-09.35.34:117][  0]LogInit:  - BinnedPageSize 65536
+[2026.04.23-09.35.34:119][  0]LogUObjectArray: 563 objects as part of root set at end of initial load.
+[2026.04.23-09.35.34:119][  0]LogUObjectArray: 0 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2026.04.23-09.35.34:119][  0]LogUObjectArray: CloseDisregardForGC: 563/563 objects in disregard for GC pool
+[2026.04.23-09.35.34:119][  0]LogInit: Using OS detected language (en-US).
+[2026.04.23-09.35.34:119][  0]LogInit: Using OS detected locale (en-US).
+[2026.04.23-09.35.34:119][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2026.04.23-09.35.34:157][  0]LogInit: Using OS detected language (en-US).
+[2026.04.23-09.35.34:157][  0]LogInit: Using OS detected locale (en-US).
+[2026.04.23-09.35.34:157][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2026.04.23-09.35.34:157][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2026.04.23-09.35.34:157][  0]LogPackageLocalizationCache: Processed 2 localized package path(s) for 1 prioritized culture(s) in 0.000017 seconds
+[2026.04.23-09.35.34:167][  0]LogInit: Using libcurl 8.12.1
+[2026.04.23-09.35.34:167][  0]LogInit:  - built for x86_64-unknown-linux-gnu
+[2026.04.23-09.35.34:167][  0]LogInit:  - supports SSL with OpenSSL/1.1.1t
+[2026.04.23-09.35.34:167][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.3
+[2026.04.23-09.35.34:167][  0]LogInit:  - other features:
+[2026.04.23-09.35.34:167][  0]LogInit:      CURL_VERSION_SSL
+[2026.04.23-09.35.34:167][  0]LogInit:      CURL_VERSION_LIBZ
+[2026.04.23-09.35.34:167][  0]LogInit:      CURL_VERSION_IPV6
+[2026.04.23-09.35.34:167][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2026.04.23-09.35.34:167][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2026.04.23-09.35.34:167][  0]LogInit:      CURL_VERSION_TLSAUTH_SRP
+[2026.04.23-09.35.34:167][  0]LogInit:      CURL_VERSION_HTTP2
+[2026.04.23-09.35.34:167][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2026.04.23-09.35.34:167][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+[2026.04.23-09.35.34:167][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2026.04.23-09.35.34:167][  0]LogInit:  - CVarHttpCurlReuseConnectionEnabled = true  - Libcurl will reuse connections
+[2026.04.23-09.35.34:167][  0]LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+[2026.04.23-09.35.34:167][  0]LogInit:  - LocalHostAddr = Default
+[2026.04.23-09.35.34:167][  0]LogInit:  - BufferSize = 65536
+[2026.04.23-09.35.34:167][  0]LogInit: CreateHttpThread using FCurlMultiPollEventLoopHttpThread
+[2026.04.23-09.35.34:167][  0]LogInit: Creating http thread with maximum 256 concurrent requests
+[2026.04.23-09.35.34:168][  0]LogAnalytics: Display: [CrashReporter.Release] AnalyticsET::StartSession ( APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = ++UE5+Release-5.7-CL-51494982 )
+[2026.04.23-09.35.34:169][  0]CrashReportCoreLog: Display: Applying project settings from '/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-63517-515002BA07AB4040B564F24FBE875859/CrashReportClient.ini'.
+[2026.04.23-09.35.34:169][  0]CrashReportCoreLog: CrashReportClientVersion=1.0
+[2026.04.23-09.35.34:169][  0]CrashReportCoreLog: CrashReportReceiver disabled
+[2026.04.23-09.35.34:169][  0]CrashReportCoreLog: DataRouterUrl: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data
+[2026.04.23-09.35.34:170][  0]CrashReportCoreLog: Initial state = Unknown UploadState value
+[2026.04.23-09.35.34:170][  0]CrashReportCoreLog: Initial state = Unknown UploadState value
+[2026.04.23-09.35.34:170][  0]LogCrashDebugHelper: DepotName: //UE5/Release-5.7
+[2026.04.23-09.35.34:170][  0]LogCrashDebugHelper: BuiltFromCL: 51494982
+[2026.04.23-09.35.34:170][  0]LogCrashDebugHelper: EngineVersion: 5.7.4-51494982+++UE5+Release-5.7
+[2026.04.23-09.35.34:170][  0]LogCrashDebugHelper: BuildVersion: ++UE5+Release-5.7-CL-51494982
+[2026.04.23-09.35.35:140][  0]CrashReportCoreLog: Got 4 pending files to upload from 'ensureinfo-ProjectPublish-pid-63517-515002BA07AB4040B564F24FBE875859'
+[2026.04.23-09.35.35:140][  0]CrashReportCoreLog: State change from Ready to SendingFiles
+[2026.04.23-09.35.35:140][  0]CrashReportCoreLog: CompressAndSendData have 4 pending files
+[2026.04.23-09.35.35:140][  0]CrashReportCoreLog: CompressAndSendData compressing 4007 bytes ('/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-63517-515002BA07AB4040B564F24FBE875859/Diagnostics.txt')
+[2026.04.23-09.35.35:140][  0]CrashReportCoreLog: CompressAndSendData compressing 45626 bytes ('/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-63517-515002BA07AB4040B564F24FBE875859/CrashContext.runtime-xml')
+[2026.04.23-09.35.35:140][  0]CrashReportCoreLog: CompressAndSendData compressing 151145 bytes ('/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-63517-515002BA07AB4040B564F24FBE875859/ProjectPublish.log')
+[2026.04.23-09.35.35:140][  0]CrashReportCoreLog: CompressAndSendData compressing 256 bytes ('/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Saved/Crashes/ensureinfo-ProjectPublish-pid-63517-515002BA07AB4040B564F24FBE875859/CrashReportClient.ini')
+[2026.04.23-09.35.35:145][  0]CrashReportCoreLog: Sending HTTP request: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?AppID=CrashReporter&AppVersion=5.7.4-51494982%2B%2B%2BUE5%2BRelease-5.7&AppEnvironment=Release&UploadType=crashreports&UserID=6c5bab08140a48e9a4fc980d74ea4269-000003e8%7C%7C6c5bab08140a48e9a4fc980d74ea4269, Payload size: 32603
+[2026.04.23-09.35.36:509][  0]CrashReportCoreLog: OnProcessRequestComplete(), State=SendingFiles Response=204 ConnectedSuccesfully=1
+[2026.04.23-09.35.36:509][  0]CrashReportCoreLog: All uploads done
+[2026.04.23-09.35.36:509][  0]CrashReportCoreLog: State change from SendingFiles to Finished
+[2026.04.23-09.35.37:178][  0]CrashReportCoreLog: Final state (Receiver) = Finished
+[2026.04.23-09.35.37:178][  0]CrashReportCoreLog: Final state (Receiver) = Unknown UploadState value
+[2026.04.23-09.35.37:178][  0]LogAnalytics: Display: [CrashReporter.Release] AnalyticsET::EndSession
+[2026.04.23-09.35.37:178][  0]LogCore: Engine exit requested (reason: CrashReportClientApp RequestExit)
+[2026.04.23-09.35.37:178][  0]LogExit: Preparing to exit.
+[2026.04.23-09.35.37:179][  0]LogExit: Object subsystem successfully closed.
+[2026.04.23-09.35.37:683][  0]LogPakFile: Destroying PakPlatformFile
+[2026.04.23-09.35.37:683][  0]LogExit: Exiting.
+[2026.04.23-09.35.37:688][  0]Log file closed, 04/23/26 11:35:37

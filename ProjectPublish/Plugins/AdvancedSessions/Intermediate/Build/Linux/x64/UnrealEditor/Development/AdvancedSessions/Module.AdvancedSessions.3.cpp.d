@@ -1,6 +1,6 @@
-/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSessions/Module.AdvancedSessions.3.cpp.o: \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Intermediate/Build/Linux/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Intermediate/Build/Linux/x64/UnrealEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h \
+/home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSessions/Module.AdvancedSessions.3.cpp.o: \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Intermediate/Build/Linux/x64/ProjectPublishEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Intermediate/Build/Linux/x64/ProjectPublishEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h \
   /opt/unreal-engine/Engine/Source/Editor/UnrealEd/Public/UnrealEdSharedPCH.h \
   /opt/unreal-engine/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
   /opt/unreal-engine/Engine/Source/Runtime/Slate/Public/SlateSharedPCH.h \
@@ -3006,13 +3006,13 @@
   /opt/unreal-engine/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/lib/clang/20/include/sanitizer/common_interface_defs.h \
   /opt/unreal-engine/Engine/Source/../Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/include/c++/v1/array \
   /opt/unreal-engine/Engine/Source/../Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/include/c++/v1/__iterator/static_bounded_iter.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSessions/Module.AdvancedSessions.3.cpp \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSessions/Definitions.AdvancedSessions.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/LoginUserCallbackProxy.gen.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSessions/Module.AdvancedSessions.3.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSessions/Definitions.AdvancedSessions.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/LoginUserCallbackProxy.gen.cpp \
   Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/LoginUserCallbackProxy.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/LoginUserCallbackProxy.h \
   Runtime/Core/Public/CoreMinimal.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/BlueprintDataDefinitions.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/BlueprintDataDefinitions.h \
   Runtime/Engine/Classes/Engine/Engine.h \
   Runtime/Engine/Classes/GameFramework/PlayerState.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
@@ -3174,22 +3174,121 @@
   ../Plugins/Online/OnlineSubsystemUtils/Intermediate/Build/Linux/UnrealEditor/Inc/OnlineSubsystemUtils/UHT/TestBeaconHost.generated.h \
   ../Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Classes/TurnBasedBlueprintLibrary.h \
   ../Plugins/Online/OnlineSubsystemUtils/Intermediate/Build/Linux/UnrealEditor/Inc/OnlineSubsystemUtils/UHT/TurnBasedBlueprintLibrary.generated.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/BlueprintDataDefinitions.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/BlueprintDataDefinitions.generated.h \
   Runtime/Engine/Classes/Engine/LocalPlayer.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/LoginUserCallbackProxy.generated.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/LogoutUserCallbackProxy.gen.cpp \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/LogoutUserCallbackProxy.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/LogoutUserCallbackProxy.generated.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/SendFriendInviteCallbackProxy.gen.cpp \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/SendFriendInviteCallbackProxy.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/SendFriendInviteCallbackProxy.generated.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/StartSessionCallbackProxyAdvanced.gen.cpp \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/StartSessionCallbackProxyAdvanced.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/StartSessionCallbackProxyAdvanced.generated.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/UpdateSessionCallbackProxyAdvanced.gen.cpp \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/UpdateSessionCallbackProxyAdvanced.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/UpdateSessionCallbackProxyAdvanced.generated.h \
-  /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSessions/PerModuleInline.gen.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/LoginUserCallbackProxy.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/LogoutUserCallbackProxy.gen.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/LogoutUserCallbackProxy.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/LogoutUserCallbackProxy.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/SendFriendInviteCallbackProxy.gen.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/SendFriendInviteCallbackProxy.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/SendFriendInviteCallbackProxy.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/StartSessionCallbackProxyAdvanced.gen.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/StartSessionCallbackProxyAdvanced.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/StartSessionCallbackProxyAdvanced.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/UpdateSessionCallbackProxyAdvanced.gen.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/UpdateSessionCallbackProxyAdvanced.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/UpdateSessionCallbackProxyAdvanced.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/x64/UnrealEditor/Development/AdvancedSessions/PerModuleInline.gen.cpp \
   Runtime/Core/Public/HAL/PerModuleInline.inl \
   Runtime/Core/Public/CoreGlobals.h \
-  Runtime/Core/Public/Modules/Boilerplate/ModuleBoilerplate.h
+  Runtime/Core/Public/Modules/Boilerplate/ModuleBoilerplate.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedExternalUILibrary.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/AdvancedExternalUILibrary.h \
+  ../Plugins/Online/OnlineSubsystem/Source/Public/Online.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedExternalUILibrary.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedFriendsGameInstance.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/AdvancedFriendsGameInstance.h \
+  ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineUserInterface.h \
+  ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlinePresenceInterface.h \
+  Runtime/Engine/Classes/Engine/GameInstance.h \
+  Runtime/CoreUObject/Public/UObject/UObjectIterator.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/AdvancedFriendsInterface.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedFriendsInterface.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedFriendsGameInstance.generated.h \
+  Runtime/Engine/Classes/Kismet/GameplayStatics.h \
+  Runtime/Engine/Classes/Engine/EngineTypes.h \
+  Runtime/CoreUObject/Public/UObject/Interface.h \
+  Runtime/Engine/Public/CollisionQueryParams.h \
+  Runtime/Engine/Classes/Engine/LatentActionManager.h \
+  Runtime/Engine/Classes/Kismet/KismetSystemLibrary.h \
+  Runtime/CoreUObject/Public/UObject/UnrealType.h \
+  Runtime/CoreUObject/Public/UObject/TextProperty.h \
+  Runtime/CoreUObject/Public/UObject/SoftObjectPtr.h \
+  Runtime/CoreUObject/Public/UObject/PropertyAccessUtil.h \
+  Runtime/Core/Public/HAL/Platform.h \
+  Runtime/Core/Public/Misc/EnumClassFlags.h \
+  Runtime/Core/Public/Templates/Function.h \
+  ../Intermediate/Build/Linux/UnrealEditor/Inc/CoreUObject/UHT/PropertyAccessUtil.generated.h \
+  Runtime/CoreUObject/Public/UObject/TopLevelAssetPath.h \
+  Runtime/Engine/Classes/Engine/CollisionProfile.h \
+  Runtime/CoreUObject/Public/AssetRegistry/ARFilter.h \
+  ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/KismetSystemLibrary.generated.h \
+  Runtime/Engine/Classes/Sound/DialogueTypes.h \
+  ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/DialogueTypes.generated.h \
+  Runtime/Engine/Classes/Kismet/GameplayStaticsTypes.h \
+  Runtime/Engine/Classes/Engine/HitResult.h \
+  ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/GameplayStaticsTypes.generated.h \
+  Runtime/Engine/Classes/Particles/WorldPSCPool.h \
+  ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/GameplayStatics.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedFriendsInterface.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedFriendsLibrary.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/AdvancedFriendsLibrary.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedFriendsLibrary.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedIdentityLibrary.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/AdvancedIdentityLibrary.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedIdentityLibrary.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedSessions.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/AdvancedSessions.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedSessionsLibrary.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/AdvancedSessionsLibrary.h \
+  Runtime/Engine/Classes/GameFramework/GameModeBase.h \
+  Runtime/Core/Public/Misc/Guid.h \
+  Runtime/Engine/Classes/GameFramework/Pawn.h \
+  Runtime/Engine/Classes/Engine/ServerStatReplicator.h \
+  ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/ServerStatReplicator.generated.h \
+  Runtime/Net/Core/Public/Net/Core/Connection/NetEnums.h \
+  ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/GameModeBase.generated.h \
+  Runtime/Engine/Classes/GameFramework/GameSession.h \
+  ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/GameSession.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedSessionsLibrary.generated.h \
+  Runtime/Engine/Classes/GameFramework/GameStateBase.h \
+  Runtime/Core/Public/Stats/Stats.h \
+  ../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/GameStateBase.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedVoiceLibrary.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/AdvancedVoiceLibrary.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedVoiceLibrary.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/AutoLoginUserCallbackProxy.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/AutoLoginUserCallbackProxy.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/AutoLoginUserCallbackProxy.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/CancelFindSessionsCallbackProxy.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/CancelFindSessionsCallbackProxy.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/CancelFindSessionsCallbackProxy.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/CreateSessionCallbackProxyAdvanced.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/CreateSessionCallbackProxyAdvanced.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/CreateSessionCallbackProxyAdvanced.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/EndSessionCallbackProxy.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/EndSessionCallbackProxy.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/EndSessionCallbackProxy.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/FindFriendSessionCallbackProxy.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/FindFriendSessionCallbackProxy.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/FindFriendSessionCallbackProxy.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/FindSessionsCallbackProxyAdvanced.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/FindSessionsCallbackProxyAdvanced.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/FindSessionsCallbackProxyAdvanced.generated.h \
+  ../Plugins/Online/OnlineBase/Source/Public/Online/OnlineSessionNames.h \
+  Runtime/Core/Public/Misc/CoreMiscDefines.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/GetFriendsCallbackProxy.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/GetFriendsCallbackProxy.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/GetFriendsCallbackProxy.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/GetRecentPlayersCallbackProxy.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/GetRecentPlayersCallbackProxy.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/GetRecentPlayersCallbackProxy.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/GetUserPrivilegeCallbackProxy.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Classes/GetUserPrivilegeCallbackProxy.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Intermediate/Build/Linux/UnrealEditor/Inc/AdvancedSessions/UHT/GetUserPrivilegeCallbackProxy.generated.h \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/LoginUserCallbackProxy.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/LogoutUserCallbackProxy.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/SendFriendInviteCallbackProxy.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/StartSessionCallbackProxyAdvanced.cpp \
+  /home/mick/Documents/Unreal\ Projects/Project-publish/ProjectPublish/Plugins/AdvancedSessions/Source/AdvancedSessions/Private/UpdateSessionCallbackProxyAdvanced.cpp
