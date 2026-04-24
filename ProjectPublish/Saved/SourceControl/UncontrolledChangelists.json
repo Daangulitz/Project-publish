@@ -5,9 +5,27 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/Dev/Mick/GA_RootMotionBase.uasset",
 				"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/Dev/Mick/GA_Dash.uasset"
+=======
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Wigets/BW_MainMenu.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/MainMenuPlayerController.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/MainMenuHud.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Main_Menu.umap",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/BP_MainGameInstance.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/BP_MainMenuGamemode.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/MainPlayerController.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BaseMap.umap",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Wigets/BW_IpAddres.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Wigets/NewBlueprint.uasset",
+				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/BluePrints/GI_Game.uasset"
+>>>>>>> origin/#1-Health-And-damage-
 			]
 		}
 	]

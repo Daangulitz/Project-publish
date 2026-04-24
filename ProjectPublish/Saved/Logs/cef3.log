@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 [63517:63517:0423/113533.919286:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [63517:63517:0423/113533.991782:ERROR:process_singleton_posix.cc(353)] The profile appears to be in use by another Chromium process (11371) on another computer (DaanArchs). Chromium has locked the profile so that it doesn't get corrupted. If you are sure no other processes are using this profile, you can unlock the profile and relaunch Chromium.
 [63517:63517:0423/113533.991833:ERROR:message_box_dialog.cc(144)] Unable to show a dialog outside the UI thread message loop: Chromium - The profile appears to be in use by another Chromium process (11371) on another computer (DaanArchs). Chromium has locked the profile so that it doesn't get corrupted. If you are sure no other processes are using this profile, you can unlock the profile and relaunch Chromium.
 [63517:63517:0423/113534.001977:ERROR:main_runner.cc(122)] ContentMainRun failed with exit code 21
+=======
+[48108:48108:0423/141448.227896:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[48108:48108:0423/141448.456443:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.isEnabled: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[48108:48108:0423/141448.456494:ERROR:kwallet_dbus.cc(112)] Error contacting kwalletd6 (isEnabled)
+[48108:48108:0423/141448.456595:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KLauncher.start_service_by_desktop_name: object_path= /KLauncher: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[48108:48108:0423/141448.456611:ERROR:kwallet_dbus.cc(81)] Error contacting klauncher to start kwalletd6
+[48108:48108:0423/141448.456625:WARNING:key_storage_linux.cc(191)] OSCrypt tried KWallet but couldn't initialise.
+[48108:48108:0423/141448.554045:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.close: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[48108:48108:0423/141448.554121:ERROR:kwallet_dbus.cc(502)] Error contacting kwalletd6 (close)
+[48108:48108:0423/141448.559761:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+>>>>>>> origin/#1-Health-And-damage-
