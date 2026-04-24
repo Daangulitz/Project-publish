@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 [63517:63517:0423/113533.919286:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [63517:63517:0423/113533.991782:ERROR:process_singleton_posix.cc(353)] The profile appears to be in use by another Chromium process (11371) on another computer (DaanArchs). Chromium has locked the profile so that it doesn't get corrupted. If you are sure no other processes are using this profile, you can unlock the profile and relaunch Chromium.
 [63517:63517:0423/113533.991833:ERROR:message_box_dialog.cc(144)] Unable to show a dialog outside the UI thread message loop: Chromium - The profile appears to be in use by another Chromium process (11371) on another computer (DaanArchs). Chromium has locked the profile so that it doesn't get corrupted. If you are sure no other processes are using this profile, you can unlock the profile and relaunch Chromium.
@@ -14,3 +15,26 @@
 [48108:48108:0423/141448.554121:ERROR:kwallet_dbus.cc(502)] Error contacting kwalletd6 (close)
 [48108:48108:0423/141448.559761:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
 >>>>>>> origin/#1-Health-And-damage-
+=======
+[31616:41212:0423/192947.996:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31616:26200:0423/192948.240:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[31616:41212:0423/192948.336:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31616:38780:0423/192954.134:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31616:38780:0423/192954.138:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31616:38780:0423/192954.140:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31616:38780:0423/192954.142:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31616:26216:0423/192956.603:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31616:26216:0423/192956.604:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31616:41212:0423/192957.266:ERROR:device_event_log_impl.cc(196)] [19:29:56.604] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[5536:37312:0423/192957.274:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-724CBC35108796BFB2CC44422055DC6A will be ignored
+[31616:19976:0423/192958.654:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31616:19976:0423/192959.722:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31616:19976:0423/194426.033:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31616:19976:0423/194428.179:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31616:19976:0423/200437.248:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31616:19976:0423/200437.351:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31616:41212:0423/205818.744:ERROR:device_event_log_impl.cc(196)] [20:58:18.547] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[31616:41212:0423/205819.062:ERROR:device_event_log_impl.cc(196)] [20:58:18.593] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[31616:41212:0423/205819.063:ERROR:device_event_log_impl.cc(196)] [20:58:18.796] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[31616:41212:0423/220621.587:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> origin/main
