@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SimpleNetworkFunctions.cpp.obj": [
+			"MyNetworkFunctions.gen.cpp.obj",
+			"SimpleNetworkFunctions.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"MyNetworkFunctions.cpp.obj",
+			"SimpleNetworkFunctions.cpp.obj"
+		]
+	}
+}

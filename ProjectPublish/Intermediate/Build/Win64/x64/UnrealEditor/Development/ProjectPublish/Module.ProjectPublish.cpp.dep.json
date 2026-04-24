@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectpublish\\module.projectpublish.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\intermediate\\build\\win64\\x64\\projectpublisheditor\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectpublish\\definitions.projectpublish.h",
+            "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectpublish\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\intermediate\\source\\projectpublish.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

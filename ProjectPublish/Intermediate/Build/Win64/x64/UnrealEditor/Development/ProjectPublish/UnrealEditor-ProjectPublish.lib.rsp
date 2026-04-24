@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProjectPublish.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Intermediate/Build/Win64/x64/ProjectPublishEditor/Development/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Intermediate/Build/Win64/x64/UnrealEditor/Development/ProjectPublish/Module.ProjectPublish.cpp.obj"
+"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Intermediate/Build/Win64/x64/UnrealEditor/Development/ProjectPublish/Default.rc2.res"
+/OUT:"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Intermediate/Build/Win64/x64/UnrealEditor/Development/ProjectPublish/UnrealEditor-ProjectPublish.lib"

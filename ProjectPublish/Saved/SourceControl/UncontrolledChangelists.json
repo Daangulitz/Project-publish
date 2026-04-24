@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/Dev/Casper/Health/HealthTest.umap",
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/Dev/Casper/Health/WB_health.uasset",
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/Dev/Casper/CharacterSelect/GM_Selection.uasset",
+				"C:/Users/caspe/Documents/GitHub/Project-publish/ProjectPublish/Content/Dev/Casper/CharacterSelect/WB_CharacterSelection.uasset",
 				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/Daan/Wigets/BW_MainMenu.uasset",
 				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
 				"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
