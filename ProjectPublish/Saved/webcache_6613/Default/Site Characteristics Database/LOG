@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-2026/04/23-14:14:48.563 bd0a Reusing MANIFEST /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/webcache_6613/Default/Site Characteristics Database/MANIFEST-000001
-2026/04/23-14:14:48.563 bd0a Recovering log #6
-2026/04/23-14:14:48.563 bd0a Reusing old log /home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish/Saved/webcache_6613/Default/Site Characteristics Database/000006.log 
-=======
-2026/04/23-19:29:48.454 977c Reusing MANIFEST C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
->>>>>>> origin/main
+2026/05/12-12:09:18.526 ce00 Creating DB C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database since it was missing.
+2026/05/12-12:09:18.530 ce00 Reusing MANIFEST C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
