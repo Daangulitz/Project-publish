@@ -1,2 +1,3 @@
-2026/05/12-12:09:18.491 ce00 Creating DB C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/05/12-12:09:18.511 ce00 Reusing MANIFEST C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/12-15:06:13.571 90f0 Reusing MANIFEST C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/12-15:06:13.573 90f0 Recovering log #3
+2026/05/12-15:06:13.573 90f0 Reusing old log C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
