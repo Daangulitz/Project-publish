@@ -1,0 +1,59 @@
+Generating report for minidump
+
+Application version 5.7.4.0
+ ... built from changelist 51494982
+
+OS version Linux 6.19.12-arch1-1 (network name: mickus-dickus)
+Running 16 x86_64 processors (24 logical cores)
+Exception was "Ensure condition failed: AbilityClass  [File:./../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Private/AbilitySystemComponent_Abilities.cpp] [Line: 1035] "
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libUnrealEditor-GameplayAbilities.so!UAbilitySystemComponent::BuildAbilitySpecFromClass(TSubclassOf<UGameplayAbility>, int, int) [/mnt/horde/++UE5/Sync/Engine/Source/./../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Private/AbilitySystemComponent_Abilities.cpp:1035]
+libUnrealEditor-GameplayAbilities.so!UAbilitySystemComponent::K2_GiveAbility(TSubclassOf<UGameplayAbility>, int, int) [/mnt/horde/++UE5/Sync/Engine/Source/./../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Private/AbilitySystemComponent_Abilities.cpp:369]
+libUnrealEditor-GameplayAbilities.so!UAbilitySystemComponent::execK2_GiveAbility(UObject*, FFrame&, void*) [/mnt/horde/++UE5/Sync/Engine/Source/../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Linux/UnrealEditor/Inc/GameplayAbilities/UHT/AbilitySystemComponent.gen.cpp:2305]
+libUnrealEditor-CoreUObject.so!UFunction::Invoke(UObject*, FFrame&, void*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/Class.cpp:7570]
+libUnrealEditor-CoreUObject.so!UObject::CallFunction(FFrame&, void*, UFunction*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:1158]
+libUnrealEditor-CoreUObject.so!UObject::execFinalFunction(UObject*, FFrame&, void*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:3263]
+libUnrealEditor-CoreUObject.so!UObject::ProcessContextOpcode(FFrame&, void*, bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:511]
+libUnrealEditor-CoreUObject.so!UObject::execLet(UObject*, FFrame&, void*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:511]
+libUnrealEditor-CoreUObject.so!ProcessLocalScriptFunction(UObject*, FFrame&, void*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:511]
+libUnrealEditor-CoreUObject.so!void ProcessScriptFunction<void (*)(UObject*, FFrame&, void*)>(UObject*, UFunction*, FFrame&, void*, void (*)(UObject*, FFrame&, void*)) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:1049]
+libUnrealEditor-CoreUObject.so!ProcessLocalFunction(UObject*, UFunction*, FFrame&, void*)::$_0::operator()() const [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:1303]
+libUnrealEditor-CoreUObject.so!ProcessLocalFunction(UObject*, UFunction*, FFrame&, void*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:1320]
+libUnrealEditor-CoreUObject.so!UObject::execLocalFinalFunction(UObject*, FFrame&, void*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:3277]
+libUnrealEditor-CoreUObject.so!ProcessLocalScriptFunction(UObject*, FFrame&, void*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:511]
+libUnrealEditor-CoreUObject.so!UObject::ProcessInternal(UObject*, FFrame&, void*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:1347]
+libUnrealEditor-CoreUObject.so!UFunction::Invoke(UObject*, FFrame&, void*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/Class.cpp:7570]
+libUnrealEditor-CoreUObject.so!UObject::ProcessEvent(UFunction*, void*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/ScriptCore.cpp:2192]
+libUnrealEditor-Engine.so!AActor::ProcessEvent(UFunction*, void*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/Actor.cpp:1482]
+libUnrealEditor-Engine.so!AActor::BeginPlay() [/mnt/horde/++UE5/Sync/Engine/Source/../Intermediate/Build/Linux/UnrealEditor/Inc/Engine/UHT/Actor.gen.cpp:9081]
+libUnrealEditor-Engine.so!APawn::BeginPlay() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/Pawn.cpp:181]
+libUnrealEditor-Engine.so!AActor::DispatchBeginPlay(bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/Actor.cpp:4726]
+libUnrealEditor-Engine.so!AWorldSettings::NotifyBeginPlay() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/WorldSettings.cpp:364]
+libUnrealEditor-Engine.so!AGameStateBase::HandleBeginPlay() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/GameStateBase.cpp:209]
+libUnrealEditor-Engine.so!AGameModeBase::StartPlay() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/GameModeBase.cpp:206]
+libUnrealEditor-Engine.so!UWorld::BeginPlay() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/World.cpp:6065]
+libUnrealEditor-Engine.so!UGameInstance::StartPlayInEditorGameInstance(ULocalPlayer*, FGameInstancePIEParameters const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Engine/Private/GameInstance.cpp:565]
+libUnrealEditor-UnrealEd.so!UEditorEngine::CreateInnerProcessPIEGameInstance(FRequestPlaySessionParams&, FGameInstancePIEParameters const&, int) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:3187]
+libUnrealEditor-UnrealEd.so!UEditorEngine::OnLoginPIEComplete_Deferred(int, bool, FString, FPieLoginStruct) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1628]
+libUnrealEditor-UnrealEd.so!UEditorEngine::CreateNewPlayInEditorInstance(FRequestPlaySessionParams&, bool, EPlayNetMode) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1888]
+libUnrealEditor-UnrealEd.so!UEditorEngine::StartPlayInEditorSession(FRequestPlaySessionParams&) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:2911]
+libUnrealEditor-UnrealEd.so!UEditorEngine::StartQueuedPlaySessionRequestImpl() [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1193]
+libUnrealEditor-UnrealEd.so!UEditorEngine::StartQueuedPlaySessionRequest() [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/PlayLevel.cpp:1103]
+libUnrealEditor-UnrealEd.so!UEditorEngine::Tick(float, bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/EditorEngine.cpp:2057]
+libUnrealEditor-UnrealEd.so!UUnrealEdEngine::Tick(float, bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Editor/UnrealEd/Private/UnrealEdEngine.cpp:534]
+UnrealEditor!FEngineLoop::Tick() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/LaunchEngineLoop.cpp:5828]
+UnrealEditor!GuardedMain(char16_t const*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/Launch.cpp:60]
+libUnrealEditor-UnixCommonStartup.so!CommonUnixMain(int, char**, int (*)(char16_t const*), void (*)()) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Unix/UnixCommonStartup/Private/UnixCommonStartup.cpp:323]
+libc.so.6!UnknownFunction(0x276c0)
+libc.so.6!__libc_start_main(+0x88)
+UnrealEditor!_start [/opt/unreal-engine/Engine/Binaries/Linux/UnrealEditor:-1]
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

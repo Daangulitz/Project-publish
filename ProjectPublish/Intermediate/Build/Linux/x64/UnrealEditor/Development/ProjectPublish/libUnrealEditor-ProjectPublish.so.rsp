@@ -1,0 +1,6 @@
+"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Intermediate/Build/Linux/x64/UnrealEditor/Development/ProjectPublish/Module.ProjectPublish.cpp.o"
+-soname="libUnrealEditor-ProjectPublish.so"
+-rpath-link="/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Binaries/Linux"
+-L"../Binaries/Linux"
+--start-group
+--end-group

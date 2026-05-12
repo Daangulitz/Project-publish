@@ -1,0 +1,34 @@
+Generating report for minidump
+
+Application version 5.7.4.0
+ ... built from changelist 51494982
+
+OS version Linux 6.19.12-arch1-1 (network name: DaanArchs)
+Running 10 x86_64 processors (16 logical cores)
+Exception was "SIGSEGV: invalid attempt to write memory at address 0x0000000000000003"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libUnrealEditor-Core.so!FDebug::CheckVerifyFailedImpl2(char const*, char const*, int, char16_t const*, ...) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/Misc/AssertionMacros.cpp:741]
+libUnrealEditor-CoreUObject.so!UECodeGen_Private::ConstructUPackage(UPackage*&, UECodeGen_Private::FPackageParams const&) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/UObjectGlobals.cpp:6705]
+libUnrealEditor-ChaosSolverEngine.so!Z_Construct_UPackage__Script_ChaosSolverEngine() [/mnt/horde/++UE5/Sync/Engine/Source/./../Intermediate/Build/Linux/UnrealEditor/Inc/ChaosSolverEngine/UHT/ChaosSolverEngine.init.gen.cpp:28]
+libUnrealEditor-ChaosSolverEngine.so!FChaosVDRemoteSessionsManager::RegisterBuiltInMessageTypes() [/mnt/horde/++UE5/Sync/Engine/Source/../Intermediate/Build/Linux/UnrealEditor/Inc/ChaosSolverEngine/UHT/ChaosVDRemoteSessionsManager.gen.cpp:141]
+libUnrealEditor-ChaosSolverEngine.so!FChaosVDRemoteSessionsManager::FChaosVDRemoteSessionsManager() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Experimental/ChaosSolverEngine/Private/Chaos/ChaosVDRemoteSessionsManager.cpp:117]
+libUnrealEditor-ChaosSolverEngine.so!FChaosVDEngineEditorBridge::FChaosVDEngineEditorBridge() [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Templates/SharedPointerInternals.h:425]
+libUnrealEditor-ChaosSolverEngine.so!FChaosSolverEnginePlugin::ShutdownModule() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Experimental/ChaosSolverEngine/Private/Chaos/ChaosVDEngineEditorBridge.cpp:167]
+libUnrealEditor-Core.so!FModuleManager::UnloadModule(FName, bool, bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/Modules/ModuleManager.cpp:1330]
+libUnrealEditor-Core.so!FModuleManager::UnloadModulesAtShutdown() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/Modules/ModuleManager.cpp:1473]
+UnrealEditor!FEngineLoop::Exit() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/LaunchEngineLoop.cpp:5122]
+UnrealEditor!GuardedMain(char16_t const*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/Launch.cpp:71]
+libUnrealEditor-UnixCommonStartup.so!CommonUnixMain(int, char**, int (*)(char16_t const*), void (*)()) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Unix/UnixCommonStartup/Private/UnixCommonStartup.cpp:323]
+libc.so.6!UnknownFunction(0x276c0)
+libc.so.6!__libc_start_main(+0x88)
+UnrealEditor!_start [/opt/unreal-engine/Engine/Binaries/Linux/UnrealEditor:-1]
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

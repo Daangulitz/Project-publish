@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<ExecutionGuid>AC2F2C426F434828A5C85622C3652586</ExecutionGuid>
+		<CrashGUID>UECC-Linux-DBBE6B9533F34F57B18401A520BECC00_0000</CrashGUID>
+		<IsEnsure>false</IsEnsure>
+		<IsStall>false</IsStall>
+		<IsAssert>true</IsAssert>
+		<CrashType>Assert</CrashType>
+		<ErrorMessage>Assertion failed: FoundPackage [File:./Runtime/CoreUObject/Private/UObject/UObjectGlobals.cpp] [Line: 6705] 
+Code not found for generated code (package /Script/ChaosSolverEngine).
+</ErrorMessage>
+		<CrashReporterMessage />
+		<CrashReporterMessage>Attended</CrashReporterMessage>
+		<ProcessId>40462</ProcessId>
+		<SecondsSinceStart>0</SecondsSinceStart>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsWithDebugInfo>true</IsWithDebugInfo>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<GameName>UE-ProjectPublish</GameName>
+		<ExecutableName>UnrealEditor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>LinuxEditor</PlatformName>
+		<PlatformFullName>Linux [Arch Linux 6.19.12-arch1-1 64b]</PlatformFullName>
+		<PlatformNameIni>Linux</PlatformNameIni>
+		<EngineMode>Server</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>5.7.4-51494982+++UE5+Release-5.7</EngineVersion>
+		<EngineCompatibleVersion>5.7.4-51494982+++UE5+Release-5.7</EngineCompatibleVersion>
+		<CommandLine>CommandLineRemoved</CommandLine>
+		<LanguageLCID>9</LanguageLCID>
+		<AppDefaultLocale>en_US</AppDefaultLocale>
+		<BuildVersion>++UE5+Release-5.7-CL-51494982</BuildVersion>
+		<Symbols>**UE5*Release-5.7-CL-51494982-Linux-Development</Symbols>
+		<IsUERelease>true</IsUERelease>
+		<IsRequestingExit>true</IsRequestingExit>
+		<UserName />
+		<BaseDir>/opt/unreal-engine/Engine/Binaries/Linux/</BaseDir>
+		<RootDir>/opt/unreal-engine/</RootDir>
+		<MachineId>3CDF7A92D3224369A4459FFFED029588-000003E8</MachineId>
+		<LoginId>3cdf7a92d3224369a4459fffed029588-000003e8</LoginId>
+		<EpicAccountId />
+		<SourceContext />
+		<UserDescription>Sent in the unattended mode</UserDescription>
+		<UserActivityHint />
+		<CrashDumpMode>0</CrashDumpMode>
+		<GameStateName />
+		<Misc.NumberOfCores>10</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>16</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>13th Gen Intel(R) Core(TM) i7-13620H</Misc.CPUBrand>
+		<Misc.CPUModelID>27554</Misc.CPUModelID>
+		<Misc.CPUMicrocodeRevision>24884</Misc.CPUMicrocodeRevision>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce RTX 4060 Laptop GPU (NVIDIA UNIX Open Kernel Mod</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Arch Linux</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor>6.19.12-arch1-1</Misc.OSVersionMinor>
+		<Misc.AnticheatProvider />
+		<MemoryStats.TotalPhysical>16379379712</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>4294963200</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>5672198144</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>18446744065697282048</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>1129943040</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>1136349184</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>6340874240</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>6354395136</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<NumMinidumpFramesToIgnore>4</NumMinidumpFramesToIgnore>
+		<CallStack>libUnrealEditor-Core.so!FDebug::CheckVerifyFailedImpl2(char const*, char const*, int, char16_t const*, ...) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/Misc/AssertionMacros.cpp:741]
+libUnrealEditor-CoreUObject.so!UECodeGen_Private::ConstructUPackage(UPackage*&amp;, UECodeGen_Private::FPackageParams const&amp;) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/UObjectGlobals.cpp:6705]
+libUnrealEditor-ChaosSolverEngine.so!Z_Construct_UPackage__Script_ChaosSolverEngine() [/mnt/horde/++UE5/Sync/Engine/Source/./../Intermediate/Build/Linux/UnrealEditor/Inc/ChaosSolverEngine/UHT/ChaosSolverEngine.init.gen.cpp:28]
+libUnrealEditor-ChaosSolverEngine.so!FChaosVDRemoteSessionsManager::RegisterBuiltInMessageTypes() [/mnt/horde/++UE5/Sync/Engine/Source/../Intermediate/Build/Linux/UnrealEditor/Inc/ChaosSolverEngine/UHT/ChaosVDRemoteSessionsManager.gen.cpp:141]
+libUnrealEditor-ChaosSolverEngine.so!FChaosVDRemoteSessionsManager::FChaosVDRemoteSessionsManager() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Experimental/ChaosSolverEngine/Private/Chaos/ChaosVDRemoteSessionsManager.cpp:117]
+libUnrealEditor-ChaosSolverEngine.so!FChaosVDEngineEditorBridge::FChaosVDEngineEditorBridge() [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Templates/SharedPointerInternals.h:425]
+libUnrealEditor-ChaosSolverEngine.so!FChaosSolverEnginePlugin::ShutdownModule() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Experimental/ChaosSolverEngine/Private/Chaos/ChaosVDEngineEditorBridge.cpp:167]
+libUnrealEditor-Core.so!FModuleManager::UnloadModule(FName, bool, bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/Modules/ModuleManager.cpp:1330]
+libUnrealEditor-Core.so!FModuleManager::UnloadModulesAtShutdown() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/Modules/ModuleManager.cpp:1473]
+UnrealEditor!FEngineLoop::Exit() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/LaunchEngineLoop.cpp:5122]
+UnrealEditor!GuardedMain(char16_t const*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/Launch.cpp:71]
+libUnrealEditor-UnixCommonStartup.so!CommonUnixMain(int, char**, int (*)(char16_t const*), void (*)()) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Unix/UnixCommonStartup/Private/UnixCommonStartup.cpp:323]
+libc.so.6!UnknownFunction(0x276c0)
+libc.so.6!__libc_start_main(+0x88)
+UnrealEditor!_start [/opt/unreal-engine/Engine/Binaries/Linux/UnrealEditor:-1]
+</CallStack>
+		<PCallStack>
+
+libUnrealEditor-Core 0x00007fdc96e00000 + bfb899 
+libUnrealEditor-CoreUObject 0x00007fdc96000000 + a6d428 
+libUnrealEditor-ChaosSolverEngine 0x00007fdc7303b000 + 50ab1 
+libUnrealEditor-ChaosSolverEngine 0x00007fdc7303b000 + 61f2c 
+libUnrealEditor-ChaosSolverEngine 0x00007fdc7303b000 + 6252e 
+libUnrealEditor-ChaosSolverEngine 0x00007fdc7303b000 + 6d262 
+libUnrealEditor-ChaosSolverEngine 0x00007fdc7303b000 + 5e814 
+libUnrealEditor-Core 0x00007fdc96e00000 + d57399 
+libUnrealEditor-Core 0x00007fdc96e00000 + d58043 
+UnrealEditor 0x0000000000200000 + 3ebba 
+UnrealEditor 0x0000000000200000 + 3eeb9 
+libUnrealEditor-UnixCommonStartup 0x00007fdc9860a000 + 9215 
+libc.so 0x00007fdc8b000000 + 276c1 
+libc.so 0x00007fdc8b000000 + 277f9 
+UnrealEditor 0x0000000000200000 + 36e0a 
+</PCallStack>
+		<PCallStackHash>F392C59548672FCFDE545F5C8628DFDBB6F77A06</PCallStackHash>
+		<TimeOfCrash>639125408472980000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<CPUBrand>13th Gen Intel(R) Core(TM) i7-13620H</CPUBrand>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+		<Modules />
+	</RuntimeProperties>
+	<PlatformProperties>
+		<CrashSignal>11</CrashSignal>
+		<CrashSignalName>Segmentation fault</CrashSignalName>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+		<CrashTrigger>0</CrashTrigger>
+	</PlatformProperties>
+	<EngineData>
+		<MatchingDPStatus>LinuxEditorNo errors</MatchingDPStatus>
+		<RHI.RHIName>NullRHI</RHI.RHIName>
+	</EngineData>
+	<GameData>
+</GameData>
+</FGenericCrashContext>
