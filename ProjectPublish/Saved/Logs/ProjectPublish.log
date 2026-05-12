@@ -5910,3 +5910,391 @@ Bindless Samplers: 4
 [2026.05.12-09.45.46:019][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
 [2026.05.12-09.45.49:329][751]LogSlate: Window 'Save Content' being destroyed
 [2026.05.12-09.45.54:694][751]LogSlate: Window 'Check Out Assets' being destroyed
+[2026.05.12-09.48.15:580][355]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=87385.50Kb MemTypeIndex=1
+[2026.05.12-09.48.40:609][431]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.48.40:611][431]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.48.40:611][431]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21857.50Kb MemTypeIndex=1
+[2026.05.12-09.48.40:612][431]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=6144.00Kb MemTypeIndex=1
+[2026.05.12-09.48.40:613][431]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=24448.00Kb MemTypeIndex=1
+[2026.05.12-09.48.40:619][432]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=87385.50Kb MemTypeIndex=1
+[2026.05.12-09.48.47:561][525]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.48.47:563][525]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.48.47:563][525]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21857.50Kb MemTypeIndex=1
+[2026.05.12-09.48.47:563][525]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=6144.00Kb MemTypeIndex=1
+[2026.05.12-09.48.47:564][525]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=24448.00Kb MemTypeIndex=1
+[2026.05.12-09.48.47:569][526]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=87385.50Kb MemTypeIndex=1
+[2026.05.12-09.49.32:753][909]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.49.32:755][909]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.49.32:755][909]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21857.50Kb MemTypeIndex=1
+[2026.05.12-09.49.32:755][909]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=6144.00Kb MemTypeIndex=1
+[2026.05.12-09.49.32:756][909]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=24448.00Kb MemTypeIndex=1
+[2026.05.12-09.49.32:761][909]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=87385.50Kb MemTypeIndex=1
+[2026.05.12-09.50.00:990][ 20]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.00:992][ 20]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.00:992][ 20]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.00:992][ 20]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.00:992][ 20]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21857.50Kb MemTypeIndex=1
+[2026.05.12-09.50.00:992][ 20]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.00:992][ 20]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.50.00:992][ 20]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.00:992][ 20]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.00:992][ 20]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=6144.00Kb MemTypeIndex=1
+[2026.05.12-09.50.00:994][ 20]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=24448.00Kb MemTypeIndex=1
+[2026.05.12-09.50.00:998][ 20]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=87385.50Kb MemTypeIndex=1
+[2026.05.12-09.50.17:911][230]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.17:914][230]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.17:914][230]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21857.50Kb MemTypeIndex=1
+[2026.05.12-09.50.17:914][230]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=6144.00Kb MemTypeIndex=1
+[2026.05.12-09.50.17:915][230]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=24448.00Kb MemTypeIndex=1
+[2026.05.12-09.50.17:920][230]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=87385.50Kb MemTypeIndex=1
+[2026.05.12-09.50.29:277][577]LogDerivedDataCache: /home/mick/.config/Epic/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.12-09.50.31:264][650]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.12-09.50.31:288][650]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.05.12-09.50.31:288][650]LogBlueprint: Compiling Blueprint '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2026.05.12-09.50.31:290][650]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2026.05.12-09.50.31:386][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.05.12-09.50.31:389][650]LogPlayLevel: PlayLevel: Blueprint regeneration took 101 ms (1 blueprints)
+[2026.05.12-09.50.31:389][650]LogPlayLevel: Creating play world package: /Game/Dev/Mick/UEDPIE_0_testing
+[2026.05.12-09.50.31:392][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002509s)
+[2026.05.12-09.50.31:392][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dev/Mick/testing.testing to /Game/Dev/Mick/UEDPIE_0_testing.testing (0.002540s)
+[2026.05.12-09.50.31:421][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.05.12-09.50.31:423][650]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2026.05.12-09.50.31:423][650]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.05.12-09.50.31:423][650]LogChaosDD: Creating Chaos Debug Draw Scene for world testing
+[2026.05.12-09.50.31:425][650]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.31:425][650]LogPlayLevel: PIE: World Init took: (0.001710s)
+[2026.05.12-09.50.31:425][650]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.12-09.50.31:428][650]LogWorld: Bringing World /Game/Dev/Mick/UEDPIE_0_testing.testing up for play (max tick rate 0) at 2026.05.12-11.50.31
+[2026.05.12-09.50.31:428][650]LogWorld: Bringing up level for play took: 0.002441
+[2026.05.12-09.50.31:428][650]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2026.05.12-09.50.31:428][650]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2026.05.12-09.50.31:428][650]LogPushModel: PushModel HandleCreation is now enabled
+[2026.05.12-09.50.31:428][650]LogNet: InitBase GameNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.05.12-09.50.31:429][650]LogInit: BSD IPv4/6: Socket queue. Rx: 262144 (config 131072) Tx: 262144 (config 131072)
+[2026.05.12-09.50.31:429][650]LogNet: Created socket for bind address: 0.0.0.0:17777
+[2026.05.12-09.50.31:429][650]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.05.12-09.50.31:429][650]LogNet: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28 IpNetDriver listening on port 17777
+[2026.05.12-09.50.31:429][650]PIE: Server logged in
+[2026.05.12-09.50.31:429][650]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.31:429][650]PIE: Play in editor total start time 0.141 seconds.
+[2026.05.12-09.50.31:429][650]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.05.12-09.50.31:429][650]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.05.12-09.50.31:429][650]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.05.12-09.50.31:431][650]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.31:431][650]LogPlayLevel: PIE: World Init took: (0.001621s)
+[2026.05.12-09.50.31:431][650]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.05.12-09.50.31:431][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.12-09.50.31:431][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.12-09.50.31:431][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.12-09.50.31:431][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.12-09.50.31:431][650]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.05.12-09.50.31:431][650]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.12-09.50.31:431][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.05.12-09.50.31:431][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.12-09.50.31:431][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.12-09.50.31:431][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.12-09.50.31:431][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.12-09.50.31:431][650]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.05.12-09.50.31:431][650]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL3'
+[2026.05.12-09.50.31:431][650]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.05.12-09.50.31:431][650]LogAudioMixer: Display: Using Audio Hardware Device Raptor Lake High Definition Audio Controller Speaker
+[2026.05.12-09.50.31:432][650]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=4096.00Kb MemTypeIndex=1
+[2026.05.12-09.50.31:432][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.12-09.50.31:432][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.12-09.50.31:432][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.12-09.50.31:432][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=16
+[2026.05.12-09.50.31:432][650]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=4096.00Kb MemTypeIndex=1
+[2026.05.12-09.50.31:432][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.05.12-09.50.31:432][650]LogInit: FAudioDevice initialized with ID 16.
+[2026.05.12-09.50.31:432][650]LogAudio: Display: Audio Device (ID: 16) registered with world 'Untitled'.
+[2026.05.12-09.50.31:432][650]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.05.12-09.50.31:433][650]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10240.00Kb MemTypeIndex=1
+[2026.05.12-09.50.31:434][650]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.31:436][650]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.31:437][650]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.31:439][650]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.31:440][650]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=4096.00Kb MemTypeIndex=1
+[2026.05.12-09.50.31:441][650]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=4096.00Kb MemTypeIndex=1
+[2026.05.12-09.50.31:443][650]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=6144.00Kb MemTypeIndex=1
+[2026.05.12-09.50.31:446][650]LogGlobalStatus: Browse Started Browse: "127.0.0.1:17777/Game/Daan/Main_Menu"
+[2026.05.12-09.50.31:446][650]LogNet: Browse: 127.0.0.1:17777/Game/Daan/Main_Menu
+[2026.05.12-09.50.31:446][650]LogPushModel: PushModel HandleCreation is now enabled
+[2026.05.12-09.50.31:446][650]LogNet: InitBase PendingNetDriver (NetDriverDefinition GameNetDriver) using replication model Generic
+[2026.05.12-09.50.31:446][650]LogInit: BSD IPv4/6: Socket queue. Rx: 65536 (config 32768) Tx: 65536 (config 32768)
+[2026.05.12-09.50.31:446][650]LogNet: Created socket for bind address: 0.0.0.0:0
+[2026.05.12-09.50.31:446][650]LogNet: IpConnection_28 setting maximum channels to: 32767
+[2026.05.12-09.50.31:446][650]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.05.12-09.50.31:447][650]LogHandshake: Stateless Handshake: NetDriverDefinition 'GameNetDriver' CachedClientID: 3
+[2026.05.12-09.50.31:447][650]LogNet: Game client on port 17777, rate 100000
+[2026.05.12-09.50.31:447][650]PIE: Client logged in
+[2026.05.12-09.50.31:449][650]PIE: Play in editor total start time 0.161 seconds.
+[2026.05.12-09.50.32:458][768]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:34211
+[2026.05.12-09.50.32:458][768]LogHandshake: SendConnectChallenge. Timestamp: 1.224348, Cookie: 135213053031019080233169177145239057192203215124177038036013
+[2026.05.12-09.50.32:458][768]LogHandshake: Cached server SessionID: 0
+[2026.05.12-09.50.32:458][768]LogHandshake: SendChallengeResponse. Timestamp: 1.224348, Cookie: 135213053031019080233169177145239057192203215124177038036013
+[2026.05.12-09.50.32:466][769]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:34211
+[2026.05.12-09.50.32:466][769]LogHandshake: SendChallengeAck. InCookie: 135213053031019080233169177145239057192203215124177038036013
+[2026.05.12-09.50.32:466][769]LogNet: Server accepting post-challenge connection from: 127.0.0.1:34211
+[2026.05.12-09.50.32:466][769]LogNet: IpConnection_29 setting maximum channels to: 32767
+[2026.05.12-09.50.32:466][769]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2026.05.12-09.50.32:466][769]LogNet: NotifyAcceptedConnection: Name: testing, TimeStamp: 05/12/26 11:50:32, [UNetConnection] RemoteAddr: 127.0.0.1:34211, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.05.12-09.50.32:466][769]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:34211, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.05.12-09.50.32:467][769]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: Name:PendingNetDriver Def:GameNetDriver IpNetDriver_29, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2026.05.12-09.50.32:474][770]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Dev/Mick/UEDPIE_0_testing.testing: Accepted
+[2026.05.12-09.50.32:474][770]LogNet: Remote platform little endian=1
+[2026.05.12-09.50.32:474][770]LogNet: This platform little endian=1
+[2026.05.12-09.50.32:483][771]LogNet: Login request: ?Name=mickus-dickus-A8935EED2FB042088BA10CDA7B82917E userId: NULL:mickus-dickus-A8935EED2FB042088BA10CDA7B82917E platform: NULL
+[2026.05.12-09.50.32:483][771]LogNet: Welcomed by server (Level: /Game/Dev/Mick/UEDPIE_0_testing, Game: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C)
+[2026.05.12-09.50.32:483][771]LogLoad: LoadMap: 127.0.0.1:17777/Game/Dev/Mick/testing?game=/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C
+[2026.05.12-09.50.32:483][771]LogWorld: BeginTearingDown for /Temp/Untitled_15
+[2026.05.12-09.50.32:484][771]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-09.50.32:484][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-09.50.32:505][771]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.12-09.50.32:507][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.05.12-09.50.32:512][771]LogAudio: Display: Audio Device (ID: 16) registered with world 'testing'.
+[2026.05.12-09.50.32:513][771]LogChaosDD: Creating Chaos Debug Draw Scene for world testing
+[2026.05.12-09.50.32:514][771]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:514][771]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2026.05.12-09.50.32:516][771]LogWorld: Bringing World /Game/Dev/Mick/UEDPIE_1_testing.testing up for play (max tick rate 0) at 2026.05.12-11.50.32
+[2026.05.12-09.50.32:516][771]LogWorld: Bringing up level for play took: 0.002168
+[2026.05.12-09.50.32:516][771]LogLoad: Took 0.032722 seconds to LoadMap(/Game/Dev/Mick/testing)
+[2026.05.12-09.50.32:516][771]LogGlobalStatus: LoadMap Load map complete /Game/Dev/Mick/testing
+[2026.05.12-09.50.32:516][771]LogGlobalStatus: TravelCompleted Pending net game travel completed
+[2026.05.12-09.50.32:519][771]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:520][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:522][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:522][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=4096.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:523][772]LogNet: Client netspeed is 100000
+[2026.05.12-09.50.32:523][772]LogNet: Join request: /Game/Daan/Main_Menu?Name=mickus-dickus-A8935EED2FB042088BA10CDA7B82917E?SplitscreenCount=1
+[2026.05.12-09.50.32:523][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=4096.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:524][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10240.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:526][772]LogNet: Join succeeded: mickus-dickus-A8935E
+[2026.05.12-09.50.32:526][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=87385.50Kb MemTypeIndex=1
+[2026.05.12-09.50.32:533][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=114688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:544][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:553][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:556][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:561][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=73984.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:567][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:567][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:567][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21847.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:567][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:568][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:569][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:569][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:570][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:572][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:572][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=32768.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:575][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:575][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:575][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:577][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:578][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:578][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:578][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:578][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:578][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:583][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:588][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:590][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:595][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:596][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:596][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:596][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:596][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:596][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21857.50Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:597][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21504.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:630][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:630][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:630][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=97792.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:649][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:649][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=24576.00Kb MemTypeIndex=1
+[2026.05.12-09.50.32:649][772]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=6144.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:416][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:417][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:418][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2016.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:443][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:444][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2048.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:450][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:473][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:473][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:475][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:475][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:475][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:475][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:475][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:475][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21857.50Kb MemTypeIndex=1
+[2026.05.12-09.50.33:475][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:475][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:475][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:475][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:475][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:475][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:475][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:476][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:476][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:476][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:476][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:478][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:478][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1344.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:483][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=65536.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:540][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:541][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:580][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:580][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:580][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:580][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:581][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:583][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:587][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2688.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:697][773]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8194.00Kb MemTypeIndex=1
+[2026.05.12-09.50.33:712][774]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.05.12-09.50.39:962][966]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.05.12-09.50.39:963][966]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.05.12-09.50.39:964][966]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1024.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:662][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.12-09.51.01:663][660]LogWorld: BeginTearingDown for /Game/Dev/Mick/UEDPIE_1_testing
+[2026.05.12-09.51.01:663][660]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.05.12-09.51.01:664][660]LogWorld: UWorld::CleanupWorld for testing, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-09.51.01:664][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-09.51.01:688][660]LogNet: World NetDriver shutdown IpNetDriver_29 [GameNetDriver]
+[2026.05.12-09.51.01:688][660]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_29 
+[2026.05.12-09.51.01:688][660]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_29, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:mickus-dickus-A8935EED2FB042088BA10CDA7B82917E, Channels: 10, Time: 2026.05.12-09.51.01
+[2026.05.12-09.51.01:688][660]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_29, IsServer: NO, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:mickus-dickus-A8935EED2FB042088BA10CDA7B82917E
+[2026.05.12-09.51.01:689][660]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_29 shut down
+[2026.05.12-09.51.01:689][660]LogWorld: BeginTearingDown for /Game/Dev/Mick/UEDPIE_0_testing
+[2026.05.12-09.51.01:690][660]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2026.05.12-09.51.01:690][660]LogWorld: UWorld::CleanupWorld for testing, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-09.51.01:691][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-09.51.01:691][660]LogNet: World NetDriver shutdown IpNetDriver_28 [GameNetDriver]
+[2026.05.12-09.51.01:691][660]LogNet: DestroyNamedNetDriver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28 
+[2026.05.12-09.51.01:691][660]LogNet: UNetConnection::SendCloseReason:
+[2026.05.12-09.51.01:691][660]LogNet:  - Result=HostClosedConnection, ErrorContext="HostClosedConnection"
+[2026.05.12-09.51.01:691][660]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:34211, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:mickus-dickus-A8935EED2FB042088BA10CDA7B82917E
+[2026.05.12-09.51.01:692][660]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:34211, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:mickus-dickus-A8935EED2FB042088BA10CDA7B82917E, Channels: 10, Time: 2026.05.12-09.51.01
+[2026.05.12-09.51.01:692][660]LogNet: UNetConnection::SendCloseReason:
+[2026.05.12-09.51.01:692][660]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2026.05.12-09.51.01:692][660]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:34211, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:mickus-dickus-A8935EED2FB042088BA10CDA7B82917E
+[2026.05.12-09.51.01:692][660]LogNet: UNetDriver::RemoveClientConnection - Removed address 127.0.0.1:34211 from MappedClientConnections for: [UNetConnection] RemoteAddr: 127.0.0.1:34211, Name: IpConnection_29, Driver: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28, IsServer: YES, PC: BP_ThirdPersonPlayerController_C_0, Owner: BP_ThirdPersonPlayerController_C_0, UniqueId: NULL:mickus-dickus-A8935EED2FB042088BA10CDA7B82917E
+[2026.05.12-09.51.01:692][660]LogExit: Name:GameNetDriver Def:GameNetDriver IpNetDriver_28 shut down
+[2026.05.12-09.51.01:693][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.12-09.51.01:708][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-09.51.01:752][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.12-09.51.01:752][660]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.05.12-09.51.01:758][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.05.12-09.51.01:823][661]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.05.12-09.51.01:823][661]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.05.12-09.51.01:829][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:829][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1728.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:829][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:829][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=2016.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:830][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:830][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1367.50Kb MemTypeIndex=1
+[2026.05.12-09.51.01:834][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1344.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=8192.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=1344.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21504.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=5376.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:835][661]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=97792.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:852][662]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:852][662]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=24576.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:852][662]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=6144.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:853][662]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=24448.00Kb MemTypeIndex=1
+[2026.05.12-09.51.01:874][663]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=87385.50Kb MemTypeIndex=1
+[2026.05.12-09.51.02:086][663]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=6144.00Kb MemTypeIndex=1
+[2026.05.12-09.51.02:311][663]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=24448.00Kb MemTypeIndex=1
+[2026.05.12-09.51.08:013][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.12-09.51.08:044][758]LogFileHelpers: Saving Package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.05.12-09.51.08:047][758]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.05.12-09.51.08:048][758]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=87385.50Kb MemTypeIndex=1
+[2026.05.12-09.51.08:210][758]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.05.12-09.51.08:210][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.05.12-09.51.08:255][758]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.05.12-09.51.08:255][758]LogSavePackage: Moving '../../../../../home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Saved/BP_ThirdPersonCharacterCC191FC4CF19467DA07D4726F55E8707.tmp' to '../../../../../home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.05.12-09.51.08:278][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 264.703 ms (total: 1.50 sec)
+[2026.05.12-09.51.08:317][758]LogContentValidation: Enabled validators:
+[2026.05.12-09.51.08:317][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.12-09.51.08:317][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.12-09.51.08:317][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.12-09.51.08:317][758]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.12-09.51.08:317][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.12-09.51.08:317][758]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.12-09.51.08:317][758]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.05.12-09.51.08:317][758]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.05.12-09.51.08:318][758]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.05.12-09.51.08:318][758]LogContentValidation: Validated asset counts for 1 validators:
+[2026.05.12-09.51.08:318][758]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.05.12-09.51.08:364][759]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.51.08:370][759]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.08:370][759]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21857.50Kb MemTypeIndex=1
+[2026.05.12-09.51.08:370][759]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=6144.00Kb MemTypeIndex=1
+[2026.05.12-09.51.08:371][760]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=24448.00Kb MemTypeIndex=1
+[2026.05.12-09.51.14:410][777]LogSlate: Window 'Message' being destroyed
+[2026.05.12-09.51.14:438][777]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/InterchangeAssets/Materials/FBXLegacyPhongSurfaceMaterial.FBXLegacyPhongSurfaceMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2026.05.12-09.51.14:799][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.05.12-09.51.14:977][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.05.12-09.51.15:028][777]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2026.05.12-09.51.15:050][777]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2026.05.12-09.51.15:091][777]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-09.51.15:091][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-09.51.15:146][777]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-09.51.15:146][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-09.51.15:200][777]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-09.51.15:200][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-09.51.15:242][777]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-09.51.15:242][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-09.51.15:265][777]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.05.12-09.51.15:265][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.12-09.51.15:335][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.05.12-09.51.15:378][778]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.51.15:380][778]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.15:380][778]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=16384.00Kb MemTypeIndex=1
+[2026.05.12-09.51.15:380][778]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.15:380][778]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=21857.50Kb MemTypeIndex=1
+[2026.05.12-09.51.15:380][778]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.15:381][778]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.15:381][778]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.15:381][778]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=131072.00Kb MemTypeIndex=1
+[2026.05.12-09.51.15:381][778]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=10688.00Kb MemTypeIndex=1
+[2026.05.12-09.51.15:382][778]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=6144.00Kb MemTypeIndex=1
+[2026.05.12-09.51.15:383][778]LogVulkanRHI: Warning: Failed to allocate Device Memory, Requested=24448.00Kb MemTypeIndex=1
+[2026.05.12-09.51.16:469][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.05.12-09.51.17:711][809]LogSlate: Window 'Save Content' being destroyed
+[2026.05.12-09.51.21:517][809]LogSlate: Window 'Check Out Assets' being destroyed
+[2026.05.12-09.51.22:685][809]LogSlate: Window 'Unable to make assets writable' being destroyed
+[2026.05.12-09.51.22:710][809]Message dialog closed, result: Ok, title: Unable to make assets writable, text: The following assets could not be made writable:
+/InterchangeAssets/Materials/FBXLegacyPhongSurfaceMaterial
