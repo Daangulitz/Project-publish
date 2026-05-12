@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/Dev/Mick/testing.umap",
 				"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/Artists/Damon/Map_blocks/Test_map.uasset",
 				"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/ThirdPerson/BP_ThirdPersonCharacter.uasset",
@@ -16,6 +17,8 @@
 				"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/Artists/Damon/Map_blocks/Bowloutbase.uasset",
 				"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/Artists/Damon/Map_blocks/Bowloutnrm.uasset",
 				"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/Artists/Damon/Map_blocks/Bowloutrough.uasset",
+=======
+>>>>>>> origin/main
 				"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/Artists/Damon/Map_blocks/BowlFloorOUT_034.uasset",
 				"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/Artists/Damon/Map_blocks/BowlFloorOUT_033.uasset",
 				"/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/Artists/Damon/Map_blocks/BowlFloorOUT_032.uasset",
