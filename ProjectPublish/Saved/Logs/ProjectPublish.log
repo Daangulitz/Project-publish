@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 05/12/26 15:38:45
+=======
+﻿Log file open, 05/12/26 10:48:25
+>>>>>>> parent of 7b7cf7f (push voor merge)
 =======
 ﻿Log file open, 05/12/26 10:48:25
 >>>>>>> parent of 7b7cf7f (push voor merge)
@@ -1603,6 +1607,7 @@ Script Stack (0 frames) :
 [2026.05.12-08.48.40:254][  0]LogPython: Display: Running start-up script /opt/unreal-engine/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
 [2026.05.12-08.48.40:270][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2026.05.12-13.39.07:238][  0]LogPython: Display: Running start-up script /opt/unreal-engine/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 32.408 ms (total: 78.864 ms)
 [2026.05.12-13.39.07:495][  1]LogFileCache: Retrieving MD5 hashes for directory '/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/' took 0.84s
@@ -18275,6 +18280,8 @@ The asset is referenced by other content.
 >>>>>>> origin/main
 >>>>>>> origin/main
 =======
+=======
+>>>>>>> parent of 7b7cf7f (push voor merge)
 [2026.05.12-08.48.40:279][  0]LogPython: Display: Running start-up script /opt/unreal-engine/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 25.087 ms (total: 68.072 ms)
 [2026.05.12-08.48.40:517][  1]LogFileCache: Retrieving MD5 hashes for directory '/home/mick/Documents/Unreal Projects/Project-publish/ProjectPublish/Content/' took 0.69s
 [2026.05.12-08.48.40:523][  1]LogAssetRegistry: AssetRegistryGather time 0.0927s: AssetDataDiscovery 0.0259s, AssetDataGather 0.0275s, StoreResults 0.0394s. Wall time 10.0660s.
@@ -22975,4 +22982,7 @@ Bindless Samplers: 4
 [2026.05.12-09.51.22:685][809]LogSlate: Window 'Unable to make assets writable' being destroyed
 [2026.05.12-09.51.22:710][809]Message dialog closed, result: Ok, title: Unable to make assets writable, text: The following assets could not be made writable:
 /InterchangeAssets/Materials/FBXLegacyPhongSurfaceMaterial
+<<<<<<< HEAD
+>>>>>>> parent of 7b7cf7f (push voor merge)
+=======
 >>>>>>> parent of 7b7cf7f (push voor merge)
