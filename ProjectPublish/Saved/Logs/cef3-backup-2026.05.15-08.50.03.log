@@ -1,0 +1,18 @@
+[9997:9997:0515/103438.923252:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9997:9997:0515/103439.097619:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.isEnabled: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[9997:9997:0515/103439.097672:ERROR:kwallet_dbus.cc(112)] Error contacting kwalletd6 (isEnabled)
+[9997:9997:0515/103439.097756:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KLauncher.start_service_by_desktop_name: object_path= /KLauncher: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[9997:9997:0515/103439.097770:ERROR:kwallet_dbus.cc(81)] Error contacting klauncher to start kwalletd6
+[9997:9997:0515/103439.097781:WARNING:key_storage_linux.cc(191)] OSCrypt tried KWallet but couldn't initialise.
+[9997:9997:0515/103439.183457:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.close: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[9997:9997:0515/103439.183489:ERROR:kwallet_dbus.cc(502)] Error contacting kwalletd6 (close)
+[9997:9997:0515/103439.188726:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9997:10232:0515/103449.325671:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9997:10232:0515/103532.076343:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9997:10232:0515/103629.302052:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9997:10232:0515/103731.955395:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9997:10232:0515/103831.624046:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9997:10232:0515/103917.285155:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9997:10232:0515/104001.952637:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9997:10232:0515/104132.141241:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[9997:9997:0515/105003.054430:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
