@@ -1,0 +1,15 @@
+[15249:15249:0515/105147.150840:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15249:15249:0515/105147.339885:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.isEnabled: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[15249:15249:0515/105147.339922:ERROR:kwallet_dbus.cc(112)] Error contacting kwalletd6 (isEnabled)
+[15249:15249:0515/105147.340007:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KLauncher.start_service_by_desktop_name: object_path= /KLauncher: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[15249:15249:0515/105147.340032:ERROR:kwallet_dbus.cc(81)] Error contacting klauncher to start kwalletd6
+[15249:15249:0515/105147.340047:WARNING:key_storage_linux.cc(191)] OSCrypt tried KWallet but couldn't initialise.
+[15249:15249:0515/105147.423976:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.close: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[15249:15249:0515/105147.424012:ERROR:kwallet_dbus.cc(502)] Error contacting kwalletd6 (close)
+[15249:15249:0515/105147.429517:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15249:15539:0515/105150.760186:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15249:15539:0515/110147.634033:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15249:15539:0515/110232.286514:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15249:15539:0515/110322.396391:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15249:15539:0515/111502.276122:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[15249:15249:0515/111510.244168:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

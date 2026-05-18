@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\plugins\\simplenetworkfunctions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simplenetworkfunctions\\module.simplenetworkfunctions.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\intermediate\\build\\win64\\x64\\projectpublisheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\plugins\\simplenetworkfunctions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simplenetworkfunctions\\definitions.simplenetworkfunctions.h",
+            "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\plugins\\simplenetworkfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\simplenetworkfunctions\\uht\\mynetworkfunctions.gen.cpp",
+            "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\plugins\\simplenetworkfunctions\\source\\simplenetworkfunctions\\public\\mynetworkfunctions.h",
+            "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\plugins\\simplenetworkfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\simplenetworkfunctions\\uht\\mynetworkfunctions.generated.h",
+            "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\plugins\\simplenetworkfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\simplenetworkfunctions\\uht\\simplenetworkfunctions.init.gen.cpp",
+            "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\plugins\\simplenetworkfunctions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simplenetworkfunctions\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\plugins\\simplenetworkfunctions\\source\\simplenetworkfunctions\\private\\mynetworkfunctions.cpp",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\sockets\\public\\sockets.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\sockets\\public\\socketsubsystem.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\sockets\\public\\addressinfotypes.h",
+            "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\plugins\\simplenetworkfunctions\\source\\simplenetworkfunctions\\private\\simplenetworkfunctions.cpp",
+            "c:\\users\\caspe\\documents\\github\\project-publish\\projectpublish\\plugins\\simplenetworkfunctions\\source\\simplenetworkfunctions\\public\\simplenetworkfunctions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
