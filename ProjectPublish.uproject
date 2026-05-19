@@ -22,6 +22,14 @@
 		{
 			"Name": "WebSocketNetworking",
 			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemEOS",
+			"Enabled": true
+		},
+		{
+			"Name": "Nakama",
+			"Enabled": true
 		}
 	]
 }
