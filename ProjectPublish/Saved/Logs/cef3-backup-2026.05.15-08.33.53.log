@@ -1,0 +1,17 @@
+[6522:6522:0515/102236.085072:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6522:6522:0515/102236.276174:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.isEnabled: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[6522:6522:0515/102236.276241:ERROR:kwallet_dbus.cc(112)] Error contacting kwalletd6 (isEnabled)
+[6522:6522:0515/102236.276326:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KLauncher.start_service_by_desktop_name: object_path= /KLauncher: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[6522:6522:0515/102236.276334:ERROR:kwallet_dbus.cc(81)] Error contacting klauncher to start kwalletd6
+[6522:6522:0515/102236.276342:WARNING:key_storage_linux.cc(191)] OSCrypt tried KWallet but couldn't initialise.
+[6522:6522:0515/102236.370613:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.close: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[6522:6522:0515/102236.370641:ERROR:kwallet_dbus.cc(502)] Error contacting kwalletd6 (close)
+[6522:6522:0515/102236.377986:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6522:6789:0515/102239.596264:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6522:6789:0515/102831.479304:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6522:6789:0515/102917.744420:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6522:6789:0515/103002.850808:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6522:6789:0515/103128.973215:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6522:6789:0515/103231.639500:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6522:6789:0515/103331.335970:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6522:6522:0515/103353.091536:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

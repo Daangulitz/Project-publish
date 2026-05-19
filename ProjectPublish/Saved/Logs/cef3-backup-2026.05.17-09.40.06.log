@@ -1,0 +1,17 @@
+[2525:2525:0517/113945.569841:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2525:2525:0517/113945.706992:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.isEnabled: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[2525:2525:0517/113945.707036:ERROR:kwallet_dbus.cc(112)] Error contacting kwalletd6 (isEnabled)
+[2525:2525:0517/113945.707117:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KLauncher.start_service_by_desktop_name: object_path= /KLauncher: org.freedesktop.DBus.Error.ServiceUnknown: The name is not activatable
+[2525:2525:0517/113945.707131:ERROR:kwallet_dbus.cc(81)] Error contacting klauncher to start kwalletd6
+[2525:2525:0517/113945.707142:WARNING:key_storage_linux.cc(191)] OSCrypt tried KWallet but couldn't initialise.
+[2525:2525:0517/113945.792725:ERROR:object_proxy.cc(576)] Failed to call method: org.kde.KWallet.close: object_path= /modules/kwalletd6: org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.kde.kwalletd6': unit failed
+[2525:2525:0517/113945.792752:ERROR:kwallet_dbus.cc(502)] Error contacting kwalletd6 (close)
+[2525:2525:0517/113945.797947:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[2525:2756:0517/113947.870293:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[2525:2525:0517/113947.917136:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[2525:2525:0517/113947.917224:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[2525:2525:0517/113947.917245:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[2525:2525:0517/113947.917258:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[2525:2756:0517/113947.918704:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[2525:2756:0517/113948.957248:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[2525:2525:0517/114006.147472:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

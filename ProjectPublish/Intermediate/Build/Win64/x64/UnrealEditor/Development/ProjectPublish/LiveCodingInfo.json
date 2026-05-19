@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ProjectPublish.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"ProjectPublish.cpp.obj"
+		]
+	}
+}
