@@ -1,33 +1,33 @@
 {
-    "FileVersion" : 3,
- 
-    "FriendlyName" : "Advanced Steam Sessions",
-    "Version" : 5.7,
-    "VersionName": "5.7",
-    "Description" : "Adds new blueprint functions to handle more advanced session operations in Steam. REQUIRES ADVANCED SESSIONS",
-    "Category" : "Advanced Sessions Plugin",
-    "CreatedBy" : "Joshua Statzer",
-    "CreatedByURL" : "N/A",
- 
-    "Modules" :
-    [
-			{
-				"Name": "AdvancedSteamSessions",
-				"Type": "RunTime",
-				"LoadingPhase": "PostDefault"
-			} 
-    ],
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Advanced Steam Sessions",
+	"Description": "Adds advanced steam functionality to the session nodes.",
+	"Category": "Networking",
+	"CreatedBy": "OatmealDome / Joshua Garrison",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AdvancedSteamSessions",
+			"Type": "Runtime",
+			"LoadingPhase": "PostDefault",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux"
+			]
+		}
+	],
 	"Plugins": [
 		{
-			"Name": "AdvancedSessions",
-			"Enabled": true
-		},
-		{
 			"Name": "OnlineSubsystem",
-			"Enabled": true
-		},
-		{
-			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		},
 		{
@@ -35,7 +35,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SteamShared",
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSessions",
 			"Enabled": true
 		}
 	]
