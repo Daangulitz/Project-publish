@@ -1,0 +1,20 @@
+[19364:36384:0423/134835.986:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19364:46032:0423/134836.254:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19364:36384:0423/134836.402:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19364:41796:0423/134841.917:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19364:41796:0423/134841.921:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19364:41796:0423/134841.923:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19364:41796:0423/134841.926:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\damon\OneDrive\Documenten\Now you Dye\ProjectPublish\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19364:22648:0423/134846.557:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19364:22648:0423/134846.558:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19364:36384:0423/134847.544:ERROR:device_event_log_impl.cc(196)] [13:48:46.885] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[42344:43504:0423/134847.551:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E843B5031CEF8D3AD71D6FFB77E98F26 will be ignored
+[19364:36384:0423/180405.340:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19364:46032:0423/180408.913:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[18668:39256:0423/180408.920:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[19364:36384:0423/180411.820:ERROR:device_event_log_impl.cc(196)] [18:04:11.534] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19364:8024:0423/180419.662:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19364:8024:0423/180420.081:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19364:36384:0423/180831.123:ERROR:device_event_log_impl.cc(196)] [18:08:30.905] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19364:36384:0423/180831.124:ERROR:device_event_log_impl.cc(196)] [18:08:30.933] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[19364:36384:0423/182807.517:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
