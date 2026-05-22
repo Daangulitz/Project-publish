@@ -24,7 +24,15 @@
 			"Enabled": true
 		},
 		{
+<<<<<<<< HEAD:ProjectPublish/ProjectPublish.uproject
 			"Name": "MovieRenderPipeline",
+========
+			"Name": "OnlineSubsystemEOS",
+			"Enabled": true
+		},
+		{
+			"Name": "Nakama",
+>>>>>>>> origin/mick-branch:ProjectPublish.uproject
 			"Enabled": true
 		}
 	]
