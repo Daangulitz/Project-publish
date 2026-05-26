@@ -1,0 +1,879 @@
+{
+	"folders": [
+		{
+			"name": "ProjectPublish",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"npm.autoDetect": "off",
+		"terminal.integrated.env.linux": {
+			"PATH": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Binaries/ThirdParty/DotNet/8.0.412/linux-x64:${env:PATH}",
+			"DOTNET_ROOT": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Binaries/ThirdParty/DotNet/8.0.412/linux-x64",
+			"DOTNET_HOST_PATH": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Binaries/ThirdParty/DotNet/8.0.412/linux-x64/dotnet",
+			"DOTNET_MULTILEVEL_LOOKUP": "0",
+			"DOTNET_ROLL_FORWARD": "LatestMajor"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	},
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"label": "ProjectPublish Linux Debug Build",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"Debug",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux Debug Rebuild",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"Debug",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"ProjectPublish Linux Debug Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux Debug Clean",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"Debug",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex",
+					"-clean"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux DebugGame Build",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"DebugGame",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux DebugGame Rebuild",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"DebugGame",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"ProjectPublish Linux DebugGame Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux DebugGame Clean",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"DebugGame",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex",
+					"-clean"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux Development Build",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"Development",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux Development Rebuild",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"Development",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"ProjectPublish Linux Development Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux Development Clean",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"Development",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex",
+					"-clean"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux Test Build",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"Test",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux Test Rebuild",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"Test",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"ProjectPublish Linux Test Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux Test Clean",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"Test",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex",
+					"-clean"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux Shipping Build",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"Shipping",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux Shipping Rebuild",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"Shipping",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"ProjectPublish Linux Shipping Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish Linux Shipping Clean",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"Linux",
+					"Shipping",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex",
+					"-clean"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 Debug Build",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"Debug",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 Debug Rebuild",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"Debug",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"ProjectPublish LinuxArm64 Debug Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 Debug Clean",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"Debug",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex",
+					"-clean"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 DebugGame Build",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"DebugGame",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 DebugGame Rebuild",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"DebugGame",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"ProjectPublish LinuxArm64 DebugGame Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 DebugGame Clean",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"DebugGame",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex",
+					"-clean"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 Development Build",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"Development",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 Development Rebuild",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"Development",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"ProjectPublish LinuxArm64 Development Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 Development Clean",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"Development",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex",
+					"-clean"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 Test Build",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"Test",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 Test Rebuild",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"Test",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"ProjectPublish LinuxArm64 Test Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 Test Clean",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"Test",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex",
+					"-clean"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 Shipping Build",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"Shipping",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 Shipping Rebuild",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"Shipping",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"ProjectPublish LinuxArm64 Shipping Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublish LinuxArm64 Shipping Clean",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublish",
+					"LinuxArm64",
+					"Shipping",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex",
+					"-clean"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublishEditor Linux Debug Build",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublishEditor",
+					"Linux",
+					"Debug",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublishEditor Linux Debug Rebuild",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublishEditor",
+					"Linux",
+					"Debug",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"ProjectPublishEditor Linux Debug Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublishEditor Linux Debug Clean",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublishEditor",
+					"Linux",
+					"Debug",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex",
+					"-clean"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublishEditor Linux DebugGame Build",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublishEditor",
+					"Linux",
+					"DebugGame",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublishEditor Linux DebugGame Rebuild",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublishEditor",
+					"Linux",
+					"DebugGame",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"ProjectPublishEditor Linux DebugGame Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublishEditor Linux DebugGame Clean",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublishEditor",
+					"Linux",
+					"DebugGame",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex",
+					"-clean"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublishEditor Linux Development Build",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublishEditor",
+					"Linux",
+					"Development",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublishEditor Linux Development Rebuild",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublishEditor",
+					"Linux",
+					"Development",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"ProjectPublishEditor Linux Development Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			},
+			{
+				"label": "ProjectPublishEditor Linux Development Clean",
+				"group": "build",
+				"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+				"args": [
+					"ProjectPublishEditor",
+					"Linux",
+					"Development",
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-waitmutex",
+					"-clean"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+				}
+			}
+		]
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Launch ProjectPublish (Debug)",
+				"request": "launch",
+				"program": "/home/daantje/Documents/SchoolProjecten/Project-publish/Binaries/Linux/UnrealGame-Linux-Debug",
+				"preLaunchTask": "ProjectPublish Linux Debug Build",
+				"args": [
+				],
+				"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4",
+				"type": "cppdbg",
+				"visualizerFile": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"showDisplayString": true
+			},
+			{
+				"name": "Launch ProjectPublish (DebugGame)",
+				"request": "launch",
+				"program": "/home/daantje/Documents/SchoolProjecten/Project-publish/Binaries/Linux/UnrealGame-Linux-DebugGame",
+				"preLaunchTask": "ProjectPublish Linux DebugGame Build",
+				"args": [
+				],
+				"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4",
+				"type": "cppdbg",
+				"visualizerFile": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"showDisplayString": true
+			},
+			{
+				"name": "Launch ProjectPublish (Development)",
+				"request": "launch",
+				"program": "/home/daantje/Documents/SchoolProjecten/Project-publish/Binaries/Linux/UnrealGame",
+				"preLaunchTask": "ProjectPublish Linux Development Build",
+				"args": [
+				],
+				"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4",
+				"type": "cppdbg",
+				"visualizerFile": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"showDisplayString": true
+			},
+			{
+				"name": "Launch ProjectPublish (Test)",
+				"request": "launch",
+				"program": "/home/daantje/Documents/SchoolProjecten/Project-publish/Binaries/Linux/UnrealGame-Linux-Test",
+				"preLaunchTask": "ProjectPublish Linux Test Build",
+				"args": [
+				],
+				"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4",
+				"type": "cppdbg",
+				"visualizerFile": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"showDisplayString": true
+			},
+			{
+				"name": "Launch ProjectPublish (Shipping)",
+				"request": "launch",
+				"program": "/home/daantje/Documents/SchoolProjecten/Project-publish/Binaries/Linux/UnrealGame-Linux-Shipping",
+				"preLaunchTask": "ProjectPublish Linux Shipping Build",
+				"args": [
+				],
+				"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4",
+				"type": "cppdbg",
+				"visualizerFile": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"showDisplayString": true
+			},
+			{
+				"name": "Launch ProjectPublishEditor (Debug)",
+				"request": "launch",
+				"program": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Binaries/Linux/UnrealEditor-Linux-Debug",
+				"preLaunchTask": "ProjectPublishEditor Linux Debug Build",
+				"args": [
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject"
+				],
+				"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4",
+				"type": "cppdbg",
+				"visualizerFile": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"showDisplayString": true
+			},
+			{
+				"name": "Launch ProjectPublishEditor (DebugGame)",
+				"request": "launch",
+				"program": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Binaries/Linux/UnrealEditor-Linux-DebugGame",
+				"preLaunchTask": "ProjectPublishEditor Linux DebugGame Build",
+				"args": [
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject"
+				],
+				"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4",
+				"type": "cppdbg",
+				"visualizerFile": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"showDisplayString": true
+			},
+			{
+				"name": "Launch ProjectPublishEditor (Development)",
+				"request": "launch",
+				"program": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Binaries/Linux/UnrealEditor",
+				"preLaunchTask": "ProjectPublishEditor Linux Development Build",
+				"args": [
+					"/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject"
+				],
+				"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4",
+				"type": "cppdbg",
+				"visualizerFile": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"showDisplayString": true
+			},
+			{
+				"name": "Generate Project Files",
+				"type": "coreclr",
+				"request": "launch",
+				"preLaunchTask": "UnrealBuildTool Linux Development Build",
+				"program": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Build/BatchFiles/RunUBT.bat",
+				"args": [
+					"-projectfiles",
+					"-vscode",
+					"-project=/home/daantje/Documents/SchoolProjecten/Project-publish/ProjectPublish.uproject",
+					"-game",
+					"-engine",
+					"-dotnet"
+				],
+				"env": {
+					"PATH": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Binaries/ThirdParty/DotNet/8.0.412/linux-x64:${env:PATH}",
+					"DOTNET_ROOT": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Binaries/ThirdParty/DotNet/8.0.412/linux-x64",
+					"DOTNET_HOST_PATH": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4/Engine/Binaries/ThirdParty/DotNet/8.0.412/linux-x64/dotnet",
+					"DOTNET_MULTILEVEL_LOOKUP": "0",
+					"DOTNET_ROLL_FORWARD": "LatestMajor"
+				},
+				"console": "internalConsole",
+				"internalConsoleOptions": "openOnSessionStart",
+				"stopAtEntry": false,
+				"cwd": "/home/daantje/Downloads/Linux_Unreal_Engine_5.7.4"
+			}
+		]
+	}
+}

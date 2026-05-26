@@ -1,0 +1,14 @@
+/.git
+/ProjectPublish
+/Content
+/Intermediate
+/Saved
+/DerivedDataCache
+/.vscode
+/Plugins/AdvancedSessions/Intermediate
+/Plugins/EOSIntegrationKit-main/.claude
+/Plugins/EOSIntegrationKit-main/.github
+/Plugins/EOSIntegrationKit-main/Intermediate
+/Plugins/VisualStudioTools/Docs
+/Plugins/VisualStudioTools/Scripts
+/Plugins/VisualStudioTools/azure-pipelines
