@@ -24,11 +24,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OnlineSubsystemEOS",
-			"Enabled": true
-		},
-		{
-			"Name": "Nakama",
+			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		}
 	]
