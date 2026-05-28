@@ -73,8 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/Artists/Damon/Materials/Curvature.uasset
-Content/Artists/Damon/UI_Stuff
 Content/__ExternalActors__/Dev/Casper/CharacterSelect/0
 Content/__ExternalActors__/Dev/Casper/CharacterSelect
 Content/__ExternalObjects__
