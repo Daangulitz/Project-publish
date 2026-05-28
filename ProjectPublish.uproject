@@ -52,8 +52,12 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SimpleNetworkFunctions",
+			"Name": "AdvancedSessions",
 			"Enabled": false
+		},
+		{
+			"Name": "SocketSubsystemEOS",
+			"Enabled": true
 		}
 	]
 }
